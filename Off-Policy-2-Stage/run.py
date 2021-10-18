@@ -374,7 +374,7 @@ if __name__ == "__main__":
 
     print("-----------------------------------------------------")
     print("ALGORITHMS EVALUATION", "\n", "with loss type: " + args.loss_type)
-    for epoch in range(1):
+    for epoch in range(20):
         print("\n", "---epoch {}---".format(epoch))
         for step in range(len(u) // batch_size):
             item_ids = torch.LongTensor(
