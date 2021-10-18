@@ -337,12 +337,10 @@ if __name__ == "__main__":
         ranker.to(device)
 
 
-
-
     ####################################################################################
-    # RUN ALGORITHMS EVALUATION
+    # RUN ALGORITHMS EVALUATION (for only one learning method)
+    # Cross Entropy, 1-IPS, 2-IPS
     ####################################################################################
-
     u = u[r > 0]
     a = a[r > 0]
     p = p[r > 0]
@@ -450,6 +448,8 @@ if __name__ == "__main__":
     print("Best test results\n 1 stage: {}\n 2 stage: {}".format(
         test_results[best_epoch][0], test_results[best_epoch][1]))
 
+    '''
     pickle.dump((best_epoch, val_results, test_results),
                 open("results/{}-a{}_{}.pkl".format(
                     args.loss_type.split("_")[1], args.alpha, args.seed), "wb"))
+    '''
