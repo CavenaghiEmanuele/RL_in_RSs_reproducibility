@@ -220,7 +220,8 @@ class SyntheticMovieLensDataset(Dataset):
             os.path.join(filepath, "movies.dat"),
             sep="::",
             names=names,
-            engine="python")
+            engine="python",
+            encoding='latin-1')
         movies["Year"] = movies["Title"].apply(lambda x: x[-5:-1])
         for genre in Genres:
             movies[genre] = movies["Genres"].apply(lambda x: genre in x)
