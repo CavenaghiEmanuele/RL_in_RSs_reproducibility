@@ -372,8 +372,10 @@ if __name__ == "__main__":
             ranker_logits = ranker(all_user_feats, all_item_feats,
                                 all_impression_feats)
 
-    for epoch in range(20):
-        print("---epoch {}---".format(epoch))
+    print("-----------------------------------------------------")
+    print("ALGORITHMS EVALUATION", "\n", "with loss type: " + args.loss_type)
+    for epoch in range(1):
+        print("\n", "---epoch {}---".format(epoch))
         for step in range(len(u) // batch_size):
             item_ids = torch.LongTensor(
                 a[step * batch_size:(step + 1) * batch_size]).to(device)
