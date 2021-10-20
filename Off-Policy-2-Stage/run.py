@@ -5,6 +5,7 @@ import numpy as np
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+from torch.nn.modules.activation import PReLU
 from data import MovieLensDataset, SyntheticMovieLensDataset
 from loss import loss_2s, loss_ce, loss_ips
 from metric import Evaluator
@@ -358,6 +359,7 @@ if __name__ == "__main__":
         nominator.parameters(), lr=args.lr, weight_decay=1e-4)
 
     rs = np.random.RandomState(0)
+    # Say to the pytorch neural network that the following is a TRAINING phase
     nominator.train()
 
     # Init results.
@@ -377,6 +379,8 @@ if __name__ == "__main__":
     for epoch in range(20):
         print("\n", "---epoch {}---".format(epoch))
         for step in range(len(u) // batch_size):
+
+            # DATA TO USE #####################
             item_ids = torch.LongTensor(
                 a[step * batch_size:(step + 1) * batch_size]).to(device)
             item_probs = torch.FloatTensor(
@@ -388,6 +392,7 @@ if __name__ == "__main__":
                 for key, value in syn.user_feats.items()
             }
             user_feats = syn.to_device(user_feats)
+            ####################################
 
             logits = nominator(user_feats, val_item_feats)
 
@@ -414,6 +419,7 @@ if __name__ == "__main__":
             opt.step()
 
         with torch.no_grad():
+            # Say to the pytorch neural network that the following is a EVALUATION phase
             nominator.eval()
 
             logits = nominator(all_user_feats, all_item_feats)
