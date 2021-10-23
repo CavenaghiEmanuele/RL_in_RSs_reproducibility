@@ -1,10 +1,17 @@
 # Manually added
 *.pdf
+*.zip
+*.pdf
+*.pkl
+*.csv
+
+ml-20m/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
 
 # C extensions
 *.so
