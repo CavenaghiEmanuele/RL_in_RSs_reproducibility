@@ -11,7 +11,7 @@
 
 import numpy as np
 import ipdb
-from env import env
+import env
 from utils.data_structure import type_memory
 import os
 from .mcts import MCTS
