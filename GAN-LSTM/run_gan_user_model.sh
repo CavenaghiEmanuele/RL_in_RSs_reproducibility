@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
-dropbox=../../dropbox
+dropbox=./dropbox
 data_dir=$dropbox/
 
 user_model=LSTM
-dataset=yelp
+dataset=tb
 
 subdir=model-${user_model}-dataset-${dataset}
 save_dir=scratch/$subdir
