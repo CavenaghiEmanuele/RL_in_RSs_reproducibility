@@ -4,6 +4,7 @@
 *.pdf
 *.pkl
 *.csv
+*.txt
 
 ml-20m/
 
