@@ -113,7 +113,7 @@ def main():
     parser.add_argument('--dataset', type=str, default=BEAUTY, help='One of {beauty, cd, cell, clothing}.')
     parser.add_argument('--name', type=str, default='train_transe_model', help='model name.')
     parser.add_argument('--seed', type=int, default=123, help='random seed.')
-    parser.add_argument('--gpu', type=str, default='1', help='gpu device.')
+    parser.add_argument('--gpu', type=str, default='0', help='gpu device.')
     parser.add_argument('--epochs', type=int, default=30, help='number of epochs to train.')
     parser.add_argument('--batch_size', type=int, default=64, help='batch size.')
     parser.add_argument('--lr', type=float, default=0.5, help='learning rate.')
@@ -127,7 +127,7 @@ def main():
 
     os.environ['CUDA_VISIBLE_DEVICES'] = args.gpu
     args.device = torch.device('cuda:0') if torch.cuda.is_available() else 'cpu'
-
+    
     args.log_dir = '{}/{}'.format(TMP_DIR[args.dataset], args.name)
     if not os.path.isdir(args.log_dir):
         os.makedirs(args.log_dir)
