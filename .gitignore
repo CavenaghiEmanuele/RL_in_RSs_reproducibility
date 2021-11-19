@@ -7,6 +7,7 @@
 *.txt
 
 ml-20m/
+scratch/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
