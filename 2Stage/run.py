@@ -55,7 +55,7 @@ if __name__ == "__main__":
     parser.add_argument("--seed", type=int, default=0, help="Random seed.")
     parser.add_argument("--loss_type", default="loss_ce")
     parser.add_argument("--device", default="cuda:0")
-    parser.add_argument("--alpha", type=float, default=1e-3, help="Loss ratio.")
+    parser.add_argument("--alpha", type=float, default=1e-2, help="Loss ratio.")
     parser.add_argument("--lr", type=float, default=0.05, help="Learning rate.")
     args = parser.parse_args()
 
