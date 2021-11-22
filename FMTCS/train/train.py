@@ -11,7 +11,7 @@
 
 import numpy as np
 import ipdb
-import env
+from .env import env
 from utils.data_structure import type_memory
 import os
 from .mcts import MCTS
@@ -26,8 +26,7 @@ def collecting_training_samples(config,mcts,env,temp):
     reward = 0
     data = []
     while not terminal:
-        act,acts,act_probs = mcts.get_action(cp.deepcopy(env),
-                                             temp,training=True)
+        act,acts,act_probs = mcts.get_action(cp.deepcopy(env), temp,training=True)
         temp = [env.uid,env.profile,cp.deepcopy(env.trajectory),cp.deepcopy(env.cat_trajectory),env.node_type]
         candidate,node_type,reward,terminal = env.step(act)
         temp.extend([act,acts,act_probs,reward])
