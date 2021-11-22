@@ -16,8 +16,11 @@ import utils
 import os
 import time
 from train import run_all,evaluate
+import tensorflow as tf
+
 
 if __name__ == '__main__':
+    tf.logging.set_verbosity(tf.logging.ERROR)
     np.random.seed(int(time.time()))
     config = parse_arguments()
     config = initialize(config)
