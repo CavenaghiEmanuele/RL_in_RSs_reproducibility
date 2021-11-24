@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "train_transe_model.py", line 7, in <module>
+    import numpy as np
+ImportError: No module named numpy
+srun: error: gpu03: task 0: Exited with exit code 1
