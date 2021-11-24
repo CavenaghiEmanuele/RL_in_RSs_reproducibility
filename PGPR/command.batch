@@ -1,4 +1,4 @@
 #!/bin/sh
-#SBATCH --job-name rl_rs_survey
+#SBATCH --job-name PGPR
 
 srun python train_transe_model.py --dataset beauty
