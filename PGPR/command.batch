@@ -1,4 +1,4 @@
 #!/bin/sh
-#SBATCH --time=1
+#SBATCH --time=100
 
 srun python train_transe_model.py --dataset beauty
