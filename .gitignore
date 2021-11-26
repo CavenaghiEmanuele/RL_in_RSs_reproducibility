@@ -5,6 +5,7 @@
 *.pkl
 *.csv
 *.txt
+.*
 
 ml-20m/
 ml-10m/
