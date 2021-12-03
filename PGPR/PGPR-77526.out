@@ -1,0 +1,426 @@
+Thu Dec  2 14:32:26 2021       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 470.42.01    Driver Version: 470.42.01    CUDA Version: 11.4     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla V100-PCIE...  Off  | 00000000:AF:00.0 Off |                    0 |
+| N/A   39C    P0    36W / 250W |      0MiB / 32510MiB |      2%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+[INFO]  Namespace(dataset='beauty', name='train_agent', seed=123, gpu='0', epochs=50, batch_size=32, lr=0.0001, max_acts=250, max_path_len=3, gamma=0.99, ent_weight=0.001, act_dropout=0.5, state_history=1, hidden=[512, 256], device=device(type='cuda', index=0), log_dir='./tmp/Amazon_Beauty/train_agent')
+Load embedding: ./tmp/Amazon_Beauty/transe_embed.pkl
+[INFO]  Parameters:['l1.weight', 'l1.bias', 'l2.weight', 'l2.bias', 'actor.weight', 'actor.bias', 'critic.weight', 'critic.bias']
+[INFO]  epoch/step=1/100 | loss=-0.02326 | ploss=-0.05339 | vloss=0.04191 | entropy=-11.77220 | reward=0.00790
+[INFO]  epoch/step=1/200 | loss=0.00499 | ploss=-0.01171 | vloss=0.02847 | entropy=-11.76473 | reward=0.00634
+[INFO]  epoch/step=1/300 | loss=-0.00303 | ploss=-0.01199 | vloss=0.02071 | entropy=-11.75297 | reward=0.00462
+[INFO]  epoch/step=1/400 | loss=0.00282 | ploss=-0.00827 | vloss=0.02284 | entropy=-11.75521 | reward=0.00679
+[INFO]  epoch/step=1/500 | loss=-0.01033 | ploss=-0.02225 | vloss=0.02370 | entropy=-11.78073 | reward=0.00841
+[INFO]  epoch/step=1/600 | loss=-0.00194 | ploss=-0.00952 | vloss=0.01928 | entropy=-11.70230 | reward=0.00691
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_1.ckpt
+[INFO]  epoch/step=2/700 | loss=-0.02110 | ploss=-0.02154 | vloss=0.01217 | entropy=-11.73453 | reward=0.00432
+[INFO]  epoch/step=2/800 | loss=-0.01190 | ploss=-0.01288 | vloss=0.01271 | entropy=-11.72331 | reward=0.00492
+[INFO]  epoch/step=2/900 | loss=-0.00286 | ploss=-0.00690 | vloss=0.01581 | entropy=-11.76423 | reward=0.00709
+[INFO]  epoch/step=2/1000 | loss=-0.01995 | ploss=-0.01870 | vloss=0.01051 | entropy=-11.75746 | reward=0.00520
+[INFO]  epoch/step=2/1100 | loss=-0.00350 | ploss=-0.00393 | vloss=0.01220 | entropy=-11.77128 | reward=0.00600
+[INFO]  epoch/step=2/1200 | loss=-0.01334 | ploss=-0.01671 | vloss=0.01517 | entropy=-11.79344 | reward=0.00782
+[INFO]  epoch/step=2/1300 | loss=0.00025 | ploss=-0.00448 | vloss=0.01649 | entropy=-11.75988 | reward=0.00841
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_2.ckpt
+[INFO]  epoch/step=3/1400 | loss=-0.02002 | ploss=-0.01976 | vloss=0.01148 | entropy=-11.74478 | reward=0.00580
+[INFO]  epoch/step=3/1500 | loss=-0.02555 | ploss=-0.02373 | vloss=0.00994 | entropy=-11.76705 | reward=0.00610
+[INFO]  epoch/step=3/1600 | loss=-0.01149 | ploss=-0.01217 | vloss=0.01245 | entropy=-11.77548 | reward=0.00631
+[INFO]  epoch/step=3/1700 | loss=-0.00748 | ploss=-0.00837 | vloss=0.01266 | entropy=-11.77430 | reward=0.00704
+[INFO]  epoch/step=3/1800 | loss=-0.01031 | ploss=-0.01290 | vloss=0.01434 | entropy=-11.74929 | reward=0.00820
+[INFO]  epoch/step=3/1900 | loss=-0.03115 | ploss=-0.02589 | vloss=0.00645 | entropy=-11.71622 | reward=0.00403
+[INFO]  epoch/step=3/2000 | loss=-0.00715 | ploss=-0.00549 | vloss=0.01008 | entropy=-11.73430 | reward=0.00573
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_3.ckpt
+[INFO]  epoch/step=4/2100 | loss=-0.01226 | ploss=-0.01117 | vloss=0.01069 | entropy=-11.78051 | reward=0.00664
+[INFO]  epoch/step=4/2200 | loss=-0.01876 | ploss=-0.01802 | vloss=0.01102 | entropy=-11.76628 | reward=0.00707
+[INFO]  epoch/step=4/2300 | loss=-0.01223 | ploss=-0.00907 | vloss=0.00857 | entropy=-11.73307 | reward=0.00589
+[INFO]  epoch/step=4/2400 | loss=-0.00815 | ploss=-0.00777 | vloss=0.01140 | entropy=-11.77832 | reward=0.00675
+[INFO]  epoch/step=4/2500 | loss=-0.02593 | ploss=-0.02193 | vloss=0.00772 | entropy=-11.71965 | reward=0.00519
+[INFO]  epoch/step=4/2600 | loss=-0.02469 | ploss=-0.01967 | vloss=0.00674 | entropy=-11.76069 | reward=0.00499
+[INFO]  epoch/step=4/2700 | loss=-0.01335 | ploss=-0.01151 | vloss=0.00993 | entropy=-11.76305 | reward=0.00559
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_4.ckpt
+[INFO]  epoch/step=5/2800 | loss=-0.01481 | ploss=-0.01312 | vloss=0.01005 | entropy=-11.73576 | reward=0.00627
+[INFO]  epoch/step=5/2900 | loss=-0.00921 | ploss=-0.00713 | vloss=0.00968 | entropy=-11.76574 | reward=0.00627
+[INFO]  epoch/step=5/3000 | loss=-0.01142 | ploss=-0.00963 | vloss=0.00998 | entropy=-11.76258 | reward=0.00636
+[INFO]  epoch/step=5/3100 | loss=-0.00228 | ploss=-0.00197 | vloss=0.01147 | entropy=-11.77775 | reward=0.00738
+[INFO]  epoch/step=5/3200 | loss=-0.02474 | ploss=-0.02332 | vloss=0.01031 | entropy=-11.72263 | reward=0.00680
+[INFO]  epoch/step=5/3300 | loss=-0.01700 | ploss=-0.01380 | vloss=0.00854 | entropy=-11.73966 | reward=0.00519
+[INFO]  epoch/step=5/3400 | loss=0.00104 | ploss=0.00160 | vloss=0.01120 | entropy=-11.76356 | reward=0.00687
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_5.ckpt
+[INFO]  epoch/step=6/3500 | loss=-0.01882 | ploss=-0.01488 | vloss=0.00782 | entropy=-11.75906 | reward=0.00601
+[INFO]  epoch/step=6/3600 | loss=-0.00243 | ploss=-0.00526 | vloss=0.01457 | entropy=-11.74636 | reward=0.00829
+[INFO]  epoch/step=6/3700 | loss=-0.00376 | ploss=-0.00541 | vloss=0.01340 | entropy=-11.75342 | reward=0.00767
+[INFO]  epoch/step=6/3800 | loss=-0.01989 | ploss=-0.01719 | vloss=0.00902 | entropy=-11.72635 | reward=0.00617
+[INFO]  epoch/step=6/3900 | loss=-0.00880 | ploss=-0.00701 | vloss=0.00997 | entropy=-11.75296 | reward=0.00679
+[INFO]  epoch/step=6/4000 | loss=-0.00172 | ploss=-0.00404 | vloss=0.01405 | entropy=-11.72601 | reward=0.00838
+[INFO]  epoch/step=6/4100 | loss=-0.01864 | ploss=-0.01808 | vloss=0.01124 | entropy=-11.79746 | reward=0.00709
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_6.ckpt
+[INFO]  epoch/step=7/4200 | loss=-0.00226 | ploss=0.00030 | vloss=0.00917 | entropy=-11.72069 | reward=0.00652
+[INFO]  epoch/step=7/4300 | loss=-0.00271 | ploss=-0.00294 | vloss=0.01195 | entropy=-11.72545 | reward=0.00799
+[INFO]  epoch/step=7/4400 | loss=-0.00809 | ploss=-0.00621 | vloss=0.00985 | entropy=-11.72472 | reward=0.00630
+[INFO]  epoch/step=7/4500 | loss=-0.00804 | ploss=-0.00643 | vloss=0.01011 | entropy=-11.72137 | reward=0.00688
+[INFO]  epoch/step=7/4600 | loss=-0.00575 | ploss=-0.00487 | vloss=0.01082 | entropy=-11.70196 | reward=0.00669
+[INFO]  epoch/step=7/4700 | loss=-0.01200 | ploss=-0.01055 | vloss=0.01029 | entropy=-11.74466 | reward=0.00710
+[INFO]  epoch/step=7/4800 | loss=-0.00192 | ploss=-0.00433 | vloss=0.01409 | entropy=-11.68394 | reward=0.00900
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_7.ckpt
+[INFO]  epoch/step=8/4900 | loss=-0.01534 | ploss=-0.01710 | vloss=0.01331 | entropy=-11.55622 | reward=0.00895
+[INFO]  epoch/step=8/5000 | loss=0.00565 | ploss=-0.00802 | vloss=0.02486 | entropy=-11.19296 | reward=0.01496
+[INFO]  epoch/step=8/5100 | loss=0.02030 | ploss=-0.00586 | vloss=0.03700 | entropy=-10.83720 | reward=0.02134
+[INFO]  epoch/step=8/5200 | loss=0.01659 | ploss=-0.01836 | vloss=0.04568 | entropy=-10.72992 | reward=0.02642
+[INFO]  epoch/step=8/5300 | loss=0.01880 | ploss=-0.02494 | vloss=0.05425 | entropy=-10.51496 | reward=0.03254
+[INFO]  epoch/step=8/5400 | loss=0.11810 | ploss=0.01673 | vloss=0.11049 | entropy=-9.13029 | reward=0.07265
+[INFO]  epoch/step=8/5500 | loss=0.38792 | ploss=0.13968 | vloss=0.25422 | entropy=-5.98488 | reward=0.19406
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_8.ckpt
+[INFO]  epoch/step=9/5600 | loss=0.59563 | ploss=0.30598 | vloss=0.29420 | entropy=-4.54288 | reward=0.25825
+[INFO]  epoch/step=9/5700 | loss=0.52820 | ploss=0.23399 | vloss=0.29842 | entropy=-4.19929 | reward=0.28286
+[INFO]  epoch/step=9/5800 | loss=0.45474 | ploss=0.16812 | vloss=0.29050 | entropy=-3.87919 | reward=0.29999
+[INFO]  epoch/step=9/5900 | loss=0.37269 | ploss=0.09008 | vloss=0.28627 | entropy=-3.65808 | reward=0.30281
+[INFO]  epoch/step=9/6000 | loss=0.31141 | ploss=0.03423 | vloss=0.28072 | entropy=-3.54102 | reward=0.29211
+[INFO]  epoch/step=9/6100 | loss=0.29873 | ploss=0.03109 | vloss=0.27109 | entropy=-3.44952 | reward=0.30287
+[INFO]  epoch/step=9/6200 | loss=0.27740 | ploss=0.00247 | vloss=0.27819 | entropy=-3.26831 | reward=0.30315
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_9.ckpt
+[INFO]  epoch/step=10/6300 | loss=0.27434 | ploss=0.00566 | vloss=0.27181 | entropy=-3.13048 | reward=0.30686
+[INFO]  epoch/step=10/6400 | loss=0.27542 | ploss=0.00384 | vloss=0.27466 | entropy=-3.07851 | reward=0.31696
+[INFO]  epoch/step=10/6500 | loss=0.26889 | ploss=-0.00258 | vloss=0.27449 | entropy=-3.02037 | reward=0.30690
+[INFO]  epoch/step=10/6600 | loss=0.29162 | ploss=0.01188 | vloss=0.28253 | entropy=-2.79262 | reward=0.32846
+[INFO]  epoch/step=10/6700 | loss=0.24539 | ploss=-0.01652 | vloss=0.26464 | entropy=-2.73567 | reward=0.31294
+[INFO]  epoch/step=10/6800 | loss=0.25959 | ploss=-0.00767 | vloss=0.26992 | entropy=-2.66614 | reward=0.31287
+[INFO]  epoch/step=10/6900 | loss=0.27400 | ploss=0.00259 | vloss=0.27400 | entropy=-2.58384 | reward=0.32280
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_10.ckpt
+[INFO]  epoch/step=11/7000 | loss=0.24605 | ploss=-0.01781 | vloss=0.26640 | entropy=-2.53423 | reward=0.31424
+[INFO]  epoch/step=11/7100 | loss=0.28407 | ploss=0.00734 | vloss=0.27917 | entropy=-2.44884 | reward=0.32971
+[INFO]  epoch/step=11/7200 | loss=0.27409 | ploss=-0.00038 | vloss=0.27688 | entropy=-2.40392 | reward=0.32538
+[INFO]  epoch/step=11/7300 | loss=0.26072 | ploss=-0.00592 | vloss=0.26904 | entropy=-2.40221 | reward=0.32396
+[INFO]  epoch/step=11/7400 | loss=0.23375 | ploss=-0.02295 | vloss=0.25903 | entropy=-2.33495 | reward=0.31789
+[INFO]  epoch/step=11/7500 | loss=0.27470 | ploss=0.00399 | vloss=0.27303 | entropy=-2.32274 | reward=0.32663
+[INFO]  epoch/step=11/7600 | loss=0.25046 | ploss=-0.01269 | vloss=0.26538 | entropy=-2.23485 | reward=0.32835
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_11.ckpt
+[INFO]  epoch/step=12/7700 | loss=0.25515 | ploss=-0.01447 | vloss=0.27183 | entropy=-2.20852 | reward=0.32752
+[INFO]  epoch/step=12/7800 | loss=0.21110 | ploss=-0.04348 | vloss=0.25673 | entropy=-2.15085 | reward=0.31686
+[INFO]  epoch/step=12/7900 | loss=0.27435 | ploss=0.00200 | vloss=0.27439 | entropy=-2.03393 | reward=0.33467
+[INFO]  epoch/step=12/8000 | loss=0.24799 | ploss=-0.01766 | vloss=0.26767 | entropy=-2.02198 | reward=0.32533
+[INFO]  epoch/step=12/8100 | loss=0.24818 | ploss=-0.02232 | vloss=0.27244 | entropy=-1.94393 | reward=0.33515
+[INFO]  epoch/step=12/8200 | loss=0.25412 | ploss=-0.01295 | vloss=0.26899 | entropy=-1.92771 | reward=0.32986
+[INFO]  epoch/step=12/8300 | loss=0.24888 | ploss=-0.01228 | vloss=0.26304 | entropy=-1.87881 | reward=0.33261
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_12.ckpt
+[INFO]  epoch/step=13/8400 | loss=0.27392 | ploss=0.01065 | vloss=0.26516 | entropy=-1.89397 | reward=0.33360
+[INFO]  epoch/step=13/8500 | loss=0.26343 | ploss=-0.00219 | vloss=0.26742 | entropy=-1.80479 | reward=0.33990
+[INFO]  epoch/step=13/8600 | loss=0.23352 | ploss=-0.02551 | vloss=0.26079 | entropy=-1.76619 | reward=0.33482
+[INFO]  epoch/step=13/8700 | loss=0.23463 | ploss=-0.02420 | vloss=0.26051 | entropy=-1.68516 | reward=0.33032
+[INFO]  epoch/step=13/8800 | loss=0.25404 | ploss=-0.00899 | vloss=0.26468 | entropy=-1.64225 | reward=0.33844
+[INFO]  epoch/step=13/8900 | loss=0.25928 | ploss=-0.00655 | vloss=0.26749 | entropy=-1.65151 | reward=0.33943
+[INFO]  epoch/step=13/9000 | loss=0.24221 | ploss=-0.02150 | vloss=0.26534 | entropy=-1.63170 | reward=0.33533
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_13.ckpt
+[INFO]  epoch/step=14/9100 | loss=0.22991 | ploss=-0.02502 | vloss=0.25651 | entropy=-1.57087 | reward=0.32937
+[INFO]  epoch/step=14/9200 | loss=0.25087 | ploss=-0.01579 | vloss=0.26819 | entropy=-1.52706 | reward=0.34114
+[INFO]  epoch/step=14/9300 | loss=0.24784 | ploss=-0.01609 | vloss=0.26546 | entropy=-1.52720 | reward=0.32408
+[INFO]  epoch/step=14/9400 | loss=0.25733 | ploss=-0.00092 | vloss=0.25975 | entropy=-1.50750 | reward=0.33375
+[INFO]  epoch/step=14/9500 | loss=0.25522 | ploss=-0.01021 | vloss=0.26692 | entropy=-1.49898 | reward=0.33639
+[INFO]  epoch/step=14/9600 | loss=0.24145 | ploss=-0.01864 | vloss=0.26161 | entropy=-1.52421 | reward=0.33349
+[INFO]  epoch/step=14/9700 | loss=0.24744 | ploss=-0.01465 | vloss=0.26359 | entropy=-1.49486 | reward=0.33072
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_14.ckpt
+[INFO]  epoch/step=15/9800 | loss=0.24109 | ploss=-0.01473 | vloss=0.25732 | entropy=-1.50118 | reward=0.33037
+[INFO]  epoch/step=15/9900 | loss=0.25299 | ploss=-0.00956 | vloss=0.26407 | entropy=-1.51228 | reward=0.33298
+[INFO]  epoch/step=15/10000 | loss=0.23978 | ploss=-0.01418 | vloss=0.25543 | entropy=-1.47143 | reward=0.33204
+[INFO]  epoch/step=15/10100 | loss=0.25856 | ploss=0.00287 | vloss=0.25715 | entropy=-1.45484 | reward=0.34066
+[INFO]  epoch/step=15/10200 | loss=0.26177 | ploss=0.00009 | vloss=0.26315 | entropy=-1.48167 | reward=0.33235
+[INFO]  epoch/step=15/10300 | loss=0.22724 | ploss=-0.02307 | vloss=0.25180 | entropy=-1.48691 | reward=0.32856
+[INFO]  epoch/step=15/10400 | loss=0.23825 | ploss=-0.02139 | vloss=0.26113 | entropy=-1.49016 | reward=0.33527
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_15.ckpt
+[INFO]  epoch/step=16/10500 | loss=0.23480 | ploss=-0.01775 | vloss=0.25404 | entropy=-1.48347 | reward=0.33457
+[INFO]  epoch/step=16/10600 | loss=0.23607 | ploss=-0.01691 | vloss=0.25443 | entropy=-1.45013 | reward=0.33270
+[INFO]  epoch/step=16/10700 | loss=0.24777 | ploss=-0.00260 | vloss=0.25177 | entropy=-1.40133 | reward=0.32671
+[INFO]  epoch/step=16/10800 | loss=0.28504 | ploss=0.02642 | vloss=0.26005 | entropy=-1.42205 | reward=0.33400
+[INFO]  epoch/step=16/10900 | loss=0.26286 | ploss=0.00067 | vloss=0.26367 | entropy=-1.47707 | reward=0.33679
+[INFO]  epoch/step=16/11000 | loss=0.26215 | ploss=-0.00200 | vloss=0.26561 | entropy=-1.46194 | reward=0.33562
+[INFO]  epoch/step=16/11100 | loss=0.24175 | ploss=-0.01381 | vloss=0.25708 | entropy=-1.51673 | reward=0.33031
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_16.ckpt
+[INFO]  epoch/step=17/11200 | loss=0.22763 | ploss=-0.02640 | vloss=0.25553 | entropy=-1.50152 | reward=0.32974
+[INFO]  epoch/step=17/11300 | loss=0.24077 | ploss=-0.01621 | vloss=0.25843 | entropy=-1.45728 | reward=0.33786
+[INFO]  epoch/step=17/11400 | loss=0.24281 | ploss=-0.01500 | vloss=0.25923 | entropy=-1.42036 | reward=0.33029
+[INFO]  epoch/step=17/11500 | loss=0.25270 | ploss=-0.00122 | vloss=0.25535 | entropy=-1.42998 | reward=0.33425
+[INFO]  epoch/step=17/11600 | loss=0.25956 | ploss=-0.00121 | vloss=0.26224 | entropy=-1.47137 | reward=0.34609
+[INFO]  epoch/step=17/11700 | loss=0.26379 | ploss=0.00902 | vloss=0.25626 | entropy=-1.48780 | reward=0.33343
+[INFO]  epoch/step=17/11800 | loss=0.25623 | ploss=0.00221 | vloss=0.25554 | entropy=-1.51952 | reward=0.33575
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_17.ckpt
+[INFO]  epoch/step=18/11900 | loss=0.23074 | ploss=-0.02006 | vloss=0.25228 | entropy=-1.47591 | reward=0.33454
+[INFO]  epoch/step=18/12000 | loss=0.22533 | ploss=-0.02233 | vloss=0.24917 | entropy=-1.51294 | reward=0.33127
+[INFO]  epoch/step=18/12100 | loss=0.25468 | ploss=0.00202 | vloss=0.25415 | entropy=-1.49064 | reward=0.33386
+[INFO]  epoch/step=18/12200 | loss=0.24550 | ploss=-0.00725 | vloss=0.25425 | entropy=-1.50079 | reward=0.34008
+[INFO]  epoch/step=18/12300 | loss=0.20801 | ploss=-0.04034 | vloss=0.24980 | entropy=-1.44864 | reward=0.33312
+[INFO]  epoch/step=18/12400 | loss=0.24926 | ploss=-0.01201 | vloss=0.26273 | entropy=-1.46523 | reward=0.33727
+[INFO]  epoch/step=18/12500 | loss=0.23578 | ploss=-0.01644 | vloss=0.25363 | entropy=-1.41060 | reward=0.33654
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_18.ckpt
+[INFO]  epoch/step=19/12600 | loss=0.24549 | ploss=-0.00434 | vloss=0.25123 | entropy=-1.40728 | reward=0.33830
+[INFO]  epoch/step=19/12700 | loss=0.24067 | ploss=-0.01581 | vloss=0.25786 | entropy=-1.38331 | reward=0.34378
+[INFO]  epoch/step=19/12800 | loss=0.22598 | ploss=-0.02197 | vloss=0.24927 | entropy=-1.31849 | reward=0.32779
+[INFO]  epoch/step=19/12900 | loss=0.23983 | ploss=-0.01192 | vloss=0.25305 | entropy=-1.30359 | reward=0.33900
+[INFO]  epoch/step=19/13000 | loss=0.24062 | ploss=-0.01337 | vloss=0.25527 | entropy=-1.27954 | reward=0.33766
+[INFO]  epoch/step=19/13100 | loss=0.26686 | ploss=0.00526 | vloss=0.26287 | entropy=-1.26065 | reward=0.34202
+[INFO]  epoch/step=19/13200 | loss=0.22094 | ploss=-0.02873 | vloss=0.25093 | entropy=-1.25890 | reward=0.33259
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_19.ckpt
+[INFO]  epoch/step=20/13300 | loss=0.23614 | ploss=-0.01055 | vloss=0.24793 | entropy=-1.24580 | reward=0.33410
+[INFO]  epoch/step=20/13400 | loss=0.23725 | ploss=-0.01308 | vloss=0.25154 | entropy=-1.20522 | reward=0.33350
+[INFO]  epoch/step=20/13500 | loss=0.23450 | ploss=-0.02006 | vloss=0.25577 | entropy=-1.21994 | reward=0.34080
+[INFO]  epoch/step=20/13600 | loss=0.23871 | ploss=-0.00849 | vloss=0.24842 | entropy=-1.21642 | reward=0.33874
+[INFO]  epoch/step=20/13700 | loss=0.22022 | ploss=-0.02635 | vloss=0.24779 | entropy=-1.21296 | reward=0.33783
+[INFO]  epoch/step=20/13800 | loss=0.22461 | ploss=-0.02659 | vloss=0.25237 | entropy=-1.16503 | reward=0.33847
+[INFO]  epoch/step=20/13900 | loss=0.22195 | ploss=-0.02664 | vloss=0.24975 | entropy=-1.16730 | reward=0.33054
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_20.ckpt
+[INFO]  epoch/step=21/14000 | loss=0.25109 | ploss=0.00487 | vloss=0.24739 | entropy=-1.17488 | reward=0.33273
+[INFO]  epoch/step=21/14100 | loss=0.24243 | ploss=-0.00573 | vloss=0.24936 | entropy=-1.20068 | reward=0.34138
+[INFO]  epoch/step=21/14200 | loss=0.22504 | ploss=-0.01095 | vloss=0.23720 | entropy=-1.20586 | reward=0.33162
+[INFO]  epoch/step=21/14300 | loss=0.24636 | ploss=-0.01003 | vloss=0.25758 | entropy=-1.18282 | reward=0.34226
+[INFO]  epoch/step=21/14400 | loss=0.23477 | ploss=-0.01323 | vloss=0.24917 | entropy=-1.16832 | reward=0.33599
+[INFO]  epoch/step=21/14500 | loss=0.23653 | ploss=-0.01304 | vloss=0.25079 | entropy=-1.20985 | reward=0.34506
+[INFO]  epoch/step=21/14600 | loss=0.22540 | ploss=-0.02918 | vloss=0.25577 | entropy=-1.19181 | reward=0.33886
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_21.ckpt
+[INFO]  epoch/step=22/14700 | loss=0.23543 | ploss=-0.01140 | vloss=0.24799 | entropy=-1.15979 | reward=0.33657
+[INFO]  epoch/step=22/14800 | loss=0.23703 | ploss=-0.01278 | vloss=0.25096 | entropy=-1.14690 | reward=0.35013
+[INFO]  epoch/step=22/14900 | loss=0.23017 | ploss=-0.01350 | vloss=0.24479 | entropy=-1.12008 | reward=0.33596
+[INFO]  epoch/step=22/15000 | loss=0.23201 | ploss=-0.01363 | vloss=0.24678 | entropy=-1.13159 | reward=0.34211
+[INFO]  epoch/step=22/15100 | loss=0.23207 | ploss=-0.01078 | vloss=0.24399 | entropy=-1.14247 | reward=0.33360
+[INFO]  epoch/step=22/15200 | loss=0.24401 | ploss=-0.00140 | vloss=0.24654 | entropy=-1.12848 | reward=0.34326
+[INFO]  epoch/step=22/15300 | loss=0.22145 | ploss=-0.01904 | vloss=0.24164 | entropy=-1.14550 | reward=0.32628
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_22.ckpt
+[INFO]  epoch/step=23/15400 | loss=0.22061 | ploss=-0.02457 | vloss=0.24633 | entropy=-1.14984 | reward=0.32964
+[INFO]  epoch/step=23/15500 | loss=0.22735 | ploss=-0.01853 | vloss=0.24703 | entropy=-1.15129 | reward=0.33462
+[INFO]  epoch/step=23/15600 | loss=0.23336 | ploss=-0.00625 | vloss=0.24075 | entropy=-1.14122 | reward=0.33523
+[INFO]  epoch/step=23/15700 | loss=0.23397 | ploss=-0.01227 | vloss=0.24737 | entropy=-1.13417 | reward=0.34345
+[INFO]  epoch/step=23/15800 | loss=0.24776 | ploss=-0.00305 | vloss=0.25195 | entropy=-1.14474 | reward=0.33998
+[INFO]  epoch/step=23/15900 | loss=0.24688 | ploss=0.00014 | vloss=0.24792 | entropy=-1.17578 | reward=0.33121
+[INFO]  epoch/step=23/16000 | loss=0.25268 | ploss=-0.00318 | vloss=0.25703 | entropy=-1.16911 | reward=0.34800
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_23.ckpt
+[INFO]  epoch/step=24/16100 | loss=0.22609 | ploss=-0.01963 | vloss=0.24690 | entropy=-1.18006 | reward=0.33633
+[INFO]  epoch/step=24/16200 | loss=0.22926 | ploss=-0.01390 | vloss=0.24435 | entropy=-1.18489 | reward=0.34172
+[INFO]  epoch/step=24/16300 | loss=0.25950 | ploss=0.00666 | vloss=0.25401 | entropy=-1.17152 | reward=0.34841
+[INFO]  epoch/step=24/16400 | loss=0.22392 | ploss=-0.02394 | vloss=0.24905 | entropy=-1.19578 | reward=0.33860
+[INFO]  epoch/step=24/16500 | loss=0.24576 | ploss=0.00412 | vloss=0.24281 | entropy=-1.17818 | reward=0.33976
+[INFO]  epoch/step=24/16600 | loss=0.23992 | ploss=-0.00947 | vloss=0.25060 | entropy=-1.20737 | reward=0.33962
+[INFO]  epoch/step=24/16700 | loss=0.24419 | ploss=0.00021 | vloss=0.24517 | entropy=-1.17947 | reward=0.33759
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_24.ckpt
+[INFO]  epoch/step=25/16800 | loss=0.22040 | ploss=-0.02001 | vloss=0.24161 | entropy=-1.19773 | reward=0.34035
+[INFO]  epoch/step=25/16900 | loss=0.22463 | ploss=-0.01755 | vloss=0.24335 | entropy=-1.17618 | reward=0.33480
+[INFO]  epoch/step=25/17000 | loss=0.22128 | ploss=-0.00994 | vloss=0.23241 | entropy=-1.19064 | reward=0.33371
+[INFO]  epoch/step=25/17100 | loss=0.24311 | ploss=-0.00975 | vloss=0.25406 | entropy=-1.20132 | reward=0.33718
+[INFO]  epoch/step=25/17200 | loss=0.22447 | ploss=-0.01970 | vloss=0.24537 | entropy=-1.19487 | reward=0.33785
+[INFO]  epoch/step=25/17300 | loss=0.24959 | ploss=0.00211 | vloss=0.24867 | entropy=-1.19265 | reward=0.34321
+[INFO]  epoch/step=25/17400 | loss=0.22090 | ploss=-0.01809 | vloss=0.24018 | entropy=-1.18520 | reward=0.34561
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_25.ckpt
+[INFO]  epoch/step=26/17500 | loss=0.24124 | ploss=0.00347 | vloss=0.23897 | entropy=-1.20028 | reward=0.34463
+[INFO]  epoch/step=26/17600 | loss=0.23702 | ploss=-0.00248 | vloss=0.24072 | entropy=-1.23360 | reward=0.34268
+[INFO]  epoch/step=26/17700 | loss=0.25515 | ploss=0.00470 | vloss=0.25173 | entropy=-1.27900 | reward=0.34395
+[INFO]  epoch/step=26/17800 | loss=0.23253 | ploss=-0.00872 | vloss=0.24247 | entropy=-1.22326 | reward=0.33841
+[INFO]  epoch/step=26/17900 | loss=0.23290 | ploss=-0.02106 | vloss=0.25520 | entropy=-1.24017 | reward=0.33637
+[INFO]  epoch/step=26/18000 | loss=0.22407 | ploss=-0.02129 | vloss=0.24661 | entropy=-1.26204 | reward=0.34240
+[INFO]  epoch/step=26/18100 | loss=0.23178 | ploss=-0.01760 | vloss=0.25063 | entropy=-1.25034 | reward=0.34440
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_26.ckpt
+[INFO]  epoch/step=27/18200 | loss=0.23646 | ploss=-0.00757 | vloss=0.24522 | entropy=-1.19821 | reward=0.34543
+[INFO]  epoch/step=27/18300 | loss=0.23048 | ploss=-0.01191 | vloss=0.24359 | entropy=-1.19414 | reward=0.34443
+[INFO]  epoch/step=27/18400 | loss=0.24528 | ploss=-0.00718 | vloss=0.25365 | entropy=-1.17949 | reward=0.34351
+[INFO]  epoch/step=27/18500 | loss=0.23482 | ploss=-0.00820 | vloss=0.24421 | entropy=-1.19315 | reward=0.34712
+[INFO]  epoch/step=27/18600 | loss=0.23205 | ploss=-0.00707 | vloss=0.24028 | entropy=-1.16011 | reward=0.33888
+[INFO]  epoch/step=27/18700 | loss=0.22898 | ploss=-0.01581 | vloss=0.24596 | entropy=-1.15868 | reward=0.34075
+[INFO]  epoch/step=27/18800 | loss=0.23690 | ploss=-0.00296 | vloss=0.24102 | entropy=-1.15235 | reward=0.33514
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_27.ckpt
+[INFO]  epoch/step=28/18900 | loss=0.22612 | ploss=-0.02081 | vloss=0.24812 | entropy=-1.19738 | reward=0.33115
+[INFO]  epoch/step=28/19000 | loss=0.22531 | ploss=-0.01558 | vloss=0.24205 | entropy=-1.15851 | reward=0.33502
+[INFO]  epoch/step=28/19100 | loss=0.23690 | ploss=-0.00439 | vloss=0.24247 | entropy=-1.17727 | reward=0.33731
+[INFO]  epoch/step=28/19200 | loss=0.23369 | ploss=-0.00592 | vloss=0.24081 | entropy=-1.19234 | reward=0.33932
+[INFO]  epoch/step=28/19300 | loss=0.21439 | ploss=-0.02817 | vloss=0.24379 | entropy=-1.22798 | reward=0.34085
+[INFO]  epoch/step=28/19400 | loss=0.22177 | ploss=-0.01331 | vloss=0.23623 | entropy=-1.14619 | reward=0.33205
+[INFO]  epoch/step=28/19500 | loss=0.22194 | ploss=-0.01731 | vloss=0.24039 | entropy=-1.14122 | reward=0.33826
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_28.ckpt
+[INFO]  epoch/step=29/19600 | loss=0.22136 | ploss=-0.01122 | vloss=0.23372 | entropy=-1.14543 | reward=0.33179
+[INFO]  epoch/step=29/19700 | loss=0.24442 | ploss=-0.00716 | vloss=0.25272 | entropy=-1.14039 | reward=0.34492
+[INFO]  epoch/step=29/19800 | loss=0.22585 | ploss=-0.01416 | vloss=0.24117 | entropy=-1.15981 | reward=0.33051
+[INFO]  epoch/step=29/19900 | loss=0.23852 | ploss=-0.00328 | vloss=0.24296 | entropy=-1.15246 | reward=0.33633
+[INFO]  epoch/step=29/20000 | loss=0.23991 | ploss=0.00031 | vloss=0.24078 | entropy=-1.18233 | reward=0.34548
+[INFO]  epoch/step=29/20100 | loss=0.20502 | ploss=-0.03485 | vloss=0.24104 | entropy=-1.16834 | reward=0.34597
+[INFO]  epoch/step=29/20200 | loss=0.22390 | ploss=-0.01682 | vloss=0.24189 | entropy=-1.16198 | reward=0.33560
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_29.ckpt
+[INFO]  epoch/step=30/20300 | loss=0.22267 | ploss=-0.01027 | vloss=0.23408 | entropy=-1.13727 | reward=0.32850
+[INFO]  epoch/step=30/20400 | loss=0.22850 | ploss=-0.00909 | vloss=0.23874 | entropy=-1.15199 | reward=0.33068
+[INFO]  epoch/step=30/20500 | loss=0.24675 | ploss=-0.00425 | vloss=0.25218 | entropy=-1.18651 | reward=0.34281
+[INFO]  epoch/step=30/20600 | loss=0.22038 | ploss=-0.02201 | vloss=0.24352 | entropy=-1.12597 | reward=0.34826
+[INFO]  epoch/step=30/20700 | loss=0.23386 | ploss=-0.00631 | vloss=0.24130 | entropy=-1.12690 | reward=0.34815
+[INFO]  epoch/step=30/20800 | loss=0.22514 | ploss=-0.00801 | vloss=0.23427 | entropy=-1.12446 | reward=0.34414
+[INFO]  epoch/step=30/20900 | loss=0.22177 | ploss=-0.01825 | vloss=0.24117 | entropy=-1.14442 | reward=0.33170
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_30.ckpt
+[INFO]  epoch/step=31/21000 | loss=0.22764 | ploss=-0.00769 | vloss=0.23647 | entropy=-1.14029 | reward=0.32620
+[INFO]  epoch/step=31/21100 | loss=0.23538 | ploss=-0.00010 | vloss=0.23664 | entropy=-1.15428 | reward=0.34124
+[INFO]  epoch/step=31/21200 | loss=0.21410 | ploss=-0.02030 | vloss=0.23555 | entropy=-1.15105 | reward=0.33858
+[INFO]  epoch/step=31/21300 | loss=0.24907 | ploss=0.00124 | vloss=0.24898 | entropy=-1.15013 | reward=0.34247
+[INFO]  epoch/step=31/21400 | loss=0.24894 | ploss=0.00665 | vloss=0.24346 | entropy=-1.16860 | reward=0.34285
+[INFO]  epoch/step=31/21500 | loss=0.21877 | ploss=-0.02100 | vloss=0.24095 | entropy=-1.17635 | reward=0.33434
+[INFO]  epoch/step=31/21600 | loss=0.22831 | ploss=-0.01417 | vloss=0.24365 | entropy=-1.17564 | reward=0.34018
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_31.ckpt
+[INFO]  epoch/step=32/21700 | loss=0.22262 | ploss=-0.01586 | vloss=0.23967 | entropy=-1.18666 | reward=0.33487
+[INFO]  epoch/step=32/21800 | loss=0.22689 | ploss=-0.01280 | vloss=0.24087 | entropy=-1.17741 | reward=0.33479
+[INFO]  epoch/step=32/21900 | loss=0.22167 | ploss=-0.01342 | vloss=0.23626 | entropy=-1.16585 | reward=0.33801
+[INFO]  epoch/step=32/22000 | loss=0.23051 | ploss=-0.01042 | vloss=0.24209 | entropy=-1.15551 | reward=0.34313
+[INFO]  epoch/step=32/22100 | loss=0.20842 | ploss=-0.02131 | vloss=0.23088 | entropy=-1.15107 | reward=0.33180
+[INFO]  epoch/step=32/22200 | loss=0.22945 | ploss=-0.01235 | vloss=0.24296 | entropy=-1.15227 | reward=0.33445
+[INFO]  epoch/step=32/22300 | loss=0.23360 | ploss=0.00056 | vloss=0.23415 | entropy=-1.11286 | reward=0.34020
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_32.ckpt
+[INFO]  epoch/step=33/22400 | loss=0.24373 | ploss=-0.00479 | vloss=0.24967 | entropy=-1.14981 | reward=0.34105
+[INFO]  epoch/step=33/22500 | loss=0.23004 | ploss=-0.00565 | vloss=0.23684 | entropy=-1.15838 | reward=0.33054
+[INFO]  epoch/step=33/22600 | loss=0.22275 | ploss=-0.01273 | vloss=0.23664 | entropy=-1.15728 | reward=0.33775
+[INFO]  epoch/step=33/22700 | loss=0.24139 | ploss=-0.00035 | vloss=0.24289 | entropy=-1.14763 | reward=0.33456
+[INFO]  epoch/step=33/22800 | loss=0.24148 | ploss=-0.00070 | vloss=0.24338 | entropy=-1.19770 | reward=0.35235
+[INFO]  epoch/step=33/22900 | loss=0.23763 | ploss=0.00026 | vloss=0.23856 | entropy=-1.18814 | reward=0.34030
+[INFO]  epoch/step=33/23000 | loss=0.24548 | ploss=0.00177 | vloss=0.24489 | entropy=-1.18288 | reward=0.34902
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_33.ckpt
+[INFO]  epoch/step=34/23100 | loss=0.21751 | ploss=-0.01780 | vloss=0.23650 | entropy=-1.19397 | reward=0.33406
+[INFO]  epoch/step=34/23200 | loss=0.24109 | ploss=-0.00453 | vloss=0.24680 | entropy=-1.17841 | reward=0.35303
+[INFO]  epoch/step=34/23300 | loss=0.24025 | ploss=-0.00271 | vloss=0.24417 | entropy=-1.21575 | reward=0.34222
+[INFO]  epoch/step=34/23400 | loss=0.22322 | ploss=-0.01606 | vloss=0.24051 | entropy=-1.22751 | reward=0.33788
+[INFO]  epoch/step=34/23500 | loss=0.22070 | ploss=-0.02094 | vloss=0.24284 | entropy=-1.20324 | reward=0.33842
+[INFO]  epoch/step=34/23600 | loss=0.22971 | ploss=-0.01264 | vloss=0.24356 | entropy=-1.20859 | reward=0.34232
+[INFO]  epoch/step=34/23700 | loss=0.21970 | ploss=-0.01874 | vloss=0.23968 | entropy=-1.23893 | reward=0.34579
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_34.ckpt
+[INFO]  epoch/step=35/23800 | loss=0.21948 | ploss=-0.02018 | vloss=0.24088 | entropy=-1.22125 | reward=0.33441
+[INFO]  epoch/step=35/23900 | loss=0.22933 | ploss=-0.01033 | vloss=0.24089 | entropy=-1.22773 | reward=0.33828
+[INFO]  epoch/step=35/24000 | loss=0.25967 | ploss=0.01742 | vloss=0.24350 | entropy=-1.25027 | reward=0.34692
+[INFO]  epoch/step=35/24100 | loss=0.22774 | ploss=-0.01394 | vloss=0.24291 | entropy=-1.22665 | reward=0.33445
+[INFO]  epoch/step=35/24200 | loss=0.22253 | ploss=-0.01242 | vloss=0.23616 | entropy=-1.20413 | reward=0.33588
+[INFO]  epoch/step=35/24300 | loss=0.22780 | ploss=-0.01075 | vloss=0.23977 | entropy=-1.21812 | reward=0.34405
+[INFO]  epoch/step=35/24400 | loss=0.24478 | ploss=-0.00129 | vloss=0.24729 | entropy=-1.21606 | reward=0.34945
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_35.ckpt
+[INFO]  epoch/step=36/24500 | loss=0.22120 | ploss=-0.01381 | vloss=0.23624 | entropy=-1.22342 | reward=0.33496
+[INFO]  epoch/step=36/24600 | loss=0.22995 | ploss=-0.01557 | vloss=0.24668 | entropy=-1.16136 | reward=0.34081
+[INFO]  epoch/step=36/24700 | loss=0.23430 | ploss=-0.01135 | vloss=0.24686 | entropy=-1.20615 | reward=0.33556
+[INFO]  epoch/step=36/24800 | loss=0.22495 | ploss=-0.02155 | vloss=0.24766 | entropy=-1.16093 | reward=0.34407
+[INFO]  epoch/step=36/24900 | loss=0.23107 | ploss=-0.00775 | vloss=0.23997 | entropy=-1.14806 | reward=0.33894
+[INFO]  epoch/step=36/25000 | loss=0.21779 | ploss=-0.01967 | vloss=0.23862 | entropy=-1.16287 | reward=0.32921
+[INFO]  epoch/step=36/25100 | loss=0.23333 | ploss=-0.00599 | vloss=0.24047 | entropy=-1.15023 | reward=0.34508
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_36.ckpt
+[INFO]  epoch/step=37/25200 | loss=0.22444 | ploss=-0.01925 | vloss=0.24484 | entropy=-1.15628 | reward=0.34524
+[INFO]  epoch/step=37/25300 | loss=0.24544 | ploss=-0.00182 | vloss=0.24844 | entropy=-1.17704 | reward=0.34674
+[INFO]  epoch/step=37/25400 | loss=0.22733 | ploss=-0.00960 | vloss=0.23812 | entropy=-1.18983 | reward=0.34116
+[INFO]  epoch/step=37/25500 | loss=0.20326 | ploss=-0.03160 | vloss=0.23605 | entropy=-1.18868 | reward=0.33819
+[INFO]  epoch/step=37/25600 | loss=0.26549 | ploss=0.02111 | vloss=0.24553 | entropy=-1.14552 | reward=0.35360
+[INFO]  epoch/step=37/25700 | loss=0.21932 | ploss=-0.01677 | vloss=0.23728 | entropy=-1.18607 | reward=0.33622
+[INFO]  epoch/step=37/25800 | loss=0.22913 | ploss=-0.00880 | vloss=0.23910 | entropy=-1.15827 | reward=0.33967
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_37.ckpt
+[INFO]  epoch/step=38/25900 | loss=0.19623 | ploss=-0.03358 | vloss=0.23098 | entropy=-1.16101 | reward=0.34007
+[INFO]  epoch/step=38/26000 | loss=0.22607 | ploss=-0.01509 | vloss=0.24232 | entropy=-1.16726 | reward=0.34603
+[INFO]  epoch/step=38/26100 | loss=0.21141 | ploss=-0.02740 | vloss=0.23996 | entropy=-1.14566 | reward=0.34497
+[INFO]  epoch/step=38/26200 | loss=0.20860 | ploss=-0.02588 | vloss=0.23565 | entropy=-1.16337 | reward=0.33649
+[INFO]  epoch/step=38/26300 | loss=0.23390 | ploss=-0.01056 | vloss=0.24562 | entropy=-1.16342 | reward=0.34135
+[INFO]  epoch/step=38/26400 | loss=0.21589 | ploss=-0.02204 | vloss=0.23908 | entropy=-1.14941 | reward=0.33636
+[INFO]  epoch/step=38/26500 | loss=0.22669 | ploss=-0.00863 | vloss=0.23648 | entropy=-1.15411 | reward=0.33954
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_38.ckpt
+[INFO]  epoch/step=39/26600 | loss=0.22637 | ploss=-0.01480 | vloss=0.24233 | entropy=-1.16864 | reward=0.34041
+[INFO]  epoch/step=39/26700 | loss=0.21283 | ploss=-0.02260 | vloss=0.23658 | entropy=-1.15080 | reward=0.33644
+[INFO]  epoch/step=39/26800 | loss=0.22053 | ploss=-0.02884 | vloss=0.25051 | entropy=-1.14052 | reward=0.34068
+[INFO]  epoch/step=39/26900 | loss=0.22802 | ploss=-0.00704 | vloss=0.23624 | entropy=-1.17173 | reward=0.33734
+[INFO]  epoch/step=39/27000 | loss=0.22870 | ploss=-0.00969 | vloss=0.23956 | entropy=-1.16775 | reward=0.33641
+[INFO]  epoch/step=39/27100 | loss=0.21043 | ploss=-0.02683 | vloss=0.23843 | entropy=-1.17388 | reward=0.33684
+[INFO]  epoch/step=39/27200 | loss=0.22120 | ploss=-0.01474 | vloss=0.23711 | entropy=-1.16779 | reward=0.33590
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_39.ckpt
+[INFO]  epoch/step=40/27300 | loss=0.21661 | ploss=-0.01376 | vloss=0.23154 | entropy=-1.16823 | reward=0.33203
+[INFO]  epoch/step=40/27400 | loss=0.24131 | ploss=-0.00167 | vloss=0.24415 | entropy=-1.16454 | reward=0.34774
+[INFO]  epoch/step=40/27500 | loss=0.21885 | ploss=-0.01874 | vloss=0.23876 | entropy=-1.16733 | reward=0.34404
+[INFO]  epoch/step=40/27600 | loss=0.22883 | ploss=-0.01026 | vloss=0.24022 | entropy=-1.13686 | reward=0.34338
+[INFO]  epoch/step=40/27700 | loss=0.23573 | ploss=-0.00888 | vloss=0.24577 | entropy=-1.16119 | reward=0.33962
+[INFO]  epoch/step=40/27800 | loss=0.20479 | ploss=-0.02841 | vloss=0.23437 | entropy=-1.17760 | reward=0.33128
+[INFO]  epoch/step=40/27900 | loss=0.22948 | ploss=-0.01042 | vloss=0.24103 | entropy=-1.13808 | reward=0.34980
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_40.ckpt
+[INFO]  epoch/step=41/28000 | loss=0.21042 | ploss=-0.02966 | vloss=0.24122 | entropy=-1.14547 | reward=0.32906
+[INFO]  epoch/step=41/28100 | loss=0.23105 | ploss=-0.00352 | vloss=0.23572 | entropy=-1.15076 | reward=0.33898
+[INFO]  epoch/step=41/28200 | loss=0.24038 | ploss=-0.00557 | vloss=0.24712 | entropy=-1.16314 | reward=0.34217
+[INFO]  epoch/step=41/28300 | loss=0.23729 | ploss=-0.00382 | vloss=0.24225 | entropy=-1.13564 | reward=0.35006
+[INFO]  epoch/step=41/28400 | loss=0.22041 | ploss=-0.01168 | vloss=0.23323 | entropy=-1.13285 | reward=0.34549
+[INFO]  epoch/step=41/28500 | loss=0.21582 | ploss=-0.01925 | vloss=0.23621 | entropy=-1.13944 | reward=0.33973
+[INFO]  epoch/step=41/28600 | loss=0.23032 | ploss=-0.00906 | vloss=0.24054 | entropy=-1.16008 | reward=0.34538
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_41.ckpt
+[INFO]  epoch/step=42/28700 | loss=0.21147 | ploss=-0.01293 | vloss=0.22557 | entropy=-1.16122 | reward=0.33203
+[INFO]  epoch/step=42/28800 | loss=0.21875 | ploss=-0.01923 | vloss=0.23913 | entropy=-1.15590 | reward=0.34164
+[INFO]  epoch/step=42/28900 | loss=0.21316 | ploss=-0.01554 | vloss=0.22984 | entropy=-1.13587 | reward=0.33692
+[INFO]  epoch/step=42/29000 | loss=0.22946 | ploss=-0.00817 | vloss=0.23879 | entropy=-1.16612 | reward=0.34297
+[INFO]  epoch/step=42/29100 | loss=0.21786 | ploss=-0.02547 | vloss=0.24447 | entropy=-1.13693 | reward=0.34344
+[INFO]  epoch/step=42/29200 | loss=0.23162 | ploss=-0.01405 | vloss=0.24685 | entropy=-1.17701 | reward=0.33619
+[INFO]  epoch/step=42/29300 | loss=0.22410 | ploss=-0.01286 | vloss=0.23813 | entropy=-1.16635 | reward=0.34164
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_42.ckpt
+[INFO]  epoch/step=43/29400 | loss=0.21583 | ploss=-0.01698 | vloss=0.23398 | entropy=-1.17957 | reward=0.33928
+[INFO]  epoch/step=43/29500 | loss=0.21966 | ploss=-0.01188 | vloss=0.23270 | entropy=-1.16213 | reward=0.33501
+[INFO]  epoch/step=43/29600 | loss=0.22553 | ploss=-0.01631 | vloss=0.24302 | entropy=-1.17431 | reward=0.34481
+[INFO]  epoch/step=43/29700 | loss=0.22871 | ploss=-0.01746 | vloss=0.24737 | entropy=-1.18859 | reward=0.34281
+[INFO]  epoch/step=43/29800 | loss=0.21796 | ploss=-0.01835 | vloss=0.23748 | entropy=-1.16740 | reward=0.33640
+[INFO]  epoch/step=43/29900 | loss=0.24267 | ploss=0.00127 | vloss=0.24261 | entropy=-1.20398 | reward=0.34187
+[INFO]  epoch/step=43/30000 | loss=0.23699 | ploss=-0.01063 | vloss=0.24880 | entropy=-1.18914 | reward=0.34821
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_43.ckpt
+[INFO]  epoch/step=44/30100 | loss=0.22300 | ploss=-0.01302 | vloss=0.23721 | entropy=-1.18906 | reward=0.33702
+[INFO]  epoch/step=44/30200 | loss=0.22318 | ploss=-0.01278 | vloss=0.23714 | entropy=-1.18215 | reward=0.33612
+[INFO]  epoch/step=44/30300 | loss=0.21800 | ploss=-0.01385 | vloss=0.23303 | entropy=-1.17816 | reward=0.34350
+[INFO]  epoch/step=44/30400 | loss=0.20580 | ploss=-0.02757 | vloss=0.23456 | entropy=-1.18190 | reward=0.33589
+[INFO]  epoch/step=44/30500 | loss=0.24610 | ploss=0.00285 | vloss=0.24443 | entropy=-1.17638 | reward=0.34418
+[INFO]  epoch/step=44/30600 | loss=0.24598 | ploss=0.00204 | vloss=0.24512 | entropy=-1.17810 | reward=0.34432
+[INFO]  epoch/step=44/30700 | loss=0.21880 | ploss=-0.01516 | vloss=0.23514 | entropy=-1.18215 | reward=0.33448
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_44.ckpt
+[INFO]  epoch/step=45/30800 | loss=0.22118 | ploss=-0.01073 | vloss=0.23309 | entropy=-1.18913 | reward=0.33432
+[INFO]  epoch/step=45/30900 | loss=0.23463 | ploss=-0.00581 | vloss=0.24165 | entropy=-1.21707 | reward=0.33857
+[INFO]  epoch/step=45/31000 | loss=0.24953 | ploss=0.00942 | vloss=0.24130 | entropy=-1.19198 | reward=0.34968
+[INFO]  epoch/step=45/31100 | loss=0.22441 | ploss=-0.01011 | vloss=0.23571 | entropy=-1.18881 | reward=0.34459
+[INFO]  epoch/step=45/31200 | loss=0.22756 | ploss=-0.01413 | vloss=0.24288 | entropy=-1.20038 | reward=0.34137
+[INFO]  epoch/step=45/31300 | loss=0.22502 | ploss=-0.01172 | vloss=0.23793 | entropy=-1.19136 | reward=0.34267
+[INFO]  epoch/step=45/31400 | loss=0.24593 | ploss=0.00016 | vloss=0.24694 | entropy=-1.17036 | reward=0.34193
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_45.ckpt
+[INFO]  epoch/step=46/31500 | loss=0.25445 | ploss=0.01323 | vloss=0.24243 | entropy=-1.21397 | reward=0.35025
+[INFO]  epoch/step=46/31600 | loss=0.22604 | ploss=-0.01356 | vloss=0.24079 | entropy=-1.19466 | reward=0.35340
+[INFO]  epoch/step=46/31700 | loss=0.21282 | ploss=-0.01989 | vloss=0.23390 | entropy=-1.19447 | reward=0.33483
+[INFO]  epoch/step=46/31800 | loss=0.23458 | ploss=-0.00158 | vloss=0.23736 | entropy=-1.20464 | reward=0.34980
+[INFO]  epoch/step=46/31900 | loss=0.21809 | ploss=-0.02209 | vloss=0.24138 | entropy=-1.20073 | reward=0.34070
+[INFO]  epoch/step=46/32000 | loss=0.23123 | ploss=-0.00636 | vloss=0.23880 | entropy=-1.20451 | reward=0.33948
+[INFO]  epoch/step=46/32100 | loss=0.24538 | ploss=-0.00011 | vloss=0.24669 | entropy=-1.20307 | reward=0.35052
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_46.ckpt
+[INFO]  epoch/step=47/32200 | loss=0.24895 | ploss=0.00558 | vloss=0.24457 | entropy=-1.19434 | reward=0.35412
+[INFO]  epoch/step=47/32300 | loss=0.22078 | ploss=-0.01726 | vloss=0.23924 | entropy=-1.19892 | reward=0.33868
+[INFO]  epoch/step=47/32400 | loss=0.20580 | ploss=-0.02537 | vloss=0.23237 | entropy=-1.20835 | reward=0.32778
+[INFO]  epoch/step=47/32500 | loss=0.21973 | ploss=-0.01888 | vloss=0.23979 | entropy=-1.18066 | reward=0.33666
+[INFO]  epoch/step=47/32600 | loss=0.23728 | ploss=0.00248 | vloss=0.23598 | entropy=-1.17359 | reward=0.34573
+[INFO]  epoch/step=47/32700 | loss=0.24165 | ploss=0.00076 | vloss=0.24209 | entropy=-1.19780 | reward=0.34128
+[INFO]  epoch/step=47/32800 | loss=0.22100 | ploss=-0.01403 | vloss=0.23624 | entropy=-1.21390 | reward=0.33710
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_47.ckpt
+[INFO]  epoch/step=48/32900 | loss=0.24211 | ploss=-0.00210 | vloss=0.24541 | entropy=-1.20401 | reward=0.34724
+[INFO]  epoch/step=48/33000 | loss=0.23528 | ploss=-0.00448 | vloss=0.24096 | entropy=-1.20310 | reward=0.35556
+[INFO]  epoch/step=48/33100 | loss=0.25242 | ploss=0.00756 | vloss=0.24610 | entropy=-1.23490 | reward=0.34343
+[INFO]  epoch/step=48/33200 | loss=0.22326 | ploss=-0.01924 | vloss=0.24370 | entropy=-1.20512 | reward=0.34787
+[INFO]  epoch/step=48/33300 | loss=0.22577 | ploss=-0.01130 | vloss=0.23827 | entropy=-1.20472 | reward=0.33516
+[INFO]  epoch/step=48/33400 | loss=0.22596 | ploss=-0.01008 | vloss=0.23724 | entropy=-1.19239 | reward=0.34507
+[INFO]  epoch/step=48/33500 | loss=0.23138 | ploss=-0.00967 | vloss=0.24225 | entropy=-1.20027 | reward=0.33904
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_48.ckpt
+[INFO]  epoch/step=49/33600 | loss=0.22458 | ploss=-0.00679 | vloss=0.23257 | entropy=-1.20357 | reward=0.34053
+[INFO]  epoch/step=49/33700 | loss=0.21921 | ploss=-0.01871 | vloss=0.23912 | entropy=-1.21040 | reward=0.33595
+[INFO]  epoch/step=49/33800 | loss=0.22654 | ploss=-0.01508 | vloss=0.24286 | entropy=-1.23220 | reward=0.34283
+[INFO]  epoch/step=49/33900 | loss=0.21687 | ploss=-0.01458 | vloss=0.23265 | entropy=-1.19461 | reward=0.34375
+[INFO]  epoch/step=49/34000 | loss=0.22207 | ploss=-0.01753 | vloss=0.24080 | entropy=-1.20357 | reward=0.34450
+[INFO]  epoch/step=49/34100 | loss=0.24018 | ploss=0.00007 | vloss=0.24133 | entropy=-1.22221 | reward=0.34421
+[INFO]  epoch/step=49/34200 | loss=0.21496 | ploss=-0.02998 | vloss=0.24611 | entropy=-1.17689 | reward=0.34036
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_49.ckpt
+[INFO]  epoch/step=50/34300 | loss=0.24585 | ploss=0.00218 | vloss=0.24490 | entropy=-1.22062 | reward=0.34200
+[INFO]  epoch/step=50/34400 | loss=0.22873 | ploss=-0.01245 | vloss=0.24240 | entropy=-1.21234 | reward=0.34909
+[INFO]  epoch/step=50/34500 | loss=0.21652 | ploss=-0.01677 | vloss=0.23446 | entropy=-1.17383 | reward=0.33748
+[INFO]  epoch/step=50/34600 | loss=0.23527 | ploss=-0.00065 | vloss=0.23713 | entropy=-1.21564 | reward=0.34306
+[INFO]  epoch/step=50/34700 | loss=0.22027 | ploss=-0.01223 | vloss=0.23370 | entropy=-1.20632 | reward=0.33564
+[INFO]  epoch/step=50/34800 | loss=0.23074 | ploss=-0.01280 | vloss=0.24476 | entropy=-1.21192 | reward=0.34436
+[INFO]  epoch/step=50/34900 | loss=0.20871 | ploss=-0.02017 | vloss=0.23011 | entropy=-1.22680 | reward=0.33568
+[INFO]  Save model to ./tmp/Amazon_Beauty/train_agent/policy_model_epoch_50.ckpt
+Predicting paths...
+Load embedding: ./tmp/Amazon_Beauty/transe_embed.pkl
+Load embedding: ./tmp/Amazon_Beauty/transe_embed.pkl
+NDCG=5.517 |  Recall=8.470 | HR=14.594 | Precision=1.732 | Invalid users=5
