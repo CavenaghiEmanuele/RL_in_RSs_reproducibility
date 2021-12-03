@@ -63,7 +63,9 @@ if __name__ == "__main__":
     torch.cuda.manual_seed(0)
 
     # filepath = "./"
-    filepath = "movielens/"
+    # filepath = "movielens/"
+    filepath = "wiki10/"
+
     device = args.device
 
     dataset = MovieLensDataset(filepath, device=device)
