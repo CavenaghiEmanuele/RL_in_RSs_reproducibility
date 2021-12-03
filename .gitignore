@@ -6,6 +6,13 @@
 *.csv
 *.txt
 .*
+*.pyc
+.*.swp
+.idea/
+tmp/
+.DS_Store
+*.pkl
+tags
 
 ml-20m/
 ml-10m/
@@ -13,6 +20,8 @@ scratch/
 run_time/
 rating/
 data/
+movielens/
+wiki10/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
