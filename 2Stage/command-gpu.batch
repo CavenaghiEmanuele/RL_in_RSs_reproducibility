@@ -1,0 +1,18 @@
+#!/bin/bash
+#SBATCH --job-name 2Stage
+#SBATCH --output=2Stage-%j.out
+#SBATCH --error=2Stage-%j.err
+#SBATCH --partition gpu
+#SBATCH --nodes=1
+#SBATCH --gres=gpu:1
+ 
+module load cuda-11.2.1 
+module load anaconda3
+# check if the GPU is present, 
+nvidia-smi
+
+conda activate rs_survey
+
+python run.py --loss_type loss_ce
+python run.py --loss_type loss_ips
+python run.py --loss_type loss_2s
