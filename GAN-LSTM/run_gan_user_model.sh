@@ -4,7 +4,7 @@ dropbox=./dropbox
 data_dir=$dropbox/
 
 user_model=LSTM
-dataset=tb
+dataset=lastfm
 
 subdir=model-${user_model}-dataset-${dataset}
 save_dir=scratch/$subdir

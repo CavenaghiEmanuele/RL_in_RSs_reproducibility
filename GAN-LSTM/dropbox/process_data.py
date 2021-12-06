@@ -16,7 +16,11 @@ print(cmd_args)
 
 filename = './'+cmd_args.dataset+'.txt'
 
-raw_data = pd.read_csv(filename, sep='\t', usecols=[1, 3, 5, 7, 6], dtype={1: int, 3: int, 7: int, 5:int, 6:int})
+# raw_data = pd.read_csv(filename, sep='\t', usecols=[1, 3, 5, 7, 6], dtype={1: int, 3: int, 7: int, 5:int, 6:int})
+# only for lastfm dataset
+raw_data = pd.read_csv(filename, sep='\t', usecols=[1, 3, 4, 6, 5], dtype={1: int, 3: int, 4: int, 6:int, 5:int})
+raw_data = raw_data.rename(columns={"tr_val_tst_x": "tr_val_tst"})
+####
 
 raw_data.drop_duplicates(subset=['session_new_index','Time','item_new_index','is_click'], inplace=True)
 raw_data.sort_values(by='is_click',inplace=True)
