@@ -3,6 +3,7 @@ import os
 
 import numpy as np
 import random
+from collections import defaultdict 
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -223,7 +224,7 @@ if __name__ == "__main__":
     '''
     Repeat the experiment n times
     '''
-    results = {"one_stage": [], "two_stage": []}
+    results = {"one_stage": {}, "two_stage": {}}
     for i in range(args.n):
 
         ####################################################################################
@@ -384,10 +385,7 @@ if __name__ == "__main__":
                 ranker_logits = ranker(all_user_feats, all_item_feats,
                                     all_impression_feats)
 
-        print("-----------------------------------------------------")
-        print("ALGORITHMS EVALUATION", "\n", "with loss type: " + args.loss_type)
         for epoch in range(20):
-            print("\n", "---epoch {}---".format(epoch))
             for step in range(len(u) // batch_size):
 
                 # DATA TO USE #####################
@@ -455,13 +453,29 @@ if __name__ == "__main__":
         print("Best test results\n 1 stage: {}\n 2 stage: {}".format(
             test_results[best_epoch][0], test_results[best_epoch][1]))
 
-        results["one_stage"].append(test_results[best_epoch][0])
-        results["two_stage"].append(test_results[best_epoch][1])
+        for key, item in test_results[best_epoch][0].items():
+            try:
+                results["one_stage"][key].append(item)
+            except:
+                results["one_stage"].update({key: [item]})
+            
+        for key, item in test_results[best_epoch][1].items():
+            try:
+                results["two_stage"][key].append(item)
+            except:
+                results["two_stage"].update({key: [item]})
 
     print("##########################################")
-    print("ONE STAGE \n mean: {} \n standard error: {}".format(
-        np.mean(results["one_stage"]), np.std(results["one_stage"])
+    print("ALGORITHMS EVALUATION", "\n", "with loss type: " + args.loss_type)
+    
+    print("ONE STAGE")
+    for key, item in results["one_stage"].items():
+        print(key, ": \n mean: {} \n standard error: {}".format(
+        np.mean(item), np.std(item)
     ))
-    print("TWO STAGE \n mean: {} \n standard error: {}".format(
-        np.mean(results["two_stage"]), np.std(results["two_stage"])
+    
+    print("TWO STAGE")
+    for key, item in results["two_stage"].items():
+        print(key, ": \n mean: {} \n standard error: {}".format(
+        np.mean(item), np.std(item)
     ))
