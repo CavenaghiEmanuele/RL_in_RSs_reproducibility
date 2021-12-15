@@ -13,6 +13,6 @@ nvidia-smi
 
 conda activate rs_survey
 
-python run.py --loss_type loss_ce
-python run.py --loss_type loss_ips
-python run.py --loss_type loss_2s
+python modified_run.py --loss_type loss_ce
+python modified_run.py --loss_type loss_ips
+python modified_run.py --loss_type loss_2s
