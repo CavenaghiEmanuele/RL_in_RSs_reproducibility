@@ -360,8 +360,8 @@ if __name__ == "__main__":
         batch_size = 128
         check_metric = "Precision@10"
 
-        torch.manual_seed(args.seed)
-        torch.cuda.manual_seed(args.seed)
+        torch.manual_seed(i)
+        torch.cuda.manual_seed(i)
 
         nominator = Nominator().to(device)
         nominator.set_binary(False)
@@ -449,9 +449,9 @@ if __name__ == "__main__":
 
                 nominator.train()
 
-        print("------------------------------------------------------------")
-        print("Best test results\n 1 stage: {}\n 2 stage: {}".format(
-            test_results[best_epoch][0], test_results[best_epoch][1]))
+        #print("------------------------------------------------------------")
+        #print("Best test results\n 1 stage: {}\n 2 stage: {}".format(
+        #    test_results[best_epoch][0], test_results[best_epoch][1]))
 
         for key, item in test_results[best_epoch][0].items():
             try:
@@ -467,6 +467,8 @@ if __name__ == "__main__":
 
     print("##########################################")
     print("ALGORITHMS EVALUATION", "\n", "with loss type: " + args.loss_type)
+
+    print(results)
     
     print("ONE STAGE")
     for key, item in results["one_stage"].items():
