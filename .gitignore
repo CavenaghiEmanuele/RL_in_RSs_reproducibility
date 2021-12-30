@@ -24,6 +24,7 @@ data/
 Data/
 movielens/
 wiki10/
+agn_train
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
