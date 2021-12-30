@@ -89,3 +89,4 @@ dependencies:
     - toml==0.10.2
     - traitlets==4.3.3
     - wcwidth==0.2.5
+prefix: /home/desktop-ubuntu/anaconda3/envs/rs_survey_python2
