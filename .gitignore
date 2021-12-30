@@ -5,6 +5,7 @@
 *.pkl
 *.csv
 *.txt
+!requirements.txt
 .*
 *.pyc
 .*.swp
