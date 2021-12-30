@@ -1,0 +1,21 @@
+Namespace(dataset='lastfm')
+Traceback (most recent call last):
+  File "process_data.py", line 73, in <module>
+    pickle.dump(new_features, file, protocol=pickle.HIGHEST_PROTOCOL)
+  File "/home/clusterusers/ecavenaghi/.conda/envs/rs_survey_python2/lib/python2.7/pickle.py", line 1376, in dump
+    Pickler(file, protocol).dump(obj)
+  File "/home/clusterusers/ecavenaghi/.conda/envs/rs_survey_python2/lib/python2.7/pickle.py", line 224, in dump
+    self.save(obj)
+  File "/home/clusterusers/ecavenaghi/.conda/envs/rs_survey_python2/lib/python2.7/pickle.py", line 331, in save
+    self.save_reduce(obj=obj, *rv)
+  File "/home/clusterusers/ecavenaghi/.conda/envs/rs_survey_python2/lib/python2.7/pickle.py", line 425, in save_reduce
+    save(state)
+  File "/home/clusterusers/ecavenaghi/.conda/envs/rs_survey_python2/lib/python2.7/pickle.py", line 286, in save
+    f(self, obj) # Call unbound method with explicit self
+  File "/home/clusterusers/ecavenaghi/.conda/envs/rs_survey_python2/lib/python2.7/pickle.py", line 568, in save_tuple
+    save(element)
+  File "/home/clusterusers/ecavenaghi/.conda/envs/rs_survey_python2/lib/python2.7/pickle.py", line 286, in save
+    f(self, obj) # Call unbound method with explicit self
+  File "/home/clusterusers/ecavenaghi/.conda/envs/rs_survey_python2/lib/python2.7/pickle.py", line 492, in save_string
+    self.write(BINSTRING + pack("<i", n) + obj)
+struct.error: 'i' format requires -2147483648 <= number <= 2147483647

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 m100k(){
-    ~/pyenv3/bin/python3 ./train_file.py -model $1 -log_path ./log/ -data_name m100k \
+    python ./train_file.py -model $1 -log_path ./log/ -data_name m100k \
     -root_path ./data/ml-100k/ -rating_path rat.dat -cat_path cat.dat -item_num 1683 \
     -user_num 944 -cat_n1_num 7 -cat_n2_num 20 -c_puct $2 -n_playout $3 -temperature $4 \
     -update_frequency $5 -batch_size $6 -epoch $7 -memory_capacity $8 -learning_rate $9 \
