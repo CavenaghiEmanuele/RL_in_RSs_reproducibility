@@ -1,30 +1,30 @@
 # Manually added
 *.pdf
-*.zip
-*.pdf
-*.pkl
-*.csv
-*.txt
-!requirements.txt
-.*
 *.pyc
 .*.swp
 .idea/
 tmp/
 .DS_Store
-*.pkl
 tags
 
-ml-20m/
-ml-10m/
-scratch/
-run_time/
-rating/
-data/
-Data/
-movielens/
-wiki10/
-train/
+
+# Exclude repository subfolder
+GAN-LSTM/dropbox/*.txt
+GAN-LSTM/dropbox/*.pkl
+
+IRecGAN/src/*.txt
+IRecGAN/src/data
+IRecGAN/src/train
+
+exact-k/logdir/*.*
+
+KG-Policy/Data
+
+2Stage/movielens
+
+TPGR/data
+
+GAN-LSTM/scratch
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
