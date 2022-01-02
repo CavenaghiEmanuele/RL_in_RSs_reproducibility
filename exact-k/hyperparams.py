@@ -4,7 +4,7 @@
 class Hyperparams:
     '''Hyperparameters'''
     # data
-    data_set = 'ml100k-10c'
+    data_set = 'ml100k'
 
     gen_data_train = 'data/' + data_set + '/rerank_data_10c_train.txt'
     gen_data_test = 'data/' + data_set + '/rerank_data_10c_test.txt'
