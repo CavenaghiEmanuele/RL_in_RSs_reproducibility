@@ -8,8 +8,8 @@ exact-k
 
 1. Create and activate the Anaconda environemnt 
 ```bash
-➜ conda env create -f rs_survey_tensorflow1.yml
-➜ conda activate rs_survey_tensorflow1
+➜ conda env create -f rs_survey_python2.yml
+➜ conda activate rs_survey_python2
 ```
 
 2. Create a "logdir" directory
