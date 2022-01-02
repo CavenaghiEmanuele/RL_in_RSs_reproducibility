@@ -1,0 +1,118 @@
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/RL_RS_Survey/exact-k/data_load_ml.py:76: slice_input_producer (from tensorflow.python.training.input) is deprecated and will be removed in a future version.
+Instructions for updating:
+Queue-based input pipelines have been replaced by `tf.data`. Use `tf.data.Dataset.from_tensor_slices(tuple(tensor_list)).shuffle(tf.shape(input_tensor, out_type=tf.int64)[0]).repeat(num_epochs)`. If `shuffle=False`, omit the `.shuffle(...)`.
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/.conda/envs/rs_survey_python2/lib/python2.7/site-packages/tensorflow_core/python/training/input.py:373: range_input_producer (from tensorflow.python.training.input) is deprecated and will be removed in a future version.
+Instructions for updating:
+Queue-based input pipelines have been replaced by `tf.data`. Use `tf.data.Dataset.range(limit).shuffle(limit).repeat(num_epochs)`. If `shuffle=False`, omit the `.shuffle(...)`.
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/.conda/envs/rs_survey_python2/lib/python2.7/site-packages/tensorflow_core/python/training/input.py:319: input_producer (from tensorflow.python.training.input) is deprecated and will be removed in a future version.
+Instructions for updating:
+Queue-based input pipelines have been replaced by `tf.data`. Use `tf.data.Dataset.from_tensor_slices(input_tensor).shuffle(tf.shape(input_tensor, out_type=tf.int64)[0]).repeat(num_epochs)`. If `shuffle=False`, omit the `.shuffle(...)`.
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/.conda/envs/rs_survey_python2/lib/python2.7/site-packages/tensorflow_core/python/training/input.py:189: limit_epochs (from tensorflow.python.training.input) is deprecated and will be removed in a future version.
+Instructions for updating:
+Queue-based input pipelines have been replaced by `tf.data`. Use `tf.data.Dataset.from_tensors(tensor).repeat(num_epochs)`.
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/.conda/envs/rs_survey_python2/lib/python2.7/site-packages/tensorflow_core/python/training/input.py:198: __init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/.conda/envs/rs_survey_python2/lib/python2.7/site-packages/tensorflow_core/python/training/input.py:198: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/RL_RS_Survey/exact-k/data_load_ml.py:85: shuffle_batch (from tensorflow.python.training.input) is deprecated and will be removed in a future version.
+Instructions for updating:
+Queue-based input pipelines have been replaced by `tf.data`. Use `tf.data.Dataset.shuffle(min_after_dequeue).batch(batch_size)`.
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/RL_RS_Survey/exact-k/model.py:17: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/RL_RS_Survey/exact-k/model.py:32: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/RL_RS_Survey/exact-k/modules.py:101: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/RL_RS_Survey/exact-k/model.py:55: dropout (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dropout instead.
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/.conda/envs/rs_survey_python2/lib/python2.7/site-packages/tensorflow_core/python/layers/core.py:271: apply (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/RL_RS_Survey/exact-k/model.py:73: __init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.GRUCell, and will be replaced by that in Tensorflow 2.0.
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/RL_RS_Survey/exact-k/model.py:74: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/.conda/envs/rs_survey_python2/lib/python2.7/site-packages/tensorflow_core/python/ops/rnn_cell_impl.py:559: add_variable (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.add_weight` method instead.
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/.conda/envs/rs_survey_python2/lib/python2.7/site-packages/tensorflow_core/python/ops/rnn_cell_impl.py:565: calling __init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/.conda/envs/rs_survey_python2/lib/python2.7/site-packages/tensorflow_core/python/ops/rnn_cell_impl.py:575: calling __init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/RL_RS_Survey/exact-k/model.py:79: __init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0.
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/.conda/envs/rs_survey_python2/lib/python2.7/site-packages/tensorflow_core/python/util/dispatch.py:180: calling expand_dims (from tensorflow.python.ops.array_ops) with dim is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the `axis` argument instead
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/RL_RS_Survey/exact-k/layers.py:188: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/RL_RS_Survey/exact-k/layers.py:335: calling reduce_logsumexp_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/.conda/envs/rs_survey_python2/lib/python2.7/site-packages/tensorflow_core/python/ops/math_ops.py:2509: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/RL_RS_Survey/exact-k/model.py:148: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+WARNING:tensorflow:From train.py:27: The name tf.get_variable_scope is deprecated. Please use tf.compat.v1.get_variable_scope instead.
+
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/RL_RS_Survey/exact-k/layers.py:405: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.Dense instead.
+WARNING:tensorflow:From /home/clusterusers/ecavenaghi/RL_RS_Survey/exact-k/model.py:205: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+WARNING:tensorflow:From train.py:60: __init__ (from tensorflow.python.training.supervisor) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.MonitoredTrainingSession
+WARNING:tensorflow:From train.py:62: The name tf.GPUOptions is deprecated. Please use tf.compat.v1.GPUOptions instead.
+
+WARNING:tensorflow:From train.py:65: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2022-01-02 15:52:43.284633: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 AVX512F FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-01-02 15:52:43.325364: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2100000000 Hz
+2022-01-02 15:52:43.325734: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55a3750ba1e0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2022-01-02 15:52:43.325775: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+OMP: Info #155: KMP_AFFINITY: Initial OS proc set respected: 0,16
+OMP: Info #216: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #157: KMP_AFFINITY: 2 available OS procs
+OMP: Info #158: KMP_AFFINITY: Uniform topology
+OMP: Info #287: KMP_AFFINITY: topology layer "LL cache" is equivalent to "socket".
+OMP: Info #287: KMP_AFFINITY: topology layer "L3 cache" is equivalent to "socket".
+OMP: Info #287: KMP_AFFINITY: topology layer "L2 cache" is equivalent to "core".
+OMP: Info #287: KMP_AFFINITY: topology layer "L1 cache" is equivalent to "core".
+OMP: Info #192: KMP_AFFINITY: 1 socket x 1 core/socket x 2 threads/core (1 total cores)
+OMP: Info #218: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #172: KMP_AFFINITY: OS proc 0 maps to socket 0 core 0 thread 0 
+OMP: Info #172: KMP_AFFINITY: OS proc 16 maps to socket 0 core 0 thread 1 
+OMP: Info #254: KMP_AFFINITY: pid 2381160 tid 2381160 thread 0 bound to OS proc set 0
+2022-01-02 15:52:43.326890: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+OMP: Info #254: KMP_AFFINITY: pid 2381160 tid 2381181 thread 13 bound to OS proc set 16
+OMP: Info #254: KMP_AFFINITY: pid 2381160 tid 2381228 thread 14 bound to OS proc set 0
+OMP: Info #254: KMP_AFFINITY: pid 2381160 tid 2381182 thread 15 bound to OS proc set 16
+OMP: Info #254: KMP_AFFINITY: pid 2381160 tid 2381229 thread 16 bound to OS proc set 0
+2022-01-02 15:53:40.254992: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 0, topological sort failed with message: The graph couldn't be sorted in topological order.
+2022-01-02 15:53:40.266221: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 1, topological sort failed with message: The graph couldn't be sorted in topological order.
+2022-01-02 15:53:40.290812: E tensorflow/core/grappler/optimizers/meta_optimizer.cc:533] model_pruner failed: Invalid argument: MutableGraphView::MutableGraphView error: node 'GeneratorInfer/decoder/decoder_rnn_3/concat' has self cycle fanin 'GeneratorInfer/decoder/decoder_rnn_3/concat'.
+2022-01-02 15:53:40.337120: E tensorflow/core/grappler/optimizers/meta_optimizer.cc:533] remapper failed: Invalid argument: MutableGraphView::MutableGraphView error: node 'GeneratorInfer/decoder/decoder_rnn_3/concat' has self cycle fanin 'GeneratorInfer/decoder/decoder_rnn_3/concat'.
+2022-01-02 15:53:40.345678: E tensorflow/core/grappler/optimizers/meta_optimizer.cc:533] arithmetic_optimizer failed: Invalid argument: The graph couldn't be sorted in topological order.
+2022-01-02 15:53:40.354070: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 0, topological sort failed with message: The graph couldn't be sorted in topological order.
+2022-01-02 15:53:40.362385: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 1, topological sort failed with message: The graph couldn't be sorted in topological order.
