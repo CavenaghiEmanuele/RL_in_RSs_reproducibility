@@ -26,6 +26,8 @@ TPGR/data
 
 GAN-LSTM/scratch
 
+HRL/Data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
