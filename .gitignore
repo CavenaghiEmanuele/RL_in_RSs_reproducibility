@@ -30,6 +30,8 @@ HRL/Data
 
 KGQR/data
 
+PGPR/data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
