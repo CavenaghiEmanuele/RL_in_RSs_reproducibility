@@ -1,0 +1,12 @@
+name: rs_survey_tensorflow1
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - scipy
+  - tensorflow=1.15
+  - pandas
+  - scikit-learn
+  - pytorch-gpu
+prefix: /home/desktop-ubuntu/anaconda3/envs/rs_survey_tensorflow1
