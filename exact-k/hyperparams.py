@@ -21,7 +21,7 @@ class Hyperparams:
     beam_size = 3
     num_layers = 1 # rnn layer num
     seq_length = 50 # encoder length
-    res_length = 10
+    res_length = 4
     lr_dis = 0.001 # learning rate.
     lr_gen = 0.001
     logdir = 'logdir' # log directory
