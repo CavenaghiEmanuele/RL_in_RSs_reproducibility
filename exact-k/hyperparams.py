@@ -20,8 +20,8 @@ class Hyperparams:
     num_glimpse = 1
     beam_size = 3
     num_layers = 1 # rnn layer num
-    seq_length = 50 # encoder length
-    res_length = 4
+    seq_length = 20 # 20 TO RUN ml100k AND 50 TO RUN ml100k-10c
+    res_length = 4 # 4 TO RUN ml100k AND 10 TO RUN ml100k-10c
     lr_dis = 0.001 # learning rate.
     lr_gen = 0.001
     logdir = 'logdir' # log directory
