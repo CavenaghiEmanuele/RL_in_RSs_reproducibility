@@ -32,6 +32,9 @@ KGQR/data
 
 PGPR/data
 
+RL4REC/Kaggle/data
+RL4REC/RC15/data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
