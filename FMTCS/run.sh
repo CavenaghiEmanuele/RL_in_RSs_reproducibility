@@ -12,6 +12,3 @@ m100k(){
 name="m100k_hmcts"
 (m100k $name 20.0 50 20.0 1 60 10000 1000 0.005 sgd 100 20 False [40001] train) &
 (m100k $name 20.0 50 20.0 1 60 10000 1000 0.005 sgd 100 20 False [40001] evaluate) &
-
-
-
