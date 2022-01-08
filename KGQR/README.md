@@ -17,8 +17,12 @@ According to the paper's original README file:
 ```
 2. Download the data folder from [here](https://www.dropbox.com/sh/knebi6y3lcvwv9x/AADsTZnF2dpm7xoA7n4PnN0Oa?dl=0) and save it in the KGQR directory.
 
+3. Go to the src directorty
+```bash
+➜ cd src
+```
 
-3. Run the main file:
+4. Run the main file:
 ```bash
 ➜ python main.py
 ```

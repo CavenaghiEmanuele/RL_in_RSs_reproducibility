@@ -4,6 +4,7 @@ from recommender import Recommender
 
 parser = argparse.ArgumentParser()
 
+'''
 #movielens1M for demo
 #Env
 parser.add_argument('--dataset', type=str, default='movielens', help='which dataset to use')
@@ -43,7 +44,7 @@ parser.add_argument('--load', type=bool, default=False)
 parser.add_argument('--modelname', type=str, default=None)
 parser.add_argument('--save_step', type=int, default=3)
 parser.add_argument('--version', type=int, default=0)
-
+'''
 
 #book-crossing
 #Env
@@ -84,7 +85,7 @@ parser.add_argument('--version', type=int, default=0)
 # parser.add_argument('--save_step', type=int, default=3)
 # parser.add_argument('--version', type=int, default=0)
 
-'''
+
 # ml-20m
 # Env
 parser.add_argument('--dataset', type=str, default='movielens20M', help='which dataset to use')
@@ -124,7 +125,7 @@ parser.add_argument('--load', type=bool, default=True)
 parser.add_argument('--modelname', type=str, default=None)
 parser.add_argument('--save_step', type=int, default=3)
 parser.add_argument('--version', type=int, default=0)
-'''
+
 args = parser.parse_args()
 
 # with open('../data/result/' + time.strftime('%Y%m%d%H%M%S') + '_' + args.dataset + 'args', 'w') as f:
