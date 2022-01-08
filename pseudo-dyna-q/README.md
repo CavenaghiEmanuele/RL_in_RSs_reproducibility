@@ -1,8 +1,11 @@
-# Paper
-2020 [Pseudo Dyna-Q: A reinforcement learning framework for interactive recommendation ](https://dl.acm.org/doi/abs/10.1145/3336191.3371801)
+# References
 
-# Algorithm name
-Pseudo-dyna-q
+:books: Paper: [2020 - Pseudo Dyna-Q: A reinforcement learning framework for interactive recommendation ](https://dl.acm.org/doi/abs/10.1145/3336191.3371801)
+
+:wrench: Repository: [Pseudo-dyna-q](https://github.com/zoulixin93/pseudo_dyna_q)
+
+:robot: Algorithm name: Pseudo-dyna-q
+
 
 # Reproducibility
 There is no documentation in the original document.
