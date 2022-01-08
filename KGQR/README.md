@@ -1,8 +1,11 @@
-# Paper
-2020 [Interactive recommender system via knowledge graph-enhanced reinforcement learning ](https://doi.org/10.1145/3397271.3401174)
+# References
 
-# Algorithm name
-KGQR
+:books: Paper: [2020 - Interactive recommender system via knowledge graph-enhanced reinforcement learning ](https://doi.org/10.1145/3397271.3401174)
+
+:wrench: Repository: [KGQR](https://www.dropbox.com/sh/knebi6y3lcvwv9x/AADsTZnF2dpm7xoA7n4PnN0Oa?dl=0)
+
+:robot: Algorithm name: KGQR
+
 
 # Reproducibility
 According to the paper's original README file:
