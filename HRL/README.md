@@ -1,8 +1,10 @@
-# Paper
-2019 [Hierarchical Reinforcement Learning for Course Recommendation in MOOCs](https://ojs.aaai.org/index.php/AAAI/article/view/3815)
+# References
 
-# Algorithm name
-HRL
+:books: Paper: [2019 - Hierarchical Reinforcement Learning for Course Recommendation in MOOCs](https://ojs.aaai.org/index.php/AAAI/article/view/3815)
+
+:wrench: Repository: [HRL](https://github.com/jerryhao66/HRL)
+
+:robot: Algorithm name: HRL
 
 # Reproducibility
 According to the original README file in the paper repository:

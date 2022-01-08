@@ -1,2 +1,0 @@
-2022-01-02 17:55:44,257 - module_wrapper.py[line:139] - WARNING: From Train.py:226: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
-
