@@ -1,8 +1,11 @@
-# Paper
-2020 [Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation](https://arxiv.org/abs/1911.03845)
+# References
 
-# Algorithm name
-IRecGAN
+:books: Paper: [2020 - Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation](https://arxiv.org/abs/1911.03845)
+
+:wrench: Repository: [IRecGAN](https://github.com/JianGuanTHU/IRecGAN)
+
+:robot: Algorithm name: IRecGAN
+
 
 # Reproducibility
 According to the original README file in the paper repository:
