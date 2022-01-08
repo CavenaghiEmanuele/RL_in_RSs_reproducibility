@@ -1,8 +1,10 @@
-# Paper
-2020 [Exact-K Recommendation via Maximal Clique Optimization](https://doi.org/10.1145/3292500.3330832)
+# References
 
-# Algorithm name
-exact-k
+:books: Paper: [2020 - Exact-K Recommendation via Maximal Clique Optimization](https://doi.org/10.1145/3292500.3330832)
+
+:wrench: Repository: [exact-k-recommendation](https://github.com/pangolulu/exact-k-recommendation)
+
+:robot: Algorithm name: exact-k
 
 # Reproducibility
 
