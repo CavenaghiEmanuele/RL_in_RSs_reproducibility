@@ -87,6 +87,6 @@ dependencies:
     - scandir==1.10.0
     - simplegeneric==0.8.1
     - toml==0.10.2
+    - tqdm==4.62.3
     - traitlets==4.3.3
     - wcwidth==0.2.5
-prefix: /home/desktop-ubuntu/anaconda3/envs/rs_survey_python2
