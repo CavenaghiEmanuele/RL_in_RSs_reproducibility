@@ -8,7 +8,7 @@ EPISODE_LENGTH = 32
 LOG_STEP = 1
 
 [ENV]
-RATING_FILE = movielens
+RATING_FILE = demo_data
 MAX_RATING = 5.0
 MIN_RATING = 0.0
 ALPHA = 0.0
