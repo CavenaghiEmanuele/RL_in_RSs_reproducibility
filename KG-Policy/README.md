@@ -1,12 +1,14 @@
-# Paper
-2019 [Reinforced Negative Sampling over Knowledge Graph for Recommendation](https://dl.acm.org/doi/abs/10.1145/3366423.3380098)
+# References
 
-# Algorithm name
-KGPolicy
+:books: Paper: [2019 - Reinforced Negative Sampling over Knowledge Graph for Recommendation](https://dl.acm.org/doi/abs/10.1145/3366423.3380098)
+
+
+:wrench: Repository: [kgpolicy](https://github.com/xiangwang1223/kgpolicy)
+
+:robot: Algorithm name: KGPolicy
+
 
 # Reproducibility
-According to the README file reported in the original paper's repository:
-
 1. Get dataset and pretrain model (the dataset and the pretrained model are not included in the repository)
 ```bash
 ➜ wget https://github.com/xiangwang1223/kgpolicy/releases/download/v1.0/Data.zip
