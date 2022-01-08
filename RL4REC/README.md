@@ -1,8 +1,11 @@
-# Paper
-2020 [Self-Supervised Reinforcement Learning for Recommender Systems](https://doi.org/10.1145/3397271.3401147)
+# References
 
-# Algorithm name
-RL4REC
+:books: Paper: [2020 - Self-Supervised Reinforcement Learning for Recommender Systems](https://doi.org/10.1145/3397271.3401147)
+
+:wrench: Repository: [RL4REC](https://drive.google.com/file/d/1nLL3_knhj_RbaP_IepBLkwaT6zNIeD5z/view)
+
+:robot: Algorithm name: RL4REC
+
 
 # Reproducibility
 There is no documentation in the original document.
