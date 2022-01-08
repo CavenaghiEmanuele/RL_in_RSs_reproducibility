@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "Train.py", line 227, in <module>
+    dataset = Dataset(args.datapath, args.num_neg, args.batch_size, args.fast_running)
+  File "/home/desktop-ubuntu/Git/RL_RS_Survey/HRL/DataGenerator.py", line 23, in __init__
+    self.trainMatrix = self.load_training_file_as_matrix(data_path + ".train.rating")
+  File "/home/desktop-ubuntu/Git/RL_RS_Survey/HRL/DataGenerator.py", line 71, in load_training_file_as_matrix
+    u, i = int(arr[0]), int(arr[1])
+ValueError: invalid literal for int() with base 10: '\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0
