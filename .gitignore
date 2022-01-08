@@ -17,7 +17,7 @@ IRecGAN/src/*.txt
 IRecGAN/src/data
 IRecGAN/src/train
 
-exact-k/logdir/*.*
+exact-k/logdir/
 
 KG-Policy/Data
 

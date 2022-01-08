@@ -2,7 +2,7 @@
 
 :books: Paper: [2019 - Large-Scale Interactive Recommendation with Tree-Structured Policy Gradient](https://ojs.aaai.org/index.php/AAAI/article/view/4204) 
 
-:wrench: Repository: [TPGR]https://github.com/chenhaokun/TPGR)
+:wrench: Repository: [TPGR](https://github.com/chenhaokun/TPGR)
 
 :robot: Algorithm name: TPGR
 
