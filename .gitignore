@@ -34,6 +34,7 @@ PGPR/data
 
 RL4REC/Kaggle/data
 RL4REC/RC15/data
+!RL4REC/RC15/results
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
