@@ -13,8 +13,8 @@ nvidia-smi
 
 conda activate rs_survey_tensorflow1
 
-echo "\n##################\n NltNet \n##################\n"
-python NextItNet.py --lr 0.005
+# echo "\n##################\n NltNet \n##################\n"
+# python NextItNet.py --lr 0.005
 echo "\n##################\n NltNet_TH \n##################\n"
 python NextItNet_TH.py --lr 0.005
 echo "\n##################\n NltNet_AC \n##################\n"

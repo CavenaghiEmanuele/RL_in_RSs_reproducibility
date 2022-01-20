@@ -6,7 +6,7 @@
 #SBATCH --nodes=1
 #SBATCH --gres=gpu:1
 
-module load cuda-11.2.1
+module load cuda-10.2
 module load anaconda3
 # check if the GPU is present
 nvidia-smi
