@@ -1,0 +1,45 @@
+#!/bin/bash
+#SBATCH --job-name RL4RECKaggle
+#SBATCH --output=RL4RECKaggle-%j.out
+#SBATCH --error=RL4RECKaggle-%j.err
+#SBATCH --partition gpu
+#SBATCH --nodes=1
+#SBATCH --gres=gpu:1
+
+module load cuda-11.2.1
+module load anaconda3
+# check if the GPU is present
+nvidia-smi
+
+conda activate rs_survey_tensorflow1
+
+echo "\n##################\n GRU \n##################\n"
+python GRU.py --lr 0.005
+echo "\n##################\n GRU_TH \n##################\n"
+python GRU_TH.py --lr 0.005
+echo "\n##################\n GRU_AC \n##################\n"
+python GRU_AC.py --lr 0.005
+
+
+echo "\n##################\n Caser \n##################\n"
+python Caser.py --lr 0.005
+echo "\n##################\n Caser_TH \n##################\n"
+python Caser_TH.py --lr 0.005
+echo "\n##################\n Caser_AC \n##################\n"
+python Caser_AC.py --lr 0.005
+
+
+echo "\n##################\n NltNet \n##################\n"
+python NextItNet.py --lr 0.005
+echo "\n##################\n NltNet_TH \n##################\n"
+python NextItNet_TH.py --lr 0.005
+echo "\n##################\n NltNet_AC \n##################\n"
+python NextItNet_AC.py --lr 0.005
+
+
+echo "\n##################\n SASRec \n##################\n"
+python SASRec.py --lr 0.005
+echo "\n##################\n SASRec_TH \n##################\n"
+python SASRec_TH.py --lr 0.005
+echo "\n##################\n SASRec_AC \n##################\n"
+python SASRec_AC.py --lr 0.005

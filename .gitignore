@@ -1,11 +1,47 @@
+# Manually added
+*.pdf
+*.pyc
+.*.swp
+.idea/
+tmp/
+.DS_Store
+tags
+
+results/
+
+# Exclude repository subfolder
+GAN-LSTM/dropbox/*.txt
+GAN-LSTM/dropbox/*.pkl
+
+IRecGAN/src/*.txt
+IRecGAN/src/data
+IRecGAN/src/train
+
+exact-k/logdir/
+
+KG-Policy/Data
+
+2Stage/movielens
+
+
+GAN-LSTM/scratch
+
+HRL/Data
+
+KGQR/data
+
+PGPR/data
+
+RL4REC/Kaggle/data
+RL4REC/RC15/data
+!RL4REC/RC15/results
+!RL4REC/Kaggle/results
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-*.zip
-*.pdf
-*.pkl
-*.csv
+
 
 # C extensions
 *.so
@@ -108,9 +144,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
-env/
 venv/
-ENV/
 env.bak/
 venv.bak/
 

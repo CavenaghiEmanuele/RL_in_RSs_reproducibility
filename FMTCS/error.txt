@@ -1,0 +1,21 @@
+Process Process-1:
+Traceback (most recent call last):
+  File "/home/desktop-ubuntu/anaconda3/envs/rs_survey_tensorflow1/lib/python3.7/multiprocessing/process.py", line 297, in _bootstrap
+    self.run()
+  File "/home/desktop-ubuntu/anaconda3/envs/rs_survey_tensorflow1/lib/python3.7/multiprocessing/process.py", line 99, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/desktop-ubuntu/Git/RL_RS_Survey/FMTCS/train/train.py", line 57, in train
+    data,reward = collecting_training_samples(config,mcts,env,config.temperature/(e+0.000001))
+  File "/home/desktop-ubuntu/Git/RL_RS_Survey/FMTCS/train/train.py", line 29, in collecting_training_samples
+    act,acts,act_probs = mcts.get_action(cp.deepcopy(env), temp,training=True)
+  File "/home/desktop-ubuntu/Git/RL_RS_Survey/FMTCS/train/mcts.py", line 155, in get_action
+    acts, probs = self.get_move_probs(env, temperature)
+  File "/home/desktop-ubuntu/Git/RL_RS_Survey/FMTCS/train/mcts.py", line 145, in get_move_probs
+    self._playout(env_copy)
+  File "/home/desktop-ubuntu/Git/RL_RS_Survey/FMTCS/train/mcts.py", line 118, in _playout
+    _action_probs, next_state_value = self._policy["model"].get_actions_probability(self._policy["sess"],env)
+  File "/home/desktop-ubuntu/Git/RL_RS_Survey/FMTCS/function_approximation/rnn_model.py", line 197, in get_actions_probability
+    all_score = softmax([p_policy[0][item] for item in sensible_action],30)
+  File "/home/desktop-ubuntu/Git/RL_RS_Survey/FMTCS/function_approximation/rnn_model.py", line 197, in <listcomp>
+    all_score = softmax([p_policy[0][item] for item in sensible_action],30)
+IndexError: index 9 is out of bounds for axis 0 with size 7

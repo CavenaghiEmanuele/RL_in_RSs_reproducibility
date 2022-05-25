@@ -1,0 +1,1568 @@
+\n##################\n NltNet \n##################\n
+the loss in 200th batch is: 8.660391
+the loss in 400th batch is: 7.649387
+the loss in 600th batch is: 7.030065
+the loss in 800th batch is: 6.648682
+the loss in 1000th batch is: 6.443304
+the loss in 1200th batch is: 6.326350
+the loss in 1400th batch is: 6.207557
+the loss in 1600th batch is: 5.979681
+the loss in 1800th batch is: 5.878734
+the loss in 2000th batch is: 6.114196
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7718.800000
+clicks hr ndcg @ 5 : 0.284863, 0.196693
+purchase hr and ndcg @5 : 0.331720, 0.235547
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10183.000000
+clicks hr ndcg @ 10 : 0.374688, 0.225882
+purchase hr and ndcg @10 : 0.443292, 0.271778
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11341.800000
+clicks hr ndcg @ 15 : 0.419451, 0.237753
+purchase hr and ndcg @15 : 0.482941, 0.282303
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12124.600000
+clicks hr ndcg @ 20 : 0.448700, 0.244669
+purchase hr and ndcg @20 : 0.514753, 0.289830
+#############################################################
+the loss in 2200th batch is: 6.041233
+the loss in 2400th batch is: 5.713398
+the loss in 2600th batch is: 5.533343
+the loss in 2800th batch is: 5.366043
+the loss in 3000th batch is: 5.804579
+the loss in 3200th batch is: 5.588396
+the loss in 3400th batch is: 5.594585
+the loss in 3600th batch is: 5.317822
+the loss in 3800th batch is: 5.348962
+the loss in 4000th batch is: 5.873737
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7998.600000
+clicks hr ndcg @ 5 : 0.293609, 0.200230
+purchase hr and ndcg @5 : 0.351775, 0.244940
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10546.800000
+clicks hr ndcg @ 10 : 0.387925, 0.230846
+purchase hr and ndcg @10 : 0.459889, 0.280085
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11810.000000
+clicks hr ndcg @ 15 : 0.435155, 0.243353
+purchase hr and ndcg @15 : 0.511065, 0.293677
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12641.600000
+clicks hr ndcg @ 20 : 0.466391, 0.250738
+purchase hr and ndcg @20 : 0.544030, 0.301487
+#############################################################
+the loss in 4200th batch is: 5.432406
+the loss in 4400th batch is: 5.499144
+the loss in 4600th batch is: 5.174485
+the loss in 4800th batch is: 5.287504
+the loss in 5000th batch is: 5.349528
+the loss in 5200th batch is: 5.345887
+the loss in 5400th batch is: 5.440729
+the loss in 5600th batch is: 5.545248
+the loss in 5800th batch is: 5.457261
+the loss in 6000th batch is: 5.321548
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 8017.600000
+clicks hr ndcg @ 5 : 0.294198, 0.200637
+purchase hr and ndcg @5 : 0.353158, 0.242676
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10544.200000
+clicks hr ndcg @ 10 : 0.387852, 0.231038
+purchase hr and ndcg @10 : 0.459659, 0.277401
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11878.200000
+clicks hr ndcg @ 15 : 0.436661, 0.243973
+purchase hr and ndcg @15 : 0.519133, 0.293125
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12722.400000
+clicks hr ndcg @ 20 : 0.468333, 0.251462
+purchase hr and ndcg @20 : 0.552789, 0.301084
+#############################################################
+the loss in 6200th batch is: 4.985133
+the loss in 6400th batch is: 5.230314
+the loss in 6600th batch is: 5.386774
+the loss in 6800th batch is: 5.282228
+the loss in 7000th batch is: 5.130013
+the loss in 7200th batch is: 5.009522
+the loss in 7400th batch is: 5.023251
+the loss in 7600th batch is: 5.107958
+the loss in 7800th batch is: 4.835029
+the loss in 8000th batch is: 5.212695
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 8079.600000
+clicks hr ndcg @ 5 : 0.295423, 0.202770
+purchase hr and ndcg @5 : 0.361226, 0.255450
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10606.000000
+clicks hr ndcg @ 10 : 0.389839, 0.233356
+purchase hr and ndcg @10 : 0.463808, 0.288715
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11892.200000
+clicks hr ndcg @ 15 : 0.437569, 0.246006
+purchase hr and ndcg @15 : 0.517750, 0.303060
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12751.000000
+clicks hr ndcg @ 20 : 0.469766, 0.253616
+purchase hr and ndcg @20 : 0.552098, 0.311191
+#############################################################
+the loss in 8200th batch is: 5.390388
+the loss in 8400th batch is: 5.100517
+the loss in 8600th batch is: 5.174997
+the loss in 8800th batch is: 5.134414
+the loss in 9000th batch is: 5.154119
+the loss in 9200th batch is: 5.136536
+the loss in 9400th batch is: 5.005398
+the loss in 9600th batch is: 5.125940
+the loss in 9800th batch is: 5.299849
+the loss in 10000th batch is: 5.033710
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 8047.000000
+clicks hr ndcg @ 5 : 0.294715, 0.202476
+purchase hr and ndcg @5 : 0.357308, 0.254084
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10640.000000
+clicks hr ndcg @ 10 : 0.390701, 0.233638
+purchase hr and ndcg @10 : 0.467266, 0.289756
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11907.000000
+clicks hr ndcg @ 15 : 0.438694, 0.246349
+purchase hr and ndcg @15 : 0.515445, 0.302588
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12734.200000
+clicks hr ndcg @ 20 : 0.469685, 0.253671
+purchase hr and ndcg @20 : 0.548640, 0.310460
+#############################################################
+the loss in 10200th batch is: 4.803745
+the loss in 10400th batch is: 5.085338
+the loss in 10600th batch is: 5.067182
+the loss in 10800th batch is: 5.147294
+the loss in 11000th batch is: 5.025421
+the loss in 11200th batch is: 5.036324
+the loss in 11400th batch is: 4.962614
+the loss in 11600th batch is: 5.146060
+the loss in 11800th batch is: 4.892820
+the loss in 12000th batch is: 5.228721
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 8110.200000
+clicks hr ndcg @ 5 : 0.296085, 0.203094
+purchase hr and ndcg @5 : 0.364915, 0.262774
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10594.400000
+clicks hr ndcg @ 10 : 0.389041, 0.233254
+purchase hr and ndcg @10 : 0.465191, 0.295404
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11882.400000
+clicks hr ndcg @ 15 : 0.436761, 0.245893
+purchase hr and ndcg @15 : 0.519594, 0.309868
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12700.000000
+clicks hr ndcg @ 20 : 0.467770, 0.253227
+purchase hr and ndcg @20 : 0.550484, 0.317149
+#############################################################
+the loss in 12200th batch is: 5.124402
+the loss in 12400th batch is: 4.794878
+the loss in 12600th batch is: 4.933956
+the loss in 12800th batch is: 4.848004
+the loss in 13000th batch is: 5.003687
+the loss in 13200th batch is: 5.044822
+the loss in 13400th batch is: 4.643649
+the loss in 13600th batch is: 5.148148
+the loss in 13800th batch is: 4.535940
+the loss in 14000th batch is: 5.103609
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 8068.600000
+clicks hr ndcg @ 5 : 0.293654, 0.201291
+purchase hr and ndcg @5 : 0.367681, 0.260162
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10605.000000
+clicks hr ndcg @ 10 : 0.388297, 0.231999
+purchase hr and ndcg @10 : 0.471415, 0.293840
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11870.600000
+clicks hr ndcg @ 15 : 0.435137, 0.244426
+purchase hr and ndcg @15 : 0.525127, 0.308061
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12676.600000
+clicks hr ndcg @ 20 : 0.465257, 0.251545
+purchase hr and ndcg @20 : 0.557861, 0.315801
+#############################################################
+the loss in 14200th batch is: 4.723296
+the loss in 14400th batch is: 4.980593
+the loss in 14600th batch is: 4.854004
+the loss in 14800th batch is: 5.088644
+the loss in 15000th batch is: 5.070696
+the loss in 15200th batch is: 4.815454
+the loss in 15400th batch is: 4.665931
+the loss in 15600th batch is: 4.989908
+the loss in 15800th batch is: 5.062560
+the loss in 16000th batch is: 5.037859
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 8030.000000
+clicks hr ndcg @ 5 : 0.292992, 0.201496
+purchase hr and ndcg @5 : 0.362148, 0.256092
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10532.600000
+clicks hr ndcg @ 10 : 0.386056, 0.231692
+purchase hr and ndcg @10 : 0.466113, 0.289790
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11764.000000
+clicks hr ndcg @ 15 : 0.432343, 0.243967
+purchase hr and ndcg @15 : 0.514753, 0.302686
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12583.400000
+clicks hr ndcg @ 20 : 0.462663, 0.251135
+purchase hr and ndcg @20 : 0.549562, 0.310922
+#############################################################
+the loss in 16200th batch is: 4.831816
+the loss in 16400th batch is: 5.024121
+the loss in 16600th batch is: 4.934762
+the loss in 16800th batch is: 4.853502
+the loss in 17000th batch is: 4.725675
+the loss in 17200th batch is: 4.582923
+the loss in 17400th batch is: 5.160351
+the loss in 17600th batch is: 4.548191
+the loss in 17800th batch is: 4.930948
+the loss in 18000th batch is: 4.744946
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7951.400000
+clicks hr ndcg @ 5 : 0.290152, 0.200027
+purchase hr and ndcg @5 : 0.358460, 0.251200
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10483.400000
+clicks hr ndcg @ 10 : 0.382463, 0.229960
+purchase hr and ndcg @10 : 0.473029, 0.288272
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11758.400000
+clicks hr ndcg @ 15 : 0.429503, 0.242429
+purchase hr and ndcg @15 : 0.527893, 0.302808
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12574.800000
+clicks hr ndcg @ 20 : 0.460277, 0.249703
+purchase hr and ndcg @20 : 0.559705, 0.310339
+#############################################################
+the loss in 18200th batch is: 4.830657
+the loss in 18400th batch is: 5.358943
+the loss in 18600th batch is: 4.840746
+the loss in 18800th batch is: 4.930483
+the loss in 19000th batch is: 4.775670
+the loss in 19200th batch is: 5.152649
+the loss in 19400th batch is: 4.990114
+the loss in 19600th batch is: 4.631002
+the loss in 19800th batch is: 4.877517
+the loss in 20000th batch is: 4.637980
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7985.800000
+clicks hr ndcg @ 5 : 0.291032, 0.200286
+purchase hr and ndcg @5 : 0.361918, 0.254803
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10450.200000
+clicks hr ndcg @ 10 : 0.382545, 0.229990
+purchase hr and ndcg @10 : 0.464961, 0.288158
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11680.400000
+clicks hr ndcg @ 15 : 0.428551, 0.242183
+purchase hr and ndcg @15 : 0.514753, 0.301362
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12492.800000
+clicks hr ndcg @ 20 : 0.459007, 0.249381
+purchase hr and ndcg @20 : 0.547257, 0.309043
+#############################################################
+the loss in 20200th batch is: 4.847610
+the loss in 20400th batch is: 4.614792
+the loss in 20600th batch is: 4.698642
+the loss in 20800th batch is: 4.927171
+the loss in 21000th batch is: 5.164823
+the loss in 21200th batch is: 4.870365
+the loss in 21400th batch is: 4.788908
+the loss in 21600th batch is: 4.703966
+the loss in 21800th batch is: 4.737772
+the loss in 22000th batch is: 4.881964
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7962.000000
+clicks hr ndcg @ 5 : 0.288864, 0.199656
+purchase hr and ndcg @5 : 0.367450, 0.260760
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10387.800000
+clicks hr ndcg @ 10 : 0.379261, 0.228964
+purchase hr and ndcg @10 : 0.467266, 0.293186
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11638.600000
+clicks hr ndcg @ 15 : 0.425384, 0.241189
+purchase hr and ndcg @15 : 0.521208, 0.307510
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12460.800000
+clicks hr ndcg @ 20 : 0.455922, 0.248408
+purchase hr and ndcg @20 : 0.555556, 0.315627
+#############################################################
+the loss in 22200th batch is: 4.392124
+the loss in 22400th batch is: 4.619740
+the loss in 22600th batch is: 4.918186
+the loss in 22800th batch is: 4.752738
+the loss in 23000th batch is: 4.848781
+the loss in 23200th batch is: 4.728039
+the loss in 23400th batch is: 5.054823
+the loss in 23600th batch is: 4.877291
+the loss in 23800th batch is: 4.880089
+the loss in 24000th batch is: 4.682012
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7983.600000
+clicks hr ndcg @ 5 : 0.290025, 0.200972
+purchase hr and ndcg @5 : 0.366528, 0.259475
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10430.600000
+clicks hr ndcg @ 10 : 0.379705, 0.230069
+purchase hr and ndcg @10 : 0.474873, 0.294519
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11692.800000
+clicks hr ndcg @ 15 : 0.426936, 0.242583
+purchase hr and ndcg @15 : 0.525818, 0.308005
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12501.000000
+clicks hr ndcg @ 20 : 0.457337, 0.249768
+purchase hr and ndcg @20 : 0.557630, 0.315545
+#############################################################
+the loss in 24200th batch is: 4.724013
+the loss in 24400th batch is: 5.046998
+the loss in 24600th batch is: 5.225523
+the loss in 24800th batch is: 4.893401
+the loss in 25000th batch is: 5.075276
+the loss in 25200th batch is: 4.954632
+the loss in 25400th batch is: 4.530632
+the loss in 25600th batch is: 4.487123
+the loss in 25800th batch is: 4.726715
+the loss in 26000th batch is: 5.149823
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7930.400000
+clicks hr ndcg @ 5 : 0.288428, 0.199145
+purchase hr and ndcg @5 : 0.362379, 0.256188
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10351.600000
+clicks hr ndcg @ 10 : 0.378843, 0.228478
+purchase hr and ndcg @10 : 0.461042, 0.288154
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11594.000000
+clicks hr ndcg @ 15 : 0.424405, 0.240552
+purchase hr and ndcg @15 : 0.515906, 0.302730
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12411.000000
+clicks hr ndcg @ 20 : 0.454389, 0.247636
+purchase hr and ndcg @20 : 0.551867, 0.311224
+#############################################################
+the loss in 26200th batch is: 4.899815
+the loss in 26400th batch is: 4.911524
+the loss in 26600th batch is: 4.797330
+the loss in 26800th batch is: 4.731506
+the loss in 27000th batch is: 4.817204
+the loss in 27200th batch is: 4.849897
+the loss in 27400th batch is: 4.432970
+the loss in 27600th batch is: 4.636251
+the loss in 27800th batch is: 4.568320
+the loss in 28000th batch is: 4.491360
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7924.800000
+clicks hr ndcg @ 5 : 0.287675, 0.199162
+purchase hr and ndcg @5 : 0.364915, 0.258581
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10321.200000
+clicks hr ndcg @ 10 : 0.377101, 0.228155
+purchase hr and ndcg @10 : 0.462886, 0.290473
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11573.400000
+clicks hr ndcg @ 15 : 0.423198, 0.240365
+purchase hr and ndcg @15 : 0.517289, 0.304930
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12377.800000
+clicks hr ndcg @ 20 : 0.452973, 0.247402
+purchase hr and ndcg @20 : 0.551406, 0.312997
+#############################################################
+the loss in 28200th batch is: 4.609832
+the loss in 28400th batch is: 4.477292
+the loss in 28600th batch is: 4.682514
+the loss in 28800th batch is: 4.816469
+the loss in 29000th batch is: 5.013091
+the loss in 29200th batch is: 4.867886
+the loss in 29400th batch is: 4.777335
+the loss in 29600th batch is: 4.822183
+the loss in 29800th batch is: 4.538805
+the loss in 30000th batch is: 4.947748
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7843.600000
+clicks hr ndcg @ 5 : 0.285625, 0.197540
+purchase hr and ndcg @5 : 0.356616, 0.249390
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10278.600000
+clicks hr ndcg @ 10 : 0.376212, 0.226941
+purchase hr and ndcg @10 : 0.457584, 0.282056
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11524.200000
+clicks hr ndcg @ 15 : 0.421601, 0.238968
+purchase hr and ndcg @15 : 0.514062, 0.297071
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12353.600000
+clicks hr ndcg @ 20 : 0.452284, 0.246226
+purchase hr and ndcg @20 : 0.549331, 0.305413
+#############################################################
+the loss in 30200th batch is: 4.748217
+the loss in 30400th batch is: 4.788122
+the loss in 30600th batch is: 4.688356
+the loss in 30800th batch is: 4.498783
+the loss in 31000th batch is: 4.879266
+the loss in 31200th batch is: 4.737602
+the loss in 31400th batch is: 4.907625
+the loss in 31600th batch is: 4.779036
+the loss in 31800th batch is: 4.935119
+the loss in 32000th batch is: 5.066857
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7887.600000
+clicks hr ndcg @ 5 : 0.286577, 0.198338
+purchase hr and ndcg @5 : 0.361918, 0.255024
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10299.400000
+clicks hr ndcg @ 10 : 0.374706, 0.226954
+purchase hr and ndcg @10 : 0.470032, 0.289918
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11525.000000
+clicks hr ndcg @ 15 : 0.419823, 0.238916
+purchase hr and ndcg @15 : 0.523283, 0.304015
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12332.000000
+clicks hr ndcg @ 20 : 0.450170, 0.246089
+purchase hr and ndcg @20 : 0.555095, 0.311540
+#############################################################
+the loss in 32200th batch is: 4.832653
+the loss in 32400th batch is: 4.822835
+the loss in 32600th batch is: 4.598382
+the loss in 32800th batch is: 4.567535
+the loss in 33000th batch is: 4.259733
+the loss in 33200th batch is: 4.732930
+the loss in 33400th batch is: 4.375061
+the loss in 33600th batch is: 4.891837
+the loss in 33800th batch is: 4.526183
+the loss in 34000th batch is: 4.491722
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7900.800000
+clicks hr ndcg @ 5 : 0.286677, 0.198500
+purchase hr and ndcg @5 : 0.364454, 0.258338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10283.000000
+clicks hr ndcg @ 10 : 0.375822, 0.227435
+purchase hr and ndcg @10 : 0.460581, 0.289400
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11505.200000
+clicks hr ndcg @ 15 : 0.421873, 0.239645
+purchase hr and ndcg @15 : 0.508299, 0.302043
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12314.600000
+clicks hr ndcg @ 20 : 0.452103, 0.246792
+purchase hr and ndcg @20 : 0.541263, 0.309852
+#############################################################
+the loss in 34200th batch is: 4.940564
+the loss in 34400th batch is: 4.577936
+the loss in 34600th batch is: 4.555708
+the loss in 34800th batch is: 4.407431
+the loss in 35000th batch is: 4.586037
+the loss in 35200th batch is: 4.333055
+the loss in 35400th batch is: 4.496651
+the loss in 35600th batch is: 4.869509
+the loss in 35800th batch is: 4.604456
+the loss in 36000th batch is: 4.633480
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7794.400000
+clicks hr ndcg @ 5 : 0.283756, 0.195626
+purchase hr and ndcg @5 : 0.354772, 0.251833
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10180.200000
+clicks hr ndcg @ 10 : 0.371839, 0.224214
+purchase hr and ndcg @10 : 0.457123, 0.285193
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11441.600000
+clicks hr ndcg @ 15 : 0.418036, 0.236446
+purchase hr and ndcg @15 : 0.513140, 0.300081
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12245.800000
+clicks hr ndcg @ 20 : 0.447485, 0.243406
+purchase hr and ndcg @20 : 0.548870, 0.308518
+#############################################################
+the loss in 36200th batch is: 4.401361
+the loss in 36400th batch is: 4.737417
+the loss in 36600th batch is: 4.702524
+the loss in 36800th batch is: 5.052113
+the loss in 37000th batch is: 4.714366
+the loss in 37200th batch is: 5.108223
+the loss in 37400th batch is: 4.792884
+the loss in 37600th batch is: 4.689249
+the loss in 37800th batch is: 4.478053
+the loss in 38000th batch is: 4.623885
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7841.000000
+clicks hr ndcg @ 5 : 0.283239, 0.196293
+purchase hr and ndcg @5 : 0.368142, 0.259278
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10222.800000
+clicks hr ndcg @ 10 : 0.371504, 0.224958
+purchase hr and ndcg @10 : 0.468649, 0.291700
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11455.600000
+clicks hr ndcg @ 15 : 0.417945, 0.237262
+purchase hr and ndcg @15 : 0.516828, 0.304455
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12251.000000
+clicks hr ndcg @ 20 : 0.448537, 0.244491
+purchase hr and ndcg @20 : 0.544721, 0.311041
+#############################################################
+the loss in 38200th batch is: 4.686688
+the loss in 38400th batch is: 4.796257
+the loss in 38600th batch is: 4.520480
+the loss in 38800th batch is: 4.398460
+the loss in 39000th batch is: 4.401834
+the loss in 39200th batch is: 4.719831
+the loss in 39400th batch is: 4.377033
+the loss in 39600th batch is: 4.788286
+the loss in 39800th batch is: 4.662353
+the loss in 40000th batch is: 4.624401
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7758.800000
+clicks hr ndcg @ 5 : 0.282958, 0.195120
+purchase hr and ndcg @5 : 0.350622, 0.249370
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10140.200000
+clicks hr ndcg @ 10 : 0.370932, 0.223659
+purchase hr and ndcg @10 : 0.452513, 0.282544
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11364.400000
+clicks hr ndcg @ 15 : 0.416258, 0.235656
+purchase hr and ndcg @15 : 0.504380, 0.296260
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12189.800000
+clicks hr ndcg @ 20 : 0.447031, 0.242927
+purchase hr and ndcg @20 : 0.538266, 0.304266
+#############################################################
+the loss in 40200th batch is: 4.492587
+the loss in 40400th batch is: 4.521404
+the loss in 40600th batch is: 4.823535
+the loss in 40800th batch is: 4.586367
+the loss in 41000th batch is: 4.882638
+the loss in 41200th batch is: 4.441053
+the loss in 41400th batch is: 4.281928
+the loss in 41600th batch is: 4.930618
+the loss in 41800th batch is: 4.516924
+the loss in 42000th batch is: 4.494904
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7834.600000
+clicks hr ndcg @ 5 : 0.284854, 0.196995
+purchase hr and ndcg @5 : 0.358460, 0.256295
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10191.800000
+clicks hr ndcg @ 10 : 0.372093, 0.225305
+purchase hr and ndcg @10 : 0.458506, 0.288644
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11414.800000
+clicks hr ndcg @ 15 : 0.417637, 0.237375
+purchase hr and ndcg @15 : 0.508990, 0.301987
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12217.800000
+clicks hr ndcg @ 20 : 0.447621, 0.244459
+purchase hr and ndcg @20 : 0.541724, 0.309713
+#############################################################
+the loss in 42200th batch is: 4.586767
+the loss in 42400th batch is: 4.541819
+the loss in 42600th batch is: 4.615025
+the loss in 42800th batch is: 4.594831
+the loss in 43000th batch is: 4.633052
+the loss in 43200th batch is: 4.660507
+the loss in 43400th batch is: 4.329892
+the loss in 43600th batch is: 4.754033
+the loss in 43800th batch is: 4.642489
+the loss in 44000th batch is: 4.831429
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7833.600000
+clicks hr ndcg @ 5 : 0.284219, 0.196836
+purchase hr and ndcg @5 : 0.361457, 0.257188
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10186.800000
+clicks hr ndcg @ 10 : 0.371821, 0.225251
+purchase hr and ndcg @10 : 0.458737, 0.288868
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11400.800000
+clicks hr ndcg @ 15 : 0.416548, 0.237104
+purchase hr and ndcg @15 : 0.511296, 0.302813
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12199.400000
+clicks hr ndcg @ 20 : 0.446605, 0.244208
+purchase hr and ndcg @20 : 0.542646, 0.310240
+#############################################################
+the loss in 44200th batch is: 4.592521
+the loss in 44400th batch is: 4.792868
+the loss in 44600th batch is: 4.516188
+the loss in 44800th batch is: 4.387790
+the loss in 45000th batch is: 4.607894
+the loss in 45200th batch is: 4.759041
+the loss in 45400th batch is: 4.525266
+the loss in 45600th batch is: 4.569196
+the loss in 45800th batch is: 4.993167
+the loss in 46000th batch is: 4.597330
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7852.600000
+clicks hr ndcg @ 5 : 0.285942, 0.197534
+purchase hr and ndcg @5 : 0.357077, 0.253048
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10222.200000
+clicks hr ndcg @ 10 : 0.373382, 0.225931
+purchase hr and ndcg @10 : 0.458967, 0.286047
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11438.400000
+clicks hr ndcg @ 15 : 0.418027, 0.237763
+purchase hr and ndcg @15 : 0.512448, 0.300242
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12228.600000
+clicks hr ndcg @ 20 : 0.448156, 0.244884
+purchase hr and ndcg @20 : 0.541494, 0.307134
+#############################################################
+the loss in 46200th batch is: 4.750255
+the loss in 46400th batch is: 4.531028
+the loss in 46600th batch is: 4.448176
+the loss in 46800th batch is: 4.631889
+the loss in 47000th batch is: 4.522549
+the loss in 47200th batch is: 4.392174
+the loss in 47400th batch is: 4.500074
+the loss in 47600th batch is: 4.800701
+the loss in 47800th batch is: 4.479786
+the loss in 48000th batch is: 4.400094
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7751.600000
+clicks hr ndcg @ 5 : 0.281769, 0.195330
+purchase hr and ndcg @5 : 0.355002, 0.250394
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10102.200000
+clicks hr ndcg @ 10 : 0.367984, 0.223290
+purchase hr and ndcg @10 : 0.458737, 0.283952
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11318.400000
+clicks hr ndcg @ 15 : 0.412901, 0.235202
+purchase hr and ndcg @15 : 0.510834, 0.297711
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12133.200000
+clicks hr ndcg @ 20 : 0.444055, 0.242561
+purchase hr and ndcg @20 : 0.540341, 0.304674
+#############################################################
+the loss in 48200th batch is: 4.791064
+the loss in 48400th batch is: 4.159628
+the loss in 48600th batch is: 4.100545
+the loss in 48800th batch is: 4.682449
+the loss in 49000th batch is: 4.624352
+the loss in 49200th batch is: 3.945597
+the loss in 49400th batch is: 4.404178
+the loss in 49600th batch is: 5.173975
+the loss in 49800th batch is: 4.554285
+the loss in 50000th batch is: 4.544190
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7799.800000
+clicks hr ndcg @ 5 : 0.283729, 0.197003
+purchase hr and ndcg @5 : 0.356155, 0.257999
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10138.400000
+clicks hr ndcg @ 10 : 0.369853, 0.224911
+purchase hr and ndcg @10 : 0.457584, 0.290756
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11337.600000
+clicks hr ndcg @ 15 : 0.414407, 0.236704
+purchase hr and ndcg @15 : 0.507607, 0.304025
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12140.600000
+clicks hr ndcg @ 20 : 0.444482, 0.243810
+purchase hr and ndcg @20 : 0.539880, 0.311673
+#############################################################
+the loss in 50200th batch is: 4.828825
+the loss in 50400th batch is: 4.383502
+the loss in 50600th batch is: 4.422997
+the loss in 50800th batch is: 4.479653
+the loss in 51000th batch is: 4.735710
+the loss in 51200th batch is: 4.802960
+the loss in 51400th batch is: 4.322668
+the loss in 51600th batch is: 4.623145
+the loss in 51800th batch is: 4.252607
+the loss in 52000th batch is: 4.299206
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7759.000000
+clicks hr ndcg @ 5 : 0.281787, 0.195405
+purchase hr and ndcg @5 : 0.356616, 0.255449
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10085.400000
+clicks hr ndcg @ 10 : 0.367993, 0.223374
+purchase hr and ndcg @10 : 0.454818, 0.287384
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11297.400000
+clicks hr ndcg @ 15 : 0.414216, 0.235619
+purchase hr and ndcg @15 : 0.499308, 0.299109
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12113.200000
+clicks hr ndcg @ 20 : 0.444282, 0.242724
+purchase hr and ndcg @20 : 0.534578, 0.307446
+#############################################################
+the loss in 52200th batch is: 4.704142
+the loss in 52400th batch is: 4.601462
+the loss in 52600th batch is: 4.587384
+the loss in 52800th batch is: 4.423443
+the loss in 53000th batch is: 4.767664
+the loss in 53200th batch is: 4.796115
+the loss in 53400th batch is: 4.434284
+the loss in 53600th batch is: 4.361394
+the loss in 53800th batch is: 4.493595
+the loss in 54000th batch is: 4.649493
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7776.800000
+clicks hr ndcg @ 5 : 0.282595, 0.195648
+purchase hr and ndcg @5 : 0.356616, 0.252577
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10109.200000
+clicks hr ndcg @ 10 : 0.368120, 0.223362
+purchase hr and ndcg @10 : 0.459659, 0.285856
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11338.400000
+clicks hr ndcg @ 15 : 0.413853, 0.235484
+purchase hr and ndcg @15 : 0.510604, 0.299403
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12112.400000
+clicks hr ndcg @ 20 : 0.443792, 0.242564
+purchase hr and ndcg @20 : 0.536883, 0.305614
+#############################################################
+the loss in 54200th batch is: 4.446216
+the loss in 54400th batch is: 4.776297
+the loss in 54600th batch is: 4.378780
+the loss in 54800th batch is: 4.639938
+the loss in 55000th batch is: 4.878005
+the loss in 55200th batch is: 4.730353
+the loss in 55400th batch is: 4.905138
+the loss in 55600th batch is: 4.568959
+the loss in 55800th batch is: 4.699135
+the loss in 56000th batch is: 4.827403
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7685.800000
+clicks hr ndcg @ 5 : 0.280009, 0.194833
+purchase hr and ndcg @5 : 0.348778, 0.246529
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10027.000000
+clicks hr ndcg @ 10 : 0.367113, 0.223105
+purchase hr and ndcg @10 : 0.445828, 0.278102
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11255.600000
+clicks hr ndcg @ 15 : 0.412184, 0.235043
+purchase hr and ndcg @15 : 0.500000, 0.292391
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12049.600000
+clicks hr ndcg @ 20 : 0.441941, 0.242074
+purchase hr and ndcg @20 : 0.531812, 0.299901
+#############################################################
+the loss in 56200th batch is: 4.109413
+the loss in 56400th batch is: 4.830345
+the loss in 56600th batch is: 4.643879
+the loss in 56800th batch is: 4.302276
+the loss in 57000th batch is: 4.847695
+the loss in 57200th batch is: 4.753469
+the loss in 57400th batch is: 4.626074
+the loss in 57600th batch is: 4.602061
+the loss in 57800th batch is: 4.352167
+the loss in 58000th batch is: 4.264570
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7774.400000
+clicks hr ndcg @ 5 : 0.282803, 0.195485
+purchase hr and ndcg @5 : 0.355002, 0.248113
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10066.800000
+clicks hr ndcg @ 10 : 0.367467, 0.222966
+purchase hr and ndcg @10 : 0.453204, 0.279988
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11274.800000
+clicks hr ndcg @ 15 : 0.412284, 0.234832
+purchase hr and ndcg @15 : 0.503919, 0.293434
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12095.800000
+clicks hr ndcg @ 20 : 0.442812, 0.242049
+purchase hr and ndcg @20 : 0.538036, 0.301502
+#############################################################
+the loss in 58200th batch is: 4.668677
+the loss in 58400th batch is: 4.754958
+the loss in 58600th batch is: 4.457791
+the loss in 58800th batch is: 4.527081
+the loss in 59000th batch is: 4.683752
+the loss in 59200th batch is: 4.417502
+the loss in 59400th batch is: 4.585083
+the loss in 59600th batch is: 4.509213
+the loss in 59800th batch is: 4.524595
+the loss in 60000th batch is: 4.595219
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7755.400000
+clicks hr ndcg @ 5 : 0.282531, 0.196482
+purchase hr and ndcg @5 : 0.352006, 0.251018
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10107.600000
+clicks hr ndcg @ 10 : 0.369317, 0.224640
+purchase hr and ndcg @10 : 0.453204, 0.283798
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11329.400000
+clicks hr ndcg @ 15 : 0.414579, 0.236633
+purchase hr and ndcg @15 : 0.504841, 0.297450
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12124.000000
+clicks hr ndcg @ 20 : 0.444455, 0.243697
+purchase hr and ndcg @20 : 0.536192, 0.304864
+#############################################################
+the loss in 60200th batch is: 3.855781
+the loss in 60400th batch is: 4.886453
+the loss in 60600th batch is: 4.541350
+the loss in 60800th batch is: 4.503482
+the loss in 61000th batch is: 4.209080
+the loss in 61200th batch is: 4.491436
+the loss in 61400th batch is: 4.372469
+the loss in 61600th batch is: 4.332819
+the loss in 61800th batch is: 4.264977
+the loss in 62000th batch is: 4.393098
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7725.600000
+clicks hr ndcg @ 5 : 0.280998, 0.195193
+purchase hr and ndcg @5 : 0.352928, 0.246691
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10058.200000
+clicks hr ndcg @ 10 : 0.367575, 0.223270
+purchase hr and ndcg @10 : 0.450669, 0.278343
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11240.200000
+clicks hr ndcg @ 15 : 0.412302, 0.235118
+purchase hr and ndcg @15 : 0.495851, 0.290312
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12064.200000
+clicks hr ndcg @ 20 : 0.441787, 0.242086
+purchase hr and ndcg @20 : 0.535961, 0.299761
+#############################################################
+the loss in 62200th batch is: 4.380179
+the loss in 62400th batch is: 4.706106
+the loss in 62600th batch is: 4.663045
+the loss in 62800th batch is: 4.492599
+the loss in 63000th batch is: 4.437648
+the loss in 63200th batch is: 3.913109
+the loss in 63400th batch is: 4.458810
+the loss in 63600th batch is: 4.691159
+the loss in 63800th batch is: 4.434746
+the loss in 64000th batch is: 4.283625
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7720.400000
+clicks hr ndcg @ 5 : 0.279673, 0.193996
+purchase hr and ndcg @5 : 0.358460, 0.257626
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10095.400000
+clicks hr ndcg @ 10 : 0.367675, 0.222549
+purchase hr and ndcg @10 : 0.458737, 0.290213
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11291.600000
+clicks hr ndcg @ 15 : 0.411912, 0.234259
+purchase hr and ndcg @15 : 0.509682, 0.303648
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12127.000000
+clicks hr ndcg @ 20 : 0.443003, 0.241603
+purchase hr and ndcg @20 : 0.544260, 0.311817
+#############################################################
+the loss in 64200th batch is: 4.267618
+the loss in 64400th batch is: 4.547842
+the loss in 64600th batch is: 4.562868
+the loss in 64800th batch is: 4.774389
+the loss in 65000th batch is: 4.505591
+the loss in 65200th batch is: 4.569322
+the loss in 65400th batch is: 4.552336
+the loss in 65600th batch is: 4.542543
+the loss in 65800th batch is: 4.704792
+the loss in 66000th batch is: 5.305266
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7752.200000
+clicks hr ndcg @ 5 : 0.280980, 0.194937
+purchase hr and ndcg @5 : 0.359152, 0.254091
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10076.000000
+clicks hr ndcg @ 10 : 0.367249, 0.222929
+purchase hr and ndcg @10 : 0.456432, 0.285644
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11295.200000
+clicks hr ndcg @ 15 : 0.412393, 0.234905
+purchase hr and ndcg @15 : 0.508068, 0.299364
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12084.400000
+clicks hr ndcg @ 20 : 0.442250, 0.241954
+purchase hr and ndcg @20 : 0.538266, 0.306483
+#############################################################
+the loss in 66200th batch is: 4.555891
+the loss in 66400th batch is: 4.549877
+the loss in 66600th batch is: 4.346927
+the loss in 66800th batch is: 4.462174
+the loss in 67000th batch is: 4.608783
+the loss in 67200th batch is: 4.836499
+the loss in 67400th batch is: 4.378713
+the loss in 67600th batch is: 4.571374
+the loss in 67800th batch is: 4.673931
+the loss in 68000th batch is: 4.370567
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7679.800000
+clicks hr ndcg @ 5 : 0.278920, 0.193417
+purchase hr and ndcg @5 : 0.352928, 0.252153
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10018.000000
+clicks hr ndcg @ 10 : 0.364845, 0.221283
+purchase hr and ndcg @10 : 0.455279, 0.285440
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11243.200000
+clicks hr ndcg @ 15 : 0.409989, 0.233248
+purchase hr and ndcg @15 : 0.508299, 0.299547
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12074.200000
+clicks hr ndcg @ 20 : 0.440472, 0.240454
+purchase hr and ndcg @20 : 0.544952, 0.308240
+#############################################################
+the loss in 68200th batch is: 4.241747
+the loss in 68400th batch is: 4.467124
+the loss in 68600th batch is: 4.831594
+the loss in 68800th batch is: 4.239206
+the loss in 69000th batch is: 4.632680
+the loss in 69200th batch is: 4.579191
+the loss in 69400th batch is: 4.412230
+the loss in 69600th batch is: 4.407250
+the loss in 69800th batch is: 4.545852
+the loss in 70000th batch is: 4.964476
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7683.200000
+clicks hr ndcg @ 5 : 0.278258, 0.193094
+purchase hr and ndcg @5 : 0.357077, 0.251606
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10003.000000
+clicks hr ndcg @ 10 : 0.363575, 0.220810
+purchase hr and ndcg @10 : 0.458276, 0.284455
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11193.800000
+clicks hr ndcg @ 15 : 0.408655, 0.232761
+purchase hr and ndcg @15 : 0.503688, 0.296464
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 11979.400000
+clicks hr ndcg @ 20 : 0.437759, 0.239632
+purchase hr and ndcg @20 : 0.536883, 0.304282
+#############################################################
+the loss in 70200th batch is: 4.693013
+the loss in 70400th batch is: 4.546252
+the loss in 70600th batch is: 4.596353
+the loss in 70800th batch is: 4.489913
+the loss in 71000th batch is: 4.279417
+the loss in 71200th batch is: 4.719157
+the loss in 71400th batch is: 4.269639
+the loss in 71600th batch is: 4.437397
+the loss in 71800th batch is: 4.788916
+the loss in 72000th batch is: 4.260194
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7704.000000
+clicks hr ndcg @ 5 : 0.280653, 0.195421
+purchase hr and ndcg @5 : 0.349700, 0.249601
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10032.400000
+clicks hr ndcg @ 10 : 0.366224, 0.223182
+purchase hr and ndcg @10 : 0.451591, 0.282554
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11214.800000
+clicks hr ndcg @ 15 : 0.410560, 0.234934
+purchase hr and ndcg @15 : 0.498847, 0.295033
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 12018.400000
+clicks hr ndcg @ 20 : 0.440299, 0.241966
+purchase hr and ndcg @20 : 0.532964, 0.303090
+#############################################################
+the loss in 72200th batch is: 4.676484
+the loss in 72400th batch is: 4.476934
+the loss in 72600th batch is: 4.848851
+the loss in 72800th batch is: 4.431772
+the loss in 73000th batch is: 4.598633
+the loss in 73200th batch is: 4.517699
+the loss in 73400th batch is: 4.315681
+the loss in 73600th batch is: 4.926001
+the loss in 73800th batch is: 4.101660
+the loss in 74000th batch is: 4.350663
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7659.800000
+clicks hr ndcg @ 5 : 0.278195, 0.193250
+purchase hr and ndcg @5 : 0.352006, 0.252763
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 10004.600000
+clicks hr ndcg @ 10 : 0.365688, 0.221649
+purchase hr and ndcg @10 : 0.447902, 0.284065
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11214.800000
+clicks hr ndcg @ 15 : 0.409653, 0.233302
+purchase hr and ndcg @15 : 0.503458, 0.298722
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 11968.200000
+clicks hr ndcg @ 20 : 0.437977, 0.240002
+purchase hr and ndcg @20 : 0.533195, 0.305738
+#############################################################
+the loss in 74200th batch is: 4.463277
+the loss in 74400th batch is: 4.581103
+the loss in 74600th batch is: 4.287086
+the loss in 74800th batch is: 4.645112
+the loss in 75000th batch is: 4.347253
+the loss in 75200th batch is: 4.327269
+the loss in 75400th batch is: 4.433609
+the loss in 75600th batch is: 4.444100
+the loss in 75800th batch is: 4.458849
+the loss in 76000th batch is: 4.576568
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7639.600000
+clicks hr ndcg @ 5 : 0.278049, 0.193049
+purchase hr and ndcg @5 : 0.348087, 0.245767
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 9919.800000
+clicks hr ndcg @ 10 : 0.362341, 0.220407
+purchase hr and ndcg @10 : 0.445367, 0.277368
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11171.600000
+clicks hr ndcg @ 15 : 0.408328, 0.232597
+purchase hr and ndcg @15 : 0.500231, 0.291944
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 11955.400000
+clicks hr ndcg @ 20 : 0.437941, 0.239600
+purchase hr and ndcg @20 : 0.530429, 0.299066
+#############################################################
+the loss in 76200th batch is: 4.404366
+the loss in 76400th batch is: 4.491632
+the loss in 76600th batch is: 4.334732
+the loss in 76800th batch is: 4.130491
+the loss in 77000th batch is: 4.260905
+the loss in 77200th batch is: 4.461026
+the loss in 77400th batch is: 4.633475
+the loss in 77600th batch is: 4.812587
+the loss in 77800th batch is: 4.362208
+the loss in 78000th batch is: 4.109169
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7660.400000
+clicks hr ndcg @ 5 : 0.278993, 0.193242
+purchase hr and ndcg @5 : 0.348087, 0.248433
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 9943.800000
+clicks hr ndcg @ 10 : 0.363883, 0.220762
+purchase hr and ndcg @10 : 0.443061, 0.279281
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11120.200000
+clicks hr ndcg @ 15 : 0.408310, 0.232540
+purchase hr and ndcg @15 : 0.488474, 0.291371
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 11920.000000
+clicks hr ndcg @ 20 : 0.438104, 0.239583
+purchase hr and ndcg @20 : 0.521438, 0.299174
+#############################################################
+the loss in 78200th batch is: 4.722540
+the loss in 78400th batch is: 4.607961
+the loss in 78600th batch is: 3.928090
+the loss in 78800th batch is: 4.339833
+the loss in 79000th batch is: 4.204085
+the loss in 79200th batch is: 4.677406
+the loss in 79400th batch is: 4.712621
+the loss in 79600th batch is: 4.512879
+the loss in 79800th batch is: 4.151682
+the loss in 80000th batch is: 4.587349
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7660.200000
+clicks hr ndcg @ 5 : 0.278576, 0.193319
+purchase hr and ndcg @5 : 0.350161, 0.249863
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 9989.200000
+clicks hr ndcg @ 10 : 0.363992, 0.221051
+purchase hr and ndcg @10 : 0.452974, 0.283378
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11181.000000
+clicks hr ndcg @ 15 : 0.408846, 0.232931
+purchase hr and ndcg @15 : 0.499769, 0.295771
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 11976.000000
+clicks hr ndcg @ 20 : 0.438013, 0.239821
+purchase hr and ndcg @20 : 0.534809, 0.304051
+#############################################################
+the loss in 80200th batch is: 4.521096
+the loss in 80400th batch is: 4.696422
+the loss in 80600th batch is: 4.495568
+the loss in 80800th batch is: 4.537551
+the loss in 81000th batch is: 4.254658
+the loss in 81200th batch is: 4.377990
+the loss in 81400th batch is: 4.317024
+the loss in 81600th batch is: 4.542984
+the loss in 81800th batch is: 4.362082
+the loss in 82000th batch is: 4.398111
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7629.800000
+clicks hr ndcg @ 5 : 0.277469, 0.193497
+purchase hr and ndcg @5 : 0.348778, 0.245491
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 9927.400000
+clicks hr ndcg @ 10 : 0.361914, 0.220870
+purchase hr and ndcg @10 : 0.449285, 0.278099
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11153.000000
+clicks hr ndcg @ 15 : 0.407802, 0.233039
+purchase hr and ndcg @15 : 0.498617, 0.291152
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 11926.800000
+clicks hr ndcg @ 20 : 0.436915, 0.239919
+purchase hr and ndcg @20 : 0.529046, 0.298339
+#############################################################
+the loss in 82200th batch is: 4.262262
+the loss in 82400th batch is: 4.693235
+the loss in 82600th batch is: 4.206681
+the loss in 82800th batch is: 4.477767
+the loss in 83000th batch is: 4.500852
+the loss in 83200th batch is: 4.179590
+the loss in 83400th batch is: 4.602206
+the loss in 83600th batch is: 4.511182
+the loss in 83800th batch is: 4.151445
+the loss in 84000th batch is: 4.398939
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7579.800000
+clicks hr ndcg @ 5 : 0.275201, 0.191871
+purchase hr and ndcg @5 : 0.348778, 0.245978
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 9923.000000
+clicks hr ndcg @ 10 : 0.361896, 0.219999
+purchase hr and ndcg @10 : 0.448363, 0.278508
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11118.200000
+clicks hr ndcg @ 15 : 0.405997, 0.231690
+purchase hr and ndcg @15 : 0.499769, 0.292149
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 11928.400000
+clicks hr ndcg @ 20 : 0.436625, 0.238930
+purchase hr and ndcg @20 : 0.530890, 0.299513
+#############################################################
+the loss in 84200th batch is: 4.586032
+the loss in 84400th batch is: 4.476251
+the loss in 84600th batch is: 4.491252
+the loss in 84800th batch is: 4.433435
+the loss in 85000th batch is: 4.201871
+the loss in 85200th batch is: 4.343440
+the loss in 85400th batch is: 4.226756
+the loss in 85600th batch is: 4.537044
+the loss in 85800th batch is: 4.603360
+the loss in 86000th batch is: 4.228617
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7624.200000
+clicks hr ndcg @ 5 : 0.276988, 0.192415
+purchase hr and ndcg @5 : 0.349931, 0.243004
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 9937.200000
+clicks hr ndcg @ 10 : 0.362858, 0.220286
+purchase hr and ndcg @10 : 0.446750, 0.274483
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11144.200000
+clicks hr ndcg @ 15 : 0.406949, 0.231964
+purchase hr and ndcg @15 : 0.500922, 0.288833
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 11926.400000
+clicks hr ndcg @ 20 : 0.436353, 0.238910
+purchase hr and ndcg @20 : 0.531812, 0.296127
+#############################################################
+the loss in 86200th batch is: 4.391826
+the loss in 86400th batch is: 4.534274
+the loss in 86600th batch is: 4.169486
+the loss in 86800th batch is: 4.736768
+the loss in 87000th batch is: 4.408810
+the loss in 87200th batch is: 4.402895
+the loss in 87400th batch is: 4.528399
+the loss in 87600th batch is: 4.397036
+the loss in 87800th batch is: 4.212906
+the loss in 88000th batch is: 4.528067
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7592.800000
+clicks hr ndcg @ 5 : 0.275382, 0.191436
+purchase hr and ndcg @5 : 0.350853, 0.247488
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 9894.200000
+clicks hr ndcg @ 10 : 0.360272, 0.218968
+purchase hr and ndcg @10 : 0.449977, 0.279832
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11073.400000
+clicks hr ndcg @ 15 : 0.405144, 0.230857
+purchase hr and ndcg @15 : 0.493776, 0.291441
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 11868.000000
+clicks hr ndcg @ 20 : 0.435110, 0.237934
+purchase hr and ndcg @20 : 0.524666, 0.298727
+#############################################################
+the loss in 88200th batch is: 4.456950
+the loss in 88400th batch is: 4.240312
+the loss in 88600th batch is: 4.529761
+the loss in 88800th batch is: 4.407028
+the loss in 89000th batch is: 4.196891
+the loss in 89200th batch is: 4.454410
+the loss in 89400th batch is: 4.270442
+the loss in 89600th batch is: 3.864086
+the loss in 89800th batch is: 4.396631
+the loss in 90000th batch is: 4.248516
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7565.800000
+clicks hr ndcg @ 5 : 0.274430, 0.190126
+purchase hr and ndcg @5 : 0.349470, 0.246849
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 9880.000000
+clicks hr ndcg @ 10 : 0.359265, 0.217659
+purchase hr and ndcg @10 : 0.451821, 0.280186
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11055.800000
+clicks hr ndcg @ 15 : 0.403212, 0.229303
+purchase hr and ndcg @15 : 0.499539, 0.292820
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 11871.200000
+clicks hr ndcg @ 20 : 0.433441, 0.236453
+purchase hr and ndcg @20 : 0.533887, 0.300934
+#############################################################
+the loss in 90200th batch is: 4.475525
+the loss in 90400th batch is: 4.462288
+the loss in 90600th batch is: 4.277931
+the loss in 90800th batch is: 4.343309
+the loss in 91000th batch is: 4.332251
+the loss in 91200th batch is: 4.441598
+the loss in 91400th batch is: 4.255518
+the loss in 91600th batch is: 4.248507
+the loss in 91800th batch is: 4.346445
+the loss in 92000th batch is: 4.331885
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7614.000000
+clicks hr ndcg @ 5 : 0.275074, 0.191277
+purchase hr and ndcg @5 : 0.357308, 0.257764
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 9924.800000
+clicks hr ndcg @ 10 : 0.360662, 0.219040
+purchase hr and ndcg @10 : 0.455048, 0.289587
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11109.600000
+clicks hr ndcg @ 15 : 0.405289, 0.230871
+purchase hr and ndcg @15 : 0.501383, 0.301829
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 11909.600000
+clicks hr ndcg @ 20 : 0.434956, 0.237881
+purchase hr and ndcg @20 : 0.535039, 0.309789
+#############################################################
+the loss in 92200th batch is: 4.346601
+the loss in 92400th batch is: 4.557300
+the loss in 92600th batch is: 4.610344
+the loss in 92800th batch is: 4.264212
+the loss in 93000th batch is: 4.293298
+the loss in 93200th batch is: 4.173450
+the loss in 93400th batch is: 4.162830
+the loss in 93600th batch is: 4.402164
+the loss in 93800th batch is: 4.340315
+the loss in 94000th batch is: 4.469784
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7537.000000
+clicks hr ndcg @ 5 : 0.274620, 0.190273
+purchase hr and ndcg @5 : 0.341863, 0.245939
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 9849.800000
+clicks hr ndcg @ 10 : 0.359619, 0.217821
+purchase hr and ndcg @10 : 0.443061, 0.278831
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11036.200000
+clicks hr ndcg @ 15 : 0.404182, 0.229629
+purchase hr and ndcg @15 : 0.490088, 0.291267
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 11824.200000
+clicks hr ndcg @ 20 : 0.433032, 0.236453
+purchase hr and ndcg @20 : 0.525127, 0.299531
+#############################################################
+the loss in 94200th batch is: 4.291043
+the loss in 94400th batch is: 4.305593
+the loss in 94600th batch is: 4.683839
+the loss in 94800th batch is: 4.298118
+the loss in 95000th batch is: 4.356190
+the loss in 95200th batch is: 4.233933
+the loss in 95400th batch is: 4.147999
+the loss in 95600th batch is: 4.430193
+the loss in 95800th batch is: 4.527461
+the loss in 96000th batch is: 4.277542
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7619.000000
+clicks hr ndcg @ 5 : 0.276435, 0.192364
+purchase hr and ndcg @5 : 0.351544, 0.248520
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 9934.400000
+clicks hr ndcg @ 10 : 0.361052, 0.219789
+purchase hr and ndcg @10 : 0.455279, 0.282121
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11138.800000
+clicks hr ndcg @ 15 : 0.406750, 0.231902
+purchase hr and ndcg @15 : 0.500692, 0.294138
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 11930.400000
+clicks hr ndcg @ 20 : 0.436625, 0.238964
+purchase hr and ndcg @20 : 0.531351, 0.301385
+#############################################################
+the loss in 96200th batch is: 4.576956
+the loss in 96400th batch is: 4.510828
+the loss in 96600th batch is: 4.597175
+the loss in 96800th batch is: 4.576885
+the loss in 97000th batch is: 4.445947
+the loss in 97200th batch is: 4.854694
+the loss in 97400th batch is: 4.140896
+the loss in 97600th batch is: 4.622548
+the loss in 97800th batch is: 4.170595
+the loss in 98000th batch is: 4.587275
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7606.000000
+clicks hr ndcg @ 5 : 0.275618, 0.191188
+purchase hr and ndcg @5 : 0.352697, 0.249015
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 9864.000000
+clicks hr ndcg @ 10 : 0.360263, 0.218645
+purchase hr and ndcg @10 : 0.443061, 0.278446
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11021.600000
+clicks hr ndcg @ 15 : 0.403792, 0.230177
+purchase hr and ndcg @15 : 0.488704, 0.290572
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 11815.200000
+clicks hr ndcg @ 20 : 0.433894, 0.237292
+purchase hr and ndcg @20 : 0.518672, 0.297652
+#############################################################
+the loss in 98200th batch is: 4.769690
+the loss in 98400th batch is: 4.400239
+the loss in 98600th batch is: 4.253094
+the loss in 98800th batch is: 4.295706
+the loss in 99000th batch is: 4.471410
+the loss in 99200th batch is: 4.372104
+the loss in 99400th batch is: 4.381479
+the loss in 99600th batch is: 4.314792
+the loss in 99800th batch is: 4.642328
+the loss in 100000th batch is: 4.600942
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7588.600000
+clicks hr ndcg @ 5 : 0.276008, 0.191667
+purchase hr and ndcg @5 : 0.346704, 0.245740
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 9879.200000
+clicks hr ndcg @ 10 : 0.360771, 0.219156
+purchase hr and ndcg @10 : 0.443983, 0.277582
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11090.800000
+clicks hr ndcg @ 15 : 0.406160, 0.231183
+purchase hr and ndcg @15 : 0.492623, 0.290492
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 11904.200000
+clicks hr ndcg @ 20 : 0.435981, 0.238229
+purchase hr and ndcg @20 : 0.528585, 0.299011
+#############################################################
+the loss in 100200th batch is: 4.679103
+the loss in 100400th batch is: 4.803773
+the loss in 100600th batch is: 4.389573
+the loss in 100800th batch is: 4.083010
+the loss in 101000th batch is: 4.381909
+the loss in 101200th batch is: 4.720052
+the loss in 101400th batch is: 4.450080
+the loss in 101600th batch is: 4.070462
+the loss in 101800th batch is: 4.589997
+the loss in 102000th batch is: 4.505159
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7578.600000
+clicks hr ndcg @ 5 : 0.275373, 0.190692
+purchase hr and ndcg @5 : 0.347626, 0.247422
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 9896.400000
+clicks hr ndcg @ 10 : 0.360780, 0.218376
+purchase hr and ndcg @10 : 0.447902, 0.280057
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11088.800000
+clicks hr ndcg @ 15 : 0.406251, 0.230428
+purchase hr and ndcg @15 : 0.491701, 0.291721
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 11859.000000
+clicks hr ndcg @ 20 : 0.435155, 0.237265
+purchase hr and ndcg @20 : 0.522361, 0.298968
+#############################################################
+the loss in 102200th batch is: 4.449168
+the loss in 102400th batch is: 4.318252
+the loss in 102600th batch is: 4.617696
+the loss in 102800th batch is: 4.669138
+the loss in 103000th batch is: 4.289101
+the loss in 103200th batch is: 4.659228
+the loss in 103400th batch is: 4.481256
+the loss in 103600th batch is: 4.330879
+the loss in 103800th batch is: 4.683436
+the loss in 104000th batch is: 4.017155
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7595.600000
+clicks hr ndcg @ 5 : 0.275237, 0.191463
+purchase hr and ndcg @5 : 0.352236, 0.251999
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 9903.000000
+clicks hr ndcg @ 10 : 0.360490, 0.219145
+purchase hr and ndcg @10 : 0.450899, 0.284219
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11105.400000
+clicks hr ndcg @ 15 : 0.405189, 0.231000
+purchase hr and ndcg @15 : 0.500922, 0.297485
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 11885.800000
+clicks hr ndcg @ 20 : 0.434874, 0.238017
+purchase hr and ndcg @20 : 0.529968, 0.304329
+#############################################################
+the loss in 104200th batch is: 4.718320
+the loss in 104400th batch is: 4.849586
+the loss in 104600th batch is: 4.208508
+the loss in 104800th batch is: 4.412180
+the loss in 105000th batch is: 4.548797
+the loss in 105200th batch is: 4.521349
+the loss in 105400th batch is: 3.895151
+the loss in 105600th batch is: 4.088412
+the loss in 105800th batch is: 4.234260
+the loss in 106000th batch is: 4.111430
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7496.400000
+clicks hr ndcg @ 5 : 0.271418, 0.188123
+purchase hr and ndcg @5 : 0.348778, 0.247012
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 9769.000000
+clicks hr ndcg @ 10 : 0.355319, 0.215370
+purchase hr and ndcg @10 : 0.446289, 0.278665
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 10983.800000
+clicks hr ndcg @ 15 : 0.400263, 0.227273
+purchase hr and ndcg @15 : 0.497925, 0.292360
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 11778.000000
+clicks hr ndcg @ 20 : 0.429848, 0.234263
+purchase hr and ndcg @20 : 0.530659, 0.300115
+#############################################################
+the loss in 106200th batch is: 4.172727
+the loss in 106400th batch is: 4.319523
+the loss in 106600th batch is: 4.551399
+the loss in 106800th batch is: 4.273689
+the loss in 107000th batch is: 4.326206
+the loss in 107200th batch is: 4.531761
+the loss in 107400th batch is: 4.321089
+the loss in 107600th batch is: 3.820827
+the loss in 107800th batch is: 4.419193
+the loss in 108000th batch is: 4.349868
+#############################################################
+total clicks: 110225, total purchase:4338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 5: 7563.800000
+clicks hr ndcg @ 5 : 0.275246, 0.190891
+purchase hr and ndcg @5 : 0.344859, 0.241822
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 10: 9920.800000
+clicks hr ndcg @ 10 : 0.361570, 0.218899
+purchase hr and ndcg @10 : 0.449516, 0.275852
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 15: 11075.200000
+clicks hr ndcg @ 15 : 0.404954, 0.230390
+purchase hr and ndcg @15 : 0.495159, 0.287960
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cumulative reward @ 20: 11872.000000
+clicks hr ndcg @ 20 : 0.434838, 0.237457
+purchase hr and ndcg @20 : 0.526971, 0.295524
+#############################################################
+the loss in 108200th batch is: 4.187905

@@ -1,0 +1,4 @@
+#!/bin/sh
+#SBATCH --job-name TPGR
+
+srun python ./main.py

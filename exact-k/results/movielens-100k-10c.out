@@ -1,0 +1,641 @@
+Sun Jan  2 15:52:21 2022       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 470.42.01    Driver Version: 470.42.01    CUDA Version: 11.4     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla V100-PCIE...  Off  | 00000000:3B:00.0 Off |                    0 |
+| N/A   40C    P0    37W / 250W |      0MiB / 32510MiB |      2%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+Load generator training data done!
+Load generator testing data done!
+78
+Load discriminator training data done!
+99
+Load discriminator testing data done!
+Graph loaded
+Discriminator training start!
+Discriminator epoch:  1
+gs_dis: 10, dis_loss_train: 0.695855158567, dis_acc_train: 0.521875
+gs_dis: 10, dis_loss_test: 0.69680988587, dis_acc_test: 0.509359903382
+dis_acc_best:  0.5093599033816425
+gs_dis: 20, dis_loss_train: 0.697142529488, dis_acc_train: 0.5125
+gs_dis: 20, dis_loss_test: 0.697774323288, dis_acc_test: 0.505736714976
+gs_dis: 30, dis_loss_train: 0.695870184898, dis_acc_train: 0.514583333333
+gs_dis: 30, dis_loss_test: 0.697464370209, dis_acc_test: 0.506491545894
+gs_dis: 40, dis_loss_train: 0.698026806116, dis_acc_train: 0.50703125
+gs_dis: 40, dis_loss_test: 0.697534651572, dis_acc_test: 0.505283816425
+gs_dis: 50, dis_loss_train: 0.696337559223, dis_acc_train: 0.511875
+gs_dis: 50, dis_loss_test: 0.697862054127, dis_acc_test: 0.504076086957
+gs_dis: 60, dis_loss_train: 0.697146811088, dis_acc_train: 0.511458333333
+gs_dis: 60, dis_loss_test: 0.697867404436, dis_acc_test: 0.502566425121
+gs_dis: 70, dis_loss_train: 0.696484251533, dis_acc_train: 0.5125
+gs_dis: 70, dis_loss_test: 0.696653598461, dis_acc_test: 0.505434782609
+gs_dis: 80, dis_loss_train: 0.696663165838, dis_acc_train: 0.513671875
+gs_dis: 80, dis_loss_test: 0.697415919408, dis_acc_test: 0.502868357488
+gs_dis: 90, dis_loss_train: 0.697167086601, dis_acc_train: 0.509722222222
+gs_dis: 90, dis_loss_test: 0.697704024073, dis_acc_test: 0.499245169082
+gs_dis: 100, dis_loss_train: 0.697973741293, dis_acc_train: 0.5053125
+gs_dis: 100, dis_loss_test: 0.697165694502, dis_acc_test: 0.500603864734
+gs_dis: 110, dis_loss_train: 0.697921398553, dis_acc_train: 0.505681818182
+gs_dis: 110, dis_loss_test: 0.69682421834, dis_acc_test: 0.503472222222
+gs_dis: 120, dis_loss_train: 0.697681252658, dis_acc_train: 0.503125
+gs_dis: 120, dis_loss_test: 0.697575327567, dis_acc_test: 0.491092995169
+gs_dis: 130, dis_loss_train: 0.697385504613, dis_acc_train: 0.505288461538
+gs_dis: 130, dis_loss_test: 0.697186777557, dis_acc_test: 0.493357487923
+gs_dis: 140, dis_loss_train: 0.697592711874, dis_acc_train: 0.504017857143
+gs_dis: 140, dis_loss_test: 0.696158630548, dis_acc_test: 0.504378019324
+gs_dis: 150, dis_loss_train: 0.697590592702, dis_acc_train: 0.504583333333
+gs_dis: 150, dis_loss_test: 0.697941285401, dis_acc_test: 0.491092995169
+gs_dis: 160, dis_loss_train: 0.697632412985, dis_acc_train: 0.503515625
+gs_dis: 160, dis_loss_test: 0.696432431539, dis_acc_test: 0.503623188406
+gs_dis: 170, dis_loss_train: 0.697530695621, dis_acc_train: 0.503860294118
+gs_dis: 170, dis_loss_test: 0.697558613215, dis_acc_test: 0.502264492754
+gs_dis: 180, dis_loss_train: 0.697240377797, dis_acc_train: 0.504340277778
+gs_dis: 180, dis_loss_test: 0.696890672336, dis_acc_test: 0.502717391304
+gs_dis: 190, dis_loss_train: 0.697209828151, dis_acc_train: 0.505756578947
+gs_dis: 190, dis_loss_test: 0.697304838521, dis_acc_test: 0.505434782609
+gs_dis: 200, dis_loss_train: 0.697473195493, dis_acc_train: 0.504375
+gs_dis: 200, dis_loss_test: 0.696898325342, dis_acc_test: 0.503472222222
+gs_dis: 210, dis_loss_train: 0.697233774265, dis_acc_train: 0.505357142857
+gs_dis: 210, dis_loss_test: 0.695180204755, dis_acc_test: 0.519927536232
+dis_acc_best:  0.519927536231884
+gs_dis: 220, dis_loss_train: 0.69703363722, dis_acc_train: 0.505823863636
+gs_dis: 220, dis_loss_test: 0.697312426164, dis_acc_test: 0.501358695652
+gs_dis: 230, dis_loss_train: 0.696964983318, dis_acc_train: 0.50652173913
+gs_dis: 230, dis_loss_test: 0.696131342275, dis_acc_test: 0.508303140097
+gs_dis: 240, dis_loss_train: 0.697107690076, dis_acc_train: 0.50390625
+gs_dis: 240, dis_loss_test: 0.695327905929, dis_acc_test: 0.50211352657
+gs_dis: 250, dis_loss_train: 0.696966086626, dis_acc_train: 0.503625
+gs_dis: 250, dis_loss_test: 0.695245681753, dis_acc_test: 0.5
+gs_dis: 260, dis_loss_train: 0.697133487692, dis_acc_train: 0.500600961538
+gs_dis: 260, dis_loss_test: 0.696310155634, dis_acc_test: 0.505736714976
+gs_dis: 270, dis_loss_train: 0.697004560188, dis_acc_train: 0.500925925926
+gs_dis: 270, dis_loss_test: 0.696601353694, dis_acc_test: 0.502566425121
+gs_dis: 280, dis_loss_train: 0.696967922577, dis_acc_train: 0.502120535714
+gs_dis: 280, dis_loss_test: 0.696605746585, dis_acc_test: 0.504981884058
+gs_dis: 290, dis_loss_train: 0.697047469945, dis_acc_train: 0.50161637931
+gs_dis: 290, dis_loss_test: 0.696056383531, dis_acc_test: 0.514190821256
+gs_dis: 300, dis_loss_train: 0.697024422685, dis_acc_train: 0.502604166667
+gs_dis: 300, dis_loss_test: 0.696447257258, dis_acc_test: 0.509963768116
+gs_dis: 310, dis_loss_train: 0.697130511076, dis_acc_train: 0.502116935484
+gs_dis: 310, dis_loss_test: 0.696962599881, dis_acc_test: 0.498188405797
+gs_dis: 320, dis_loss_train: 0.69681851957, dis_acc_train: 0.50322265625
+gs_dis: 320, dis_loss_test: 0.694966534774, dis_acc_test: 0.516304347826
+gs_dis: 330, dis_loss_train: 0.696948180415, dis_acc_train: 0.503409090909
+gs_dis: 330, dis_loss_test: 0.69570293893, dis_acc_test: 0.505887681159
+gs_dis: 340, dis_loss_train: 0.696813787958, dis_acc_train: 0.503492647059
+gs_dis: 340, dis_loss_test: 0.695425159401, dis_acc_test: 0.513737922705
+gs_dis: 350, dis_loss_train: 0.69693023869, dis_acc_train: 0.502410714286
+gs_dis: 350, dis_loss_test: 0.697704621559, dis_acc_test: 0.496376811594
+gs_dis: 360, dis_loss_train: 0.696927496791, dis_acc_train: 0.502170138889
+gs_dis: 360, dis_loss_test: 0.69613087782, dis_acc_test: 0.51056763285
+gs_dis: 370, dis_loss_train: 0.697332908978, dis_acc_train: 0.499577702703
+gs_dis: 370, dis_loss_test: 0.693823141176, dis_acc_test: 0.519776570048
+gs_dis: 380, dis_loss_train: 0.697208367523, dis_acc_train: 0.499671052632
+gs_dis: 380, dis_loss_test: 0.695602564708, dis_acc_test: 0.512379227053
+gs_dis: 390, dis_loss_train: 0.697405041945, dis_acc_train: 0.498878205128
+gs_dis: 390, dis_loss_test: 0.695136076586, dis_acc_test: 0.504981884058
+gs_dis: 400, dis_loss_train: 0.697187289149, dis_acc_train: 0.499296875
+gs_dis: 400, dis_loss_test: 0.69519161343, dis_acc_test: 0.506944444444
+gs_dis: 410, dis_loss_train: 0.697386552793, dis_acc_train: 0.497865853659
+gs_dis: 410, dis_loss_test: 0.696020917616, dis_acc_test: 0.505585748792
+gs_dis: 420, dis_loss_train: 0.697381736551, dis_acc_train: 0.497619047619
+gs_dis: 420, dis_loss_test: 0.694848991823, dis_acc_test: 0.517512077295
+gs_dis: 430, dis_loss_train: 0.697272626189, dis_acc_train: 0.498183139535
+gs_dis: 430, dis_loss_test: 0.694171536084, dis_acc_test: 0.517210144928
+gs_dis: 440, dis_loss_train: 0.697351722148, dis_acc_train: 0.497727272727
+gs_dis: 440, dis_loss_test: 0.694514406476, dis_acc_test: 0.522493961353
+dis_acc_best:  0.522493961352657
+gs_dis: 450, dis_loss_train: 0.697482377423, dis_acc_train: 0.496666666667
+gs_dis: 450, dis_loss_test: 0.696074084959, dis_acc_test: 0.504830917874
+gs_dis: 460, dis_loss_train: 0.697478520611, dis_acc_train: 0.496875
+gs_dis: 460, dis_loss_test: 0.693875485284, dis_acc_test: 0.525060386473
+dis_acc_best:  0.5250603864734299
+gs_dis: 470, dis_loss_train: 0.69742769878, dis_acc_train: 0.496675531915
+gs_dis: 470, dis_loss_test: 0.693872521465, dis_acc_test: 0.515700483092
+gs_dis: 480, dis_loss_train: 0.697541602949, dis_acc_train: 0.496028645833
+gs_dis: 480, dis_loss_test: 0.696269815671, dis_acc_test: 0.49788647343
+gs_dis: 490, dis_loss_train: 0.697543818732, dis_acc_train: 0.495790816327
+gs_dis: 490, dis_loss_test: 0.694117866564, dis_acc_test: 0.515851449275
+gs_dis: 500, dis_loss_train: 0.697520682693, dis_acc_train: 0.4954375
+gs_dis: 500, dis_loss_test: 0.694658468599, dis_acc_test: 0.509661835749
+gs_dis: 510, dis_loss_train: 0.697435116184, dis_acc_train: 0.496078431373
+gs_dis: 510, dis_loss_test: 0.693832000385, dis_acc_test: 0.513586956522
+gs_dis: 520, dis_loss_train: 0.69737046957, dis_acc_train: 0.496574519231
+gs_dis: 520, dis_loss_test: 0.694905277612, dis_acc_test: 0.510265700483
+gs_dis: 530, dis_loss_train: 0.697465928658, dis_acc_train: 0.495931603774
+gs_dis: 530, dis_loss_test: 0.695017764822, dis_acc_test: 0.50845410628
+gs_dis: 540, dis_loss_train: 0.697510095327, dis_acc_train: 0.4953125
+gs_dis: 540, dis_loss_test: 0.693636684026, dis_acc_test: 0.513285024155
+gs_dis: 550, dis_loss_train: 0.697462557988, dis_acc_train: 0.495681818182
+gs_dis: 550, dis_loss_test: 0.694271263005, dis_acc_test: 0.504378019324
+gs_dis: 560, dis_loss_train: 0.697297631204, dis_acc_train: 0.496037946429
+gs_dis: 560, dis_loss_test: 0.693789102029, dis_acc_test: 0.511775362319
+gs_dis: 570, dis_loss_train: 0.697287439463, dis_acc_train: 0.496271929825
+gs_dis: 570, dis_loss_test: 0.695167757751, dis_acc_test: 0.505132850242
+gs_dis: 580, dis_loss_train: 0.697160894604, dis_acc_train: 0.496875
+gs_dis: 580, dis_loss_test: 0.69471027137, dis_acc_test: 0.511926328502
+gs_dis: 590, dis_loss_train: 0.697138003374, dis_acc_train: 0.496927966102
+gs_dis: 590, dis_loss_test: 0.693786747214, dis_acc_test: 0.514945652174
+gs_dis: 600, dis_loss_train: 0.697167415718, dis_acc_train: 0.497083333333
+gs_dis: 600, dis_loss_test: 0.695518873452, dis_acc_test: 0.505887681159
+gs_dis: 610, dis_loss_train: 0.697059524352, dis_acc_train: 0.497387295082
+gs_dis: 610, dis_loss_test: 0.695074902928, dis_acc_test: 0.510416666667
+gs_dis: 620, dis_loss_train: 0.69707072531, dis_acc_train: 0.497530241935
+gs_dis: 620, dis_loss_test: 0.694731636612, dis_acc_test: 0.515247584541
+gs_dis: 630, dis_loss_train: 0.697070592831, dis_acc_train: 0.497073412698
+gs_dis: 630, dis_loss_test: 0.694511907688, dis_acc_test: 0.515851449275
+gs_dis: 640, dis_loss_train: 0.696969350148, dis_acc_train: 0.497216796875
+gs_dis: 640, dis_loss_test: 0.694842942959, dis_acc_test: 0.509812801932
+gs_dis: 650, dis_loss_train: 0.696962581873, dis_acc_train: 0.496971153846
+gs_dis: 650, dis_loss_test: 0.694510430817, dis_acc_test: 0.509963768116
+gs_dis: 660, dis_loss_train: 0.696955091755, dis_acc_train: 0.496827651515
+gs_dis: 660, dis_loss_test: 0.693627480723, dis_acc_test: 0.517361111111
+gs_dis: 670, dis_loss_train: 0.696972317749, dis_acc_train: 0.496455223881
+gs_dis: 670, dis_loss_test: 0.694276842518, dis_acc_test: 0.517210144928
+gs_dis: 680, dis_loss_train: 0.697002538863, dis_acc_train: 0.496829044118
+gs_dis: 680, dis_loss_test: 0.693772339303, dis_acc_test: 0.515247584541
+gs_dis: 690, dis_loss_train: 0.696993004671, dis_acc_train: 0.49705615942
+gs_dis: 690, dis_loss_test: 0.694426465438, dis_acc_test: 0.508756038647
+gs_dis: 700, dis_loss_train: 0.696943453635, dis_acc_train: 0.4975
+gs_dis: 700, dis_loss_test: 0.694841686942, dis_acc_test: 0.509963768116
+gs_dis: 710, dis_loss_train: 0.697011204085, dis_acc_train: 0.496654929577
+gs_dis: 710, dis_loss_test: 0.693908733734, dis_acc_test: 0.505887681159
+gs_dis: 720, dis_loss_train: 0.697002235966, dis_acc_train: 0.497135416667
+gs_dis: 720, dis_loss_test: 0.694400833425, dis_acc_test: 0.507246376812
+gs_dis: 730, dis_loss_train: 0.697018527576, dis_acc_train: 0.49738869863
+gs_dis: 730, dis_loss_test: 0.693924909341, dis_acc_test: 0.512530193237
+gs_dis: 740, dis_loss_train: 0.696917837617, dis_acc_train: 0.497508445946
+gs_dis: 740, dis_loss_test: 0.69411326261, dis_acc_test: 0.508001207729
+gs_dis: 750, dis_loss_train: 0.696976125161, dis_acc_train: 0.497166666667
+gs_dis: 750, dis_loss_test: 0.693460511988, dis_acc_test: 0.511624396135
+gs_dis: 760, dis_loss_train: 0.696947424349, dis_acc_train: 0.497615131579
+gs_dis: 760, dis_loss_test: 0.692792145814, dis_acc_test: 0.525060386473
+gs_dis: 770, dis_loss_train: 0.696889930344, dis_acc_train: 0.497605519481
+gs_dis: 770, dis_loss_test: 0.694031098327, dis_acc_test: 0.5211352657
+gs_dis: 780, dis_loss_train: 0.696873754951, dis_acc_train: 0.497676282051
+gs_dis: 780, dis_loss_test: 0.693997323801, dis_acc_test: 0.51856884058
+gs_dis: 790, dis_loss_train: 0.696864628339, dis_acc_train: 0.497824367089
+gs_dis: 790, dis_loss_test: 0.694365822751, dis_acc_test: 0.521286231884
+gs_dis: 800, dis_loss_train: 0.696739474311, dis_acc_train: 0.4984765625
+gs_dis: 800, dis_loss_test: 0.693994959195, dis_acc_test: 0.516606280193
+gs_dis: 810, dis_loss_train: 0.696631712089, dis_acc_train: 0.499228395062
+gs_dis: 810, dis_loss_test: 0.694713540987, dis_acc_test: 0.515247584541
+gs_dis: 820, dis_loss_train: 0.696442451855, dis_acc_train: 0.500114329268
+gs_dis: 820, dis_loss_test: 0.69327400416, dis_acc_test: 0.520531400966
+Discriminator training done!
+Generator training start!
+Generator epoch:  1
+gs_gen: 10, gen_reward_train: 0.12353271991, precision@4_train: 0.20625, precision_train: 0.18125
+gs_gen: 10, gen_reward_test: 0.0163210871657, precision@4_test: 0.207220873786, precision_test: 0.200515776699
+precision_at_4_best:  0.207220873786 precision_best:  0.200515776699
+gs_gen: 20, gen_reward_train: 0.13174912557, precision@4_train: 0.228125, precision_train: 0.19734375
+gs_gen: 20, gen_reward_test: 0.0156233903672, precision@4_test: 0.247269417476, precision_test: 0.205066747573
+precision_at_4_best:  0.247269417476 precision_best:  0.205066747573
+gs_gen: 30, gen_reward_train: 0.133211674293, precision@4_train: 0.2375, precision_train: 0.198125
+gs_gen: 30, gen_reward_test: 0.0160670702536, precision@4_test: 0.257888349515, precision_test: 0.206796116505
+precision_at_4_best:  0.257888349515 precision_best:  0.206796116505
+gs_gen: 40, gen_reward_train: 0.13449061811, precision@4_train: 0.25859375, precision_train: 0.20125
+gs_gen: 40, gen_reward_test: 0.0145121364339, precision@4_test: 0.255764563107, precision_test: 0.205006067961
+gs_gen: 50, gen_reward_train: 0.134874248207, precision@4_train: 0.260625, precision_train: 0.204125
+gs_gen: 50, gen_reward_test: 0.0171764635671, precision@4_test: 0.266686893204, precision_test: 0.205734223301
+precision_at_4_best:  0.266686893204 precision_best:  0.205734223301
+gs_gen: 60, gen_reward_train: 0.135357626528, precision@4_train: 0.261979166667, precision_train: 0.205104166667
+gs_gen: 60, gen_reward_test: 0.0169846452953, precision@4_test: 0.27942961165, precision_test: 0.205552184466
+precision_at_4_best:  0.27942961165 precision_best:  0.205552184466
+gs_gen: 70, gen_reward_train: 0.136046089658, precision@4_train: 0.267857142857, precision_train: 0.206830357143
+gs_gen: 70, gen_reward_test: 0.0171537480851, precision@4_test: 0.265776699029, precision_test: 0.204975728155
+gs_gen: 80, gen_reward_train: 0.135877449624, precision@4_train: 0.27265625, precision_train: 0.2068359375
+gs_gen: 80, gen_reward_test: 0.0158074024016, precision@4_test: 0.268203883495, precision_test: 0.20588592233
+gs_gen: 90, gen_reward_train: 0.135887436403, precision@4_train: 0.271875, precision_train: 0.206805555556
+gs_gen: 90, gen_reward_test: 0.0179775346939, precision@4_test: 0.273361650485, precision_test: 0.208040048544
+gs_gen: 100, gen_reward_train: 0.136017068177, precision@4_train: 0.27, precision_train: 0.20734375
+gs_gen: 100, gen_reward_test: 0.0174996723213, precision@4_test: 0.260315533981, precision_test: 0.206583737864
+gs_gen: 110, gen_reward_train: 0.136277242005, precision@4_train: 0.267897727273, precision_train: 0.207244318182
+gs_gen: 110, gen_reward_test: 0.0163693786825, precision@4_test: 0.283980582524, precision_test: 0.207736650485
+precision_at_4_best:  0.283980582524 precision_best:  0.207736650485
+gs_gen: 120, gen_reward_train: 0.136361156156, precision@4_train: 0.27109375, precision_train: 0.206848958333
+gs_gen: 120, gen_reward_test: 0.0170011301932, precision@4_test: 0.264866504854, precision_test: 0.204277912621
+gs_gen: 130, gen_reward_train: 0.136201606519, precision@4_train: 0.270913461538, precision_train: 0.20625
+gs_gen: 130, gen_reward_test: 0.0162786395624, precision@4_test: 0.270327669903, precision_test: 0.20661407767
+gs_gen: 140, gen_reward_train: 0.135982189008, precision@4_train: 0.269866071429, precision_train: 0.205535714286
+gs_gen: 140, gen_reward_test: 0.0160372944603, precision@4_test: 0.26911407767, precision_test: 0.206523058252
+gs_gen: 150, gen_reward_train: 0.135712361336, precision@4_train: 0.273333333333, precision_train: 0.205583333333
+gs_gen: 150, gen_reward_test: 0.0164271142985, precision@4_test: 0.271237864078, precision_test: 0.20421723301
+gs_gen: 160, gen_reward_train: 0.135801630281, precision@4_train: 0.274609375, precision_train: 0.20658203125
+gs_gen: 160, gen_reward_test: 0.018949837234, precision@4_test: 0.271844660194, precision_test: 0.207888349515
+gs_gen: 170, gen_reward_train: 0.136036646717, precision@4_train: 0.276470588235, precision_train: 0.207463235294
+gs_gen: 170, gen_reward_test: 0.0155673880239, precision@4_test: 0.26729368932, precision_test: 0.20552184466
+gs_gen: 180, gen_reward_train: 0.136123164578, precision@4_train: 0.275868055556, precision_train: 0.207048611111
+gs_gen: 180, gen_reward_test: 0.0168383794574, precision@4_test: 0.260922330097, precision_test: 0.206007281553
+gs_gen: 190, gen_reward_train: 0.136228137895, precision@4_train: 0.276151315789, precision_train: 0.207154605263
+gs_gen: 190, gen_reward_test: 0.0160572721071, precision@4_test: 0.275182038835, precision_test: 0.204490291262
+gs_gen: 200, gen_reward_train: 0.136302729249, precision@4_train: 0.274375, precision_train: 0.207609375
+gs_gen: 200, gen_reward_test: 0.0175413489703, precision@4_test: 0.271844660194, precision_test: 0.208555825243
+gs_gen: 210, gen_reward_train: 0.136243124164, precision@4_train: 0.273511904762, precision_train: 0.207455357143
+gs_gen: 210, gen_reward_test: 0.0168432434388, precision@4_test: 0.267597087379, precision_test: 0.205764563107
+gs_gen: 220, gen_reward_train: 0.136412328143, precision@4_train: 0.272869318182, precision_train: 0.207528409091
+gs_gen: 220, gen_reward_test: 0.0168454393708, precision@4_test: 0.273361650485, precision_test: 0.20515776699
+gs_gen: 230, gen_reward_train: 0.136599779323, precision@4_train: 0.272282608696, precision_train: 0.207472826087
+gs_gen: 230, gen_reward_test: 0.0138605269197, precision@4_test: 0.285800970874, precision_test: 0.207736650485
+precision_at_4_best:  0.285800970874 precision_best:  0.207736650485
+gs_gen: 240, gen_reward_train: 0.136657861931, precision@4_train: 0.272526041667, precision_train: 0.207252604167
+gs_gen: 240, gen_reward_test: 0.0141219759667, precision@4_test: 0.263046116505, precision_test: 0.204672330097
+gs_gen: 250, gen_reward_train: 0.136606151521, precision@4_train: 0.273, precision_train: 0.2076375
+gs_gen: 250, gen_reward_test: 0.0163185220139, precision@4_test: 0.280946601942, precision_test: 0.208434466019
+gs_gen: 260, gen_reward_train: 0.136912942391, precision@4_train: 0.275120192308, precision_train: 0.207524038462
+gs_gen: 260, gen_reward_test: 0.0117452257105, precision@4_test: 0.272148058252, precision_test: 0.206310679612
+gs_gen: 270, gen_reward_train: 0.136886648834, precision@4_train: 0.27349537037, precision_train: 0.207025462963
+gs_gen: 270, gen_reward_test: 0.0155756597055, precision@4_test: 0.297330097087, precision_test: 0.208586165049
+precision_at_4_best:  0.297330097087 precision_best:  0.208586165049
+gs_gen: 280, gen_reward_train: 0.136816187256, precision@4_train: 0.276227678571, precision_train: 0.207265625
+gs_gen: 280, gen_reward_test: 0.0133471642304, precision@4_test: 0.282160194175, precision_test: 0.20661407767
+gs_gen: 290, gen_reward_train: 0.136761614064, precision@4_train: 0.276939655172, precision_train: 0.207532327586
+gs_gen: 290, gen_reward_test: 0.0146032051337, precision@4_test: 0.300060679612, precision_test: 0.208980582524
+precision_at_4_best:  0.300060679612 precision_best:  0.208980582524
+gs_gen: 300, gen_reward_train: 0.136695200279, precision@4_train: 0.278333333333, precision_train: 0.20765625
+gs_gen: 300, gen_reward_test: 0.0156401062149, precision@4_test: 0.301881067961, precision_test: 0.212166262136
+precision_at_4_best:  0.301881067961 precision_best:  0.212166262136
+gs_gen: 310, gen_reward_train: 0.136790757482, precision@4_train: 0.281955645161, precision_train: 0.208215725806
+gs_gen: 310, gen_reward_test: 0.0170653661333, precision@4_test: 0.308859223301, precision_test: 0.211953883495
+precision_at_4_best:  0.308859223301 precision_best:  0.211953883495
+gs_gen: 320, gen_reward_train: 0.136818415229, precision@4_train: 0.2814453125, precision_train: 0.20841796875
+gs_gen: 320, gen_reward_test: 0.0157477061436, precision@4_test: 0.304308252427, precision_test: 0.207372572816
+gs_gen: 330, gen_reward_train: 0.136825214981, precision@4_train: 0.282386363636, precision_train: 0.208371212121
+gs_gen: 330, gen_reward_test: 0.0178853932551, precision@4_test: 0.332220873786, precision_test: 0.21046723301
+precision_at_4_best:  0.332220873786 precision_best:  0.21046723301
+gs_gen: 340, gen_reward_train: 0.136861128426, precision@4_train: 0.285294117647, precision_train: 0.208621323529
+gs_gen: 340, gen_reward_test: 0.0183249465145, precision@4_test: 0.316140776699, precision_test: 0.210436893204
+gs_gen: 350, gen_reward_train: 0.136863740746, precision@4_train: 0.286071428571, precision_train: 0.208482142857
+gs_gen: 350, gen_reward_test: 0.0195488209104, precision@4_test: 0.327063106796, precision_test: 0.210345873786
+gs_gen: 360, gen_reward_train: 0.136883154242, precision@4_train: 0.288888888889, precision_train: 0.208576388889
+gs_gen: 360, gen_reward_test: 0.0189388004466, precision@4_test: 0.344053398058, precision_test: 0.217050970874
+precision_at_4_best:  0.344053398058 precision_best:  0.217050970874
+gs_gen: 370, gen_reward_train: 0.136876620131, precision@4_train: 0.289949324324, precision_train: 0.208724662162
+gs_gen: 370, gen_reward_test: 0.0149391601495, precision@4_test: 0.360133495146, precision_test: 0.212166262136
+precision_at_4_best:  0.360133495146 precision_best:  0.212166262136
+gs_gen: 380, gen_reward_train: 0.136885848779, precision@4_train: 0.293174342105, precision_train: 0.209004934211
+gs_gen: 380, gen_reward_test: 0.0194353755672, precision@4_test: 0.335558252427, precision_test: 0.213046116505
+gs_gen: 390, gen_reward_train: 0.136860075326, precision@4_train: 0.294791666667, precision_train: 0.20890224359
+gs_gen: 390, gen_reward_test: 0.0152204618473, precision@4_test: 0.342233009709, precision_test: 0.210952669903
+gs_gen: 400, gen_reward_train: 0.136903174259, precision@4_train: 0.29625, precision_train: 0.2091875
+gs_gen: 400, gen_reward_test: 0.0171687313835, precision@4_test: 0.355279126214, precision_test: 0.213652912621
+gs_gen: 410, gen_reward_train: 0.136985059119, precision@4_train: 0.297942073171, precision_train: 0.209245426829
+gs_gen: 410, gen_reward_test: 0.0176388110278, precision@4_test: 0.335558252427, precision_test: 0.213834951456
+Generator epoch:  2
+gs_gen: 420, gen_reward_train: 0.136930958998, precision@4_train: 0.299479166667, precision_train: 0.209293154762
+gs_gen: 420, gen_reward_test: 0.0175670997864, precision@4_test: 0.363774271845, precision_test: 0.214745145631
+precision_at_4_best:  0.363774271845 precision_best:  0.214745145631
+gs_gen: 430, gen_reward_train: 0.136978935918, precision@4_train: 0.301453488372, precision_train: 0.209484011628
+gs_gen: 430, gen_reward_test: 0.0177286475788, precision@4_test: 0.361347087379, precision_test: 0.212408980583
+gs_gen: 440, gen_reward_train: 0.137050785903, precision@4_train: 0.30390625, precision_train: 0.209573863636
+gs_gen: 440, gen_reward_test: 0.0198882337189, precision@4_test: 0.370145631068, precision_test: 0.215230582524
+precision_at_4_best:  0.370145631068 precision_best:  0.215230582524
+gs_gen: 450, gen_reward_train: 0.137074470189, precision@4_train: 0.305833333333, precision_train: 0.209590277778
+gs_gen: 450, gen_reward_test: 0.0197949788343, precision@4_test: 0.394720873786, precision_test: 0.218446601942
+precision_at_4_best:  0.394720873786 precision_best:  0.218446601942
+gs_gen: 460, gen_reward_train: 0.13702865528, precision@4_train: 0.308695652174, precision_train: 0.209701086957
+gs_gen: 460, gen_reward_test: 0.0180262600804, precision@4_test: 0.390473300971, precision_test: 0.215867718447
+gs_gen: 470, gen_reward_train: 0.136995136801, precision@4_train: 0.310571808511, precision_train: 0.20977393617
+gs_gen: 470, gen_reward_test: 0.0183840591135, precision@4_test: 0.368628640777, precision_test: 0.216171116505
+gs_gen: 480, gen_reward_train: 0.137011411258, precision@4_train: 0.3119140625, precision_train: 0.209869791667
+gs_gen: 480, gen_reward_test: 0.0183673478048, precision@4_test: 0.38713592233, precision_test: 0.217779126214
+gs_gen: 490, gen_reward_train: 0.137100108576, precision@4_train: 0.315114795918, precision_train: 0.210133928571
+gs_gen: 490, gen_reward_test: 0.0170138556583, precision@4_test: 0.390473300971, precision_test: 0.217900485437
+gs_gen: 500, gen_reward_train: 0.137124788344, precision@4_train: 0.3160625, precision_train: 0.210275
+gs_gen: 500, gen_reward_test: 0.0220715489456, precision@4_test: 0.407463592233, precision_test: 0.218476941748
+precision_at_4_best:  0.407463592233 precision_best:  0.218476941748
+gs_gen: 510, gen_reward_train: 0.137163160741, precision@4_train: 0.318137254902, precision_train: 0.210514705882
+gs_gen: 510, gen_reward_test: 0.0195856457667, precision@4_test: 0.377123786408, precision_test: 0.214472087379
+gs_gen: 520, gen_reward_train: 0.137205866782, precision@4_train: 0.320432692308, precision_train: 0.210901442308
+gs_gen: 520, gen_reward_test: 0.0171999577433, precision@4_test: 0.361650485437, precision_test: 0.215928398058
+gs_gen: 530, gen_reward_train: 0.137212796594, precision@4_train: 0.322110849057, precision_train: 0.210931603774
+gs_gen: 530, gen_reward_test: 0.0165236997554, precision@4_test: 0.384708737864, precision_test: 0.215867718447
+gs_gen: 540, gen_reward_train: 0.137291234732, precision@4_train: 0.322569444444, precision_train: 0.210798611111
+gs_gen: 540, gen_reward_test: 0.0206177498313, precision@4_test: 0.386529126214, precision_test: 0.218416262136
+gs_gen: 550, gen_reward_train: 0.13731298173, precision@4_train: 0.324318181818, precision_train: 0.210846590909
+gs_gen: 550, gen_reward_test: 0.0171106251373, precision@4_test: 0.398361650485, precision_test: 0.21635315534
+gs_gen: 560, gen_reward_train: 0.137327958564, precision@4_train: 0.325167410714, precision_train: 0.211077008929
+gs_gen: 560, gen_reward_test: 0.0184188574842, precision@4_test: 0.392900485437, precision_test: 0.217991504854
+gs_gen: 570, gen_reward_train: 0.137276692244, precision@4_train: 0.325822368421, precision_train: 0.211074561404
+gs_gen: 570, gen_reward_test: 0.0185728270235, precision@4_test: 0.410800970874, precision_test: 0.221116504854
+precision_at_4_best:  0.410800970874 precision_best:  0.221116504854
+gs_gen: 580, gen_reward_train: 0.137240490407, precision@4_train: 0.326993534483, precision_train: 0.21150862069
+gs_gen: 580, gen_reward_test: 0.0192419892014, precision@4_test: 0.402912621359, precision_test: 0.218537621359
+gs_gen: 590, gen_reward_train: 0.137240993863, precision@4_train: 0.328389830508, precision_train: 0.211663135593
+gs_gen: 590, gen_reward_test: 0.017234064711, precision@4_test: 0.417475728155, precision_test: 0.219599514563
+precision_at_4_best:  0.417475728155 precision_best:  0.219599514563
+gs_gen: 600, gen_reward_train: 0.137213839615, precision@4_train: 0.33, precision_train: 0.211625
+gs_gen: 600, gen_reward_test: 0.017318030964, precision@4_test: 0.395934466019, precision_test: 0.216322815534
+gs_gen: 610, gen_reward_train: 0.137211470379, precision@4_train: 0.332325819672, precision_train: 0.211910860656
+gs_gen: 610, gen_reward_test: 0.0171087993833, precision@4_test: 0.399878640777, precision_test: 0.220722087379
+gs_gen: 620, gen_reward_train: 0.137227726824, precision@4_train: 0.335030241935, precision_train: 0.212222782258
+gs_gen: 620, gen_reward_test: 0.0181153994415, precision@4_test: 0.415351941748, precision_test: 0.218810679612
+gs_gen: 630, gen_reward_train: 0.137249813335, precision@4_train: 0.336359126984, precision_train: 0.212222222222
+gs_gen: 630, gen_reward_test: 0.0185698892343, precision@4_test: 0.404733009709, precision_test: 0.21838592233
+gs_gen: 640, gen_reward_train: 0.137317228783, precision@4_train: 0.33798828125, precision_train: 0.212294921875
+gs_gen: 640, gen_reward_test: 0.0206153383569, precision@4_test: 0.44963592233, precision_test: 0.223938106796
+precision_at_4_best:  0.44963592233 precision_best:  0.223938106796
+gs_gen: 650, gen_reward_train: 0.137294124479, precision@4_train: 0.339423076923, precision_train: 0.212317307692
+gs_gen: 650, gen_reward_test: 0.0235479117995, precision@4_test: 0.417475728155, precision_test: 0.218143203883
+gs_gen: 660, gen_reward_train: 0.137310148008, precision@4_train: 0.339962121212, precision_train: 0.212367424242
+gs_gen: 660, gen_reward_test: 0.0186948473158, precision@4_test: 0.431128640777, precision_test: 0.223634708738
+gs_gen: 670, gen_reward_train: 0.137319732246, precision@4_train: 0.34109141791, precision_train: 0.212402052239
+gs_gen: 670, gen_reward_test: 0.0210329734548, precision@4_test: 0.405946601942, precision_test: 0.217111650485
+gs_gen: 680, gen_reward_train: 0.137345648447, precision@4_train: 0.342049632353, precision_train: 0.212385110294
+gs_gen: 680, gen_reward_test: 0.0199585044666, precision@4_test: 0.400788834951, precision_test: 0.218082524272
+gs_gen: 690, gen_reward_train: 0.137353180824, precision@4_train: 0.342708333333, precision_train: 0.212441123188
+gs_gen: 690, gen_reward_test: 0.0210583433509, precision@4_test: 0.39411407767, precision_test: 0.216474514563
+gs_gen: 700, gen_reward_train: 0.137359491651, precision@4_train: 0.343169642857, precision_train: 0.212491071429
+gs_gen: 700, gen_reward_test: 0.0184068981992, precision@4_test: 0.388652912621, precision_test: 0.218325242718
+gs_gen: 710, gen_reward_train: 0.137340952246, precision@4_train: 0.344454225352, precision_train: 0.212596830986
+gs_gen: 710, gen_reward_test: 0.0214936467955, precision@4_test: 0.386225728155, precision_test: 0.218294902913
+gs_gen: 720, gen_reward_train: 0.137395760707, precision@4_train: 0.345225694444, precision_train: 0.212734375
+gs_gen: 720, gen_reward_test: 0.021429387726, precision@4_test: 0.388046116505, precision_test: 0.215442961165
+gs_gen: 730, gen_reward_train: 0.137433918433, precision@4_train: 0.346232876712, precision_train: 0.212803938356
+gs_gen: 730, gen_reward_test: 0.0202281385913, precision@4_test: 0.385922330097, precision_test: 0.214836165049
+gs_gen: 740, gen_reward_train: 0.137402498853, precision@4_train: 0.346748310811, precision_train: 0.212732263514
+gs_gen: 740, gen_reward_test: 0.0194684340646, precision@4_test: 0.391383495146, precision_test: 0.216171116505
+gs_gen: 750, gen_reward_train: 0.137426747948, precision@4_train: 0.347583333333, precision_train: 0.212833333333
+gs_gen: 750, gen_reward_test: 0.0173969541685, precision@4_test: 0.396844660194, precision_test: 0.219387135922
+gs_gen: 760, gen_reward_train: 0.137420056898, precision@4_train: 0.348972039474, precision_train: 0.212952302632
+gs_gen: 760, gen_reward_test: 0.0184875347299, precision@4_test: 0.397451456311, precision_test: 0.217900485437
+gs_gen: 770, gen_reward_train: 0.137452798656, precision@4_train: 0.349310064935, precision_train: 0.213035714286
+gs_gen: 770, gen_reward_test: 0.0202283982766, precision@4_test: 0.368628640777, precision_test: 0.213501213592
+gs_gen: 780, gen_reward_train: 0.137493676062, precision@4_train: 0.349679487179, precision_train: 0.213181089744
+gs_gen: 780, gen_reward_test: 0.0174549467934, precision@4_test: 0.381371359223, precision_test: 0.217050970874
+gs_gen: 790, gen_reward_train: 0.137505251339, precision@4_train: 0.350237341772, precision_train: 0.213231803797
+gs_gen: 790, gen_reward_test: 0.0218660910478, precision@4_test: 0.359526699029, precision_test: 0.213046116505
+gs_gen: 800, gen_reward_train: 0.137477691397, precision@4_train: 0.350625, precision_train: 0.21317578125
+gs_gen: 800, gen_reward_test: 0.0218006412417, precision@4_test: 0.371662621359, precision_test: 0.21453276699
+gs_gen: 810, gen_reward_train: 0.137502687746, precision@4_train: 0.35111882716, precision_train: 0.213167438272
+gs_gen: 810, gen_reward_test: 0.0175466534582, precision@4_test: 0.375910194175, precision_test: 0.215442961165
+gs_gen: 820, gen_reward_train: 0.137449960265, precision@4_train: 0.351333841463, precision_train: 0.213098323171
+gs_gen: 820, gen_reward_test: 0.0170245111097, precision@4_test: 0.378337378641, precision_test: 0.217870145631
+Generator epoch:  3
+gs_gen: 830, gen_reward_train: 0.137511668956, precision@4_train: 0.351807228916, precision_train: 0.213042168675
+gs_gen: 830, gen_reward_test: 0.0175728075279, precision@4_test: 0.395934466019, precision_test: 0.217597087379
+gs_gen: 840, gen_reward_train: 0.137505405024, precision@4_train: 0.351711309524, precision_train: 0.213087797619
+gs_gen: 840, gen_reward_test: 0.0191431640494, precision@4_test: 0.379854368932, precision_test: 0.214654126214
+gs_gen: 850, gen_reward_train: 0.137450783481, precision@4_train: 0.352389705882, precision_train: 0.213029411765
+gs_gen: 850, gen_reward_test: 0.0157945589208, precision@4_test: 0.383798543689, precision_test: 0.216808252427
+gs_gen: 860, gen_reward_train: 0.137446644521, precision@4_train: 0.35210755814, precision_train: 0.213070494186
+gs_gen: 860, gen_reward_test: 0.0176770074058, precision@4_test: 0.378944174757, precision_test: 0.217870145631
+gs_gen: 870, gen_reward_train: 0.137428115925, precision@4_train: 0.352442528736, precision_train: 0.213114224138
+gs_gen: 870, gen_reward_test: 0.0181236133811, precision@4_test: 0.370145631068, precision_test: 0.214047330097
+gs_gen: 880, gen_reward_train: 0.137471034107, precision@4_train: 0.353231534091, precision_train: 0.213252840909
+gs_gen: 880, gen_reward_test: 0.0207584139538, precision@4_test: 0.353155339806, precision_test: 0.212985436893
+gs_gen: 890, gen_reward_train: 0.137448433326, precision@4_train: 0.35389747191, precision_train: 0.213318117978
+gs_gen: 890, gen_reward_test: 0.0180976107825, precision@4_test: 0.362560679612, precision_test: 0.215473300971
+gs_gen: 900, gen_reward_train: 0.137466527323, precision@4_train: 0.354409722222, precision_train: 0.213399305556
+gs_gen: 900, gen_reward_test: 0.0212896357028, precision@4_test: 0.368932038835, precision_test: 0.216140776699
+gs_gen: 910, gen_reward_train: 0.13741169675, precision@4_train: 0.354498626374, precision_train: 0.21342032967
+gs_gen: 910, gen_reward_test: 0.0205518385413, precision@4_test: 0.371359223301, precision_test: 0.216686893204
+gs_gen: 920, gen_reward_train: 0.137404972363, precision@4_train: 0.35495923913, precision_train: 0.213447690217
+gs_gen: 920, gen_reward_test: 0.0179471797445, precision@4_test: 0.379854368932, precision_test: 0.216899271845
+gs_gen: 930, gen_reward_train: 0.13740128487, precision@4_train: 0.355309139785, precision_train: 0.213387096774
+gs_gen: 930, gen_reward_test: 0.0221332199329, precision@4_test: 0.369235436893, precision_test: 0.216322815534
+gs_gen: 940, gen_reward_train: 0.137407597154, precision@4_train: 0.355053191489, precision_train: 0.213274601064
+gs_gen: 940, gen_reward_test: 0.0133630142737, precision@4_test: 0.369235436893, precision_test: 0.215685679612
+gs_gen: 950, gen_reward_train: 0.137375478823, precision@4_train: 0.355098684211, precision_train: 0.213223684211
+gs_gen: 950, gen_reward_test: 0.0152027228106, precision@4_test: 0.338288834951, precision_test: 0.211953883495
+gs_gen: 960, gen_reward_train: 0.137378613247, precision@4_train: 0.355045572917, precision_train: 0.213274739583
+gs_gen: 960, gen_reward_test: 0.0161383698143, precision@4_test: 0.357402912621, precision_test: 0.217111650485
+gs_gen: 970, gen_reward_train: 0.137396465073, precision@4_train: 0.35512242268, precision_train: 0.213308634021
+gs_gen: 970, gen_reward_test: 0.0143124882891, precision@4_test: 0.347390776699, precision_test: 0.212924757282
+gs_gen: 980, gen_reward_train: 0.137446585678, precision@4_train: 0.355229591837, precision_train: 0.213233418367
+gs_gen: 980, gen_reward_test: 0.0162521720077, precision@4_test: 0.348300970874, precision_test: 0.211650485437
+gs_gen: 990, gen_reward_train: 0.137476571747, precision@4_train: 0.355366161616, precision_train: 0.213203914141
+gs_gen: 990, gen_reward_test: 0.0161647296248, precision@4_test: 0.35588592233, precision_test: 0.217566747573
+gs_gen: 1000, gen_reward_train: 0.137461038932, precision@4_train: 0.35546875, precision_train: 0.21321875
+gs_gen: 1000, gen_reward_test: 0.0144510030276, precision@4_test: 0.329490291262, precision_test: 0.211832524272
+gs_gen: 1010, gen_reward_train: 0.137465336506, precision@4_train: 0.35525990099, precision_train: 0.213149752475
+gs_gen: 1010, gen_reward_test: 0.0151896558847, precision@4_test: 0.364077669903, precision_test: 0.215655339806
+gs_gen: 1020, gen_reward_train: 0.137451436108, precision@4_train: 0.355116421569, precision_train: 0.213232230392
+gs_gen: 1020, gen_reward_test: 0.0167665130377, precision@4_test: 0.38713592233, precision_test: 0.218203883495
+gs_gen: 1030, gen_reward_train: 0.137408618918, precision@4_train: 0.355582524272, precision_train: 0.213203883495
+gs_gen: 1030, gen_reward_test: 0.0135951337305, precision@4_test: 0.364684466019, precision_test: 0.218810679612
+gs_gen: 1040, gen_reward_train: 0.137399246816, precision@4_train: 0.355799278846, precision_train: 0.213254206731
+gs_gen: 1040, gen_reward_test: 0.0165472970281, precision@4_test: 0.401395631068, precision_test: 0.217718446602
+gs_gen: 1050, gen_reward_train: 0.137389226854, precision@4_train: 0.35619047619, precision_train: 0.21337797619
+gs_gen: 1050, gen_reward_test: 0.0146675742982, precision@4_test: 0.355279126214, precision_test: 0.215169902913
+gs_gen: 1060, gen_reward_train: 0.137400290468, precision@4_train: 0.356633254717, precision_train: 0.213387382075
+gs_gen: 1060, gen_reward_test: 0.0173778623994, precision@4_test: 0.351941747573, precision_test: 0.216110436893
+gs_gen: 1070, gen_reward_train: 0.137431444562, precision@4_train: 0.35683411215, precision_train: 0.21347546729
+gs_gen: 1070, gen_reward_test: 0.0155975958242, precision@4_test: 0.363167475728, precision_test: 0.215382281553
+gs_gen: 1080, gen_reward_train: 0.137430145295, precision@4_train: 0.356568287037, precision_train: 0.213428819444
+gs_gen: 1080, gen_reward_test: 0.0160006922715, precision@4_test: 0.366808252427, precision_test: 0.214775485437
+gs_gen: 1090, gen_reward_train: 0.13741631918, precision@4_train: 0.356594036697, precision_train: 0.213411697248
+gs_gen: 1090, gen_reward_test: 0.0170404045183, precision@4_test: 0.355582524272, precision_test: 0.215503640777
+gs_gen: 1100, gen_reward_train: 0.137433516017, precision@4_train: 0.356619318182, precision_train: 0.213360795455
+gs_gen: 1100, gen_reward_test: 0.0171903915776, precision@4_test: 0.358616504854, precision_test: 0.215837378641
+gs_gen: 1110, gen_reward_train: 0.137436013743, precision@4_train: 0.356728603604, precision_train: 0.213406531532
+gs_gen: 1110, gen_reward_test: 0.0161130480034, precision@4_test: 0.349514563107, precision_test: 0.212044902913
+gs_gen: 1120, gen_reward_train: 0.137402538749, precision@4_train: 0.356975446429, precision_train: 0.213412388393
+gs_gen: 1120, gen_reward_test: 0.0145270439245, precision@4_test: 0.378033980583, precision_test: 0.218112864078
+gs_gen: 1130, gen_reward_train: 0.13741475885, precision@4_train: 0.356747787611, precision_train: 0.213401548673
+gs_gen: 1130, gen_reward_test: 0.0138091471914, precision@4_test: 0.347694174757, precision_test: 0.211680825243
+gs_gen: 1140, gen_reward_train: 0.137402086502, precision@4_train: 0.357346491228, precision_train: 0.213495065789
+gs_gen: 1140, gen_reward_test: 0.0150968390833, precision@4_test: 0.361347087379, precision_test: 0.213137135922
+gs_gen: 1150, gen_reward_train: 0.137399025281, precision@4_train: 0.35714673913, precision_train: 0.213576086957
+gs_gen: 1150, gen_reward_test: 0.0163058083396, precision@4_test: 0.34192961165, precision_test: 0.211316747573
+gs_gen: 1160, gen_reward_train: 0.137385907763, precision@4_train: 0.357058189655, precision_train: 0.213547952586
+gs_gen: 1160, gen_reward_test: 0.0136422631557, precision@4_test: 0.344660194175, precision_test: 0.21380461165
+gs_gen: 1170, gen_reward_train: 0.13738355613, precision@4_train: 0.357238247863, precision_train: 0.213538995726
+gs_gen: 1170, gen_reward_test: 0.017147686007, precision@4_test: 0.353458737864, precision_test: 0.215109223301
+gs_gen: 1180, gen_reward_train: 0.137394681453, precision@4_train: 0.357256355932, precision_train: 0.213538135593
+gs_gen: 1180, gen_reward_test: 0.017834243229, precision@4_test: 0.349211165049, precision_test: 0.211256067961
+gs_gen: 1190, gen_reward_train: 0.137381926786, precision@4_train: 0.357773109244, precision_train: 0.213600315126
+gs_gen: 1190, gen_reward_test: 0.0142629504095, precision@4_test: 0.339502427184, precision_test: 0.212833737864
+gs_gen: 1200, gen_reward_train: 0.137366105337, precision@4_train: 0.357890625, precision_train: 0.213609375
+gs_gen: 1200, gen_reward_test: 0.0159731604231, precision@4_test: 0.344356796117, precision_test: 0.21213592233
+gs_gen: 1210, gen_reward_train: 0.137354259365, precision@4_train: 0.358238636364, precision_train: 0.213708677686
+gs_gen: 1210, gen_reward_test: 0.0164742509753, precision@4_test: 0.352245145631, precision_test: 0.216656553398
+gs_gen: 1220, gen_reward_train: 0.137346409054, precision@4_train: 0.358324795082, precision_train: 0.213760245902
+gs_gen: 1220, gen_reward_test: 0.0138651813986, precision@4_test: 0.334648058252, precision_test: 0.20973907767
+gs_gen: 1230, gen_reward_train: 0.137342398608, precision@4_train: 0.357926829268, precision_train: 0.21375254065
+gs_gen: 1230, gen_reward_test: 0.0161094630445, precision@4_test: 0.347087378641, precision_test: 0.211498786408
+gs_gen: 1240, gen_reward_train: 0.137341247054, precision@4_train: 0.358165322581, precision_train: 0.213782762097
+gs_gen: 1240, gen_reward_test: 0.011503220147, precision@4_test: 0.338895631068, precision_test: 0.215048543689
+Generator epoch:  4
+gs_gen: 1250, gen_reward_train: 0.137354454017, precision@4_train: 0.358375, precision_train: 0.2137675
+gs_gen: 1250, gen_reward_test: 0.0113008776951, precision@4_test: 0.356492718447, precision_test: 0.214350728155
+gs_gen: 1260, gen_reward_train: 0.13736492885, precision@4_train: 0.358556547619, precision_train: 0.213692956349
+gs_gen: 1260, gen_reward_test: 0.0133755920292, precision@4_test: 0.371662621359, precision_test: 0.213561893204
+gs_gen: 1270, gen_reward_train: 0.137315133736, precision@4_train: 0.358858267717, precision_train: 0.21374261811
+gs_gen: 1270, gen_reward_test: 0.0121594146075, precision@4_test: 0.329186893204, precision_test: 0.212226941748
+gs_gen: 1280, gen_reward_train: 0.137340308918, precision@4_train: 0.358959960937, precision_train: 0.213666992187
+gs_gen: 1280, gen_reward_test: 0.0140627551715, precision@4_test: 0.359223300971, precision_test: 0.214077669903
+gs_gen: 1290, gen_reward_train: 0.137346555876, precision@4_train: 0.35918120155, precision_train: 0.213614341085
+gs_gen: 1290, gen_reward_test: 0.0156392149844, precision@4_test: 0.363470873786, precision_test: 0.21359223301
+gs_gen: 1300, gen_reward_train: 0.137373928491, precision@4_train: 0.3590625, precision_train: 0.2135625
+gs_gen: 1300, gen_reward_test: 0.0150301228051, precision@4_test: 0.330703883495, precision_test: 0.213501213592
+gs_gen: 1310, gen_reward_train: 0.137402998861, precision@4_train: 0.358993320611, precision_train: 0.213559160305
+gs_gen: 1310, gen_reward_test: 0.0121904388613, precision@4_test: 0.340716019417, precision_test: 0.212924757282
+gs_gen: 1320, gen_reward_train: 0.137397742277, precision@4_train: 0.359138257576, precision_train: 0.213589015152
+gs_gen: 1320, gen_reward_test: 0.01385496479, precision@4_test: 0.349514563107, precision_test: 0.21104368932
+gs_gen: 1330, gen_reward_train: 0.137386126878, precision@4_train: 0.358952067669, precision_train: 0.213573778195
+gs_gen: 1330, gen_reward_test: 0.0163232700773, precision@4_test: 0.360740291262, precision_test: 0.217566747573
+gs_gen: 1340, gen_reward_train: 0.137389422442, precision@4_train: 0.35890858209, precision_train: 0.213530783582
+gs_gen: 1340, gen_reward_test: 0.0141177956123, precision@4_test: 0.36286407767, precision_test: 0.214229368932
+gs_gen: 1350, gen_reward_train: 0.137382878937, precision@4_train: 0.359074074074, precision_train: 0.213631944444
+gs_gen: 1350, gen_reward_test: 0.0134098558027, precision@4_test: 0.342839805825, precision_test: 0.214016990291
+gs_gen: 1360, gen_reward_train: 0.137383211503, precision@4_train: 0.359053308824, precision_train: 0.213630514706
+gs_gen: 1360, gen_reward_test: 0.0110517633012, precision@4_test: 0.353155339806, precision_test: 0.211711165049
+gs_gen: 1370, gen_reward_train: 0.137403810731, precision@4_train: 0.359055656934, precision_train: 0.213683850365
+gs_gen: 1370, gen_reward_test: 0.0110546244869, precision@4_test: 0.339805825243, precision_test: 0.211953883495
+gs_gen: 1380, gen_reward_train: 0.137382477565, precision@4_train: 0.358944746377, precision_train: 0.213673007246
+gs_gen: 1380, gen_reward_test: 0.0152527953236, precision@4_test: 0.334344660194, precision_test: 0.214259708738
+gs_gen: 1390, gen_reward_train: 0.137363878364, precision@4_train: 0.358790467626, precision_train: 0.213635341727
+gs_gen: 1390, gen_reward_test: 0.0113320117364, precision@4_test: 0.381674757282, precision_test: 0.218658980583
+gs_gen: 1400, gen_reward_train: 0.137340379251, precision@4_train: 0.358973214286, precision_train: 0.21359375
+gs_gen: 1400, gen_reward_test: 0.0124918246479, precision@4_test: 0.347997572816, precision_test: 0.212833737864
+gs_gen: 1410, gen_reward_train: 0.137354954612, precision@4_train: 0.358732269504, precision_train: 0.213594858156
+gs_gen: 1410, gen_reward_test: 0.0121024007755, precision@4_test: 0.364684466019, precision_test: 0.211893203883
+gs_gen: 1420, gen_reward_train: 0.13734257715, precision@4_train: 0.359022887324, precision_train: 0.213626760563
+gs_gen: 1420, gen_reward_test: 0.012044952893, precision@4_test: 0.346783980583, precision_test: 0.212317961165
+gs_gen: 1430, gen_reward_train: 0.13733197547, precision@4_train: 0.359287587413, precision_train: 0.213710664336
+gs_gen: 1430, gen_reward_test: 0.0136342617566, precision@4_test: 0.336165048544, precision_test: 0.213379854369
+gs_gen: 1440, gen_reward_train: 0.137355597664, precision@4_train: 0.3591796875, precision_train: 0.213669704861
+gs_gen: 1440, gen_reward_test: 0.011225772461, precision@4_test: 0.375910194175, precision_test: 0.21729368932
+gs_gen: 1450, gen_reward_train: 0.137364726781, precision@4_train: 0.359224137931, precision_train: 0.213657327586
+gs_gen: 1450, gen_reward_test: 0.0115535091428, precision@4_test: 0.349817961165, precision_test: 0.214411407767
+gs_gen: 1460, gen_reward_train: 0.13736960176, precision@4_train: 0.359246575342, precision_train: 0.213634417808
+gs_gen: 1460, gen_reward_test: 0.0118608772936, precision@4_test: 0.357099514563, precision_test: 0.213137135922
+gs_gen: 1470, gen_reward_train: 0.137384254354, precision@4_train: 0.359460034014, precision_train: 0.213669217687
+gs_gen: 1470, gen_reward_test: 0.0140219846903, precision@4_test: 0.35770631068, precision_test: 0.214259708738
+gs_gen: 1480, gen_reward_train: 0.137377118606, precision@4_train: 0.359691722973, precision_train: 0.213671875
+gs_gen: 1480, gen_reward_test: 0.0126334726449, precision@4_test: 0.351941747573, precision_test: 0.209496359223
+gs_gen: 1490, gen_reward_train: 0.137350031699, precision@4_train: 0.359479865772, precision_train: 0.213613674497
+gs_gen: 1490, gen_reward_test: 0.0177850576244, precision@4_test: 0.36286407767, precision_test: 0.213106796117
+gs_gen: 1500, gen_reward_train: 0.137371451363, precision@4_train: 0.3596875, precision_train: 0.213566666667
+gs_gen: 1500, gen_reward_test: 0.0149184567221, precision@4_test: 0.36984223301, precision_test: 0.216110436893
+gs_gen: 1510, gen_reward_train: 0.137351946242, precision@4_train: 0.359768211921, precision_train: 0.213609271523
+gs_gen: 1510, gen_reward_test: 0.0144669163285, precision@4_test: 0.337682038835, precision_test: 0.213258495146
+gs_gen: 1520, gen_reward_train: 0.1373635013, precision@4_train: 0.359868421053, precision_train: 0.213657483553
+gs_gen: 1520, gen_reward_test: 0.0137377860911, precision@4_test: 0.357402912621, precision_test: 0.210770631068
+gs_gen: 1530, gen_reward_train: 0.137353195479, precision@4_train: 0.360008169935, precision_train: 0.213641748366
+gs_gen: 1530, gen_reward_test: 0.0127446246017, precision@4_test: 0.359830097087, precision_test: 0.213319174757
+gs_gen: 1540, gen_reward_train: 0.137339399421, precision@4_train: 0.360044642857, precision_train: 0.213654626623
+gs_gen: 1540, gen_reward_test: 0.0126013233354, precision@4_test: 0.367718446602, precision_test: 0.21453276699
+gs_gen: 1550, gen_reward_train: 0.137331852822, precision@4_train: 0.360322580645, precision_train: 0.213683467742
+gs_gen: 1550, gen_reward_test: 0.0123383435375, precision@4_test: 0.347694174757, precision_test: 0.21177184466
+gs_gen: 1560, gen_reward_train: 0.13732168195, precision@4_train: 0.360596955128, precision_train: 0.213721955128
+gs_gen: 1560, gen_reward_test: 0.012202060917, precision@4_test: 0.360436893204, precision_test: 0.215928398058
+gs_gen: 1570, gen_reward_train: 0.137305239033, precision@4_train: 0.360847929936, precision_train: 0.213757961783
+gs_gen: 1570, gen_reward_test: 0.0142230070332, precision@4_test: 0.402609223301, precision_test: 0.215594660194
+gs_gen: 1580, gen_reward_train: 0.137309003018, precision@4_train: 0.361056170886, precision_train: 0.213805379747
+gs_gen: 1580, gen_reward_test: 0.0130526661077, precision@4_test: 0.355582524272, precision_test: 0.214714805825
+gs_gen: 1590, gen_reward_train: 0.137336467478, precision@4_train: 0.361477987421, precision_train: 0.213891509434
+gs_gen: 1590, gen_reward_test: 0.011494044974, precision@4_test: 0.347997572816, precision_test: 0.209526699029
+gs_gen: 1600, gen_reward_train: 0.137335658078, precision@4_train: 0.36138671875, precision_train: 0.213857421875
+gs_gen: 1600, gen_reward_test: 0.0122423877994, precision@4_test: 0.349514563107, precision_test: 0.215867718447
+gs_gen: 1610, gen_reward_train: 0.137327035544, precision@4_train: 0.361451863354, precision_train: 0.213831521739
+gs_gen: 1610, gen_reward_test: 0.0112088039083, precision@4_test: 0.360436893204, precision_test: 0.212075242718
+gs_gen: 1620, gen_reward_train: 0.137315198218, precision@4_train: 0.361689814815, precision_train: 0.213863811728
+gs_gen: 1620, gen_reward_test: 0.0144621886638, precision@4_test: 0.330703883495, precision_test: 0.21432038835
+gs_gen: 1630, gen_reward_train: 0.137298432541, precision@4_train: 0.361752300613, precision_train: 0.21387845092
+gs_gen: 1630, gen_reward_test: 0.015784592865, precision@4_test: 0.347997572816, precision_test: 0.213046116505
+gs_gen: 1640, gen_reward_train: 0.137295744614, precision@4_train: 0.361680640244, precision_train: 0.213841463415
+gs_gen: 1640, gen_reward_test: 0.0131626987233, precision@4_test: 0.348604368932, precision_test: 0.211104368932
+gs_gen: 1650, gen_reward_train: 0.137296503773, precision@4_train: 0.362121212121, precision_train: 0.213835227273
+gs_gen: 1650, gen_reward_test: 0.0150670226555, precision@4_test: 0.337682038835, precision_test: 0.216049757282
+Generator epoch:  5
+gs_gen: 1660, gen_reward_train: 0.137278441793, precision@4_train: 0.362236445783, precision_train: 0.213861069277
+gs_gen: 1660, gen_reward_test: 0.013870557318, precision@4_test: 0.357099514563, precision_test: 0.212591019417
+gs_gen: 1670, gen_reward_train: 0.137243055936, precision@4_train: 0.362238023952, precision_train: 0.213837949102
+gs_gen: 1670, gen_reward_test: 0.0160391937073, precision@4_test: 0.337682038835, precision_test: 0.212317961165
+gs_gen: 1680, gen_reward_train: 0.13722533028, precision@4_train: 0.362462797619, precision_train: 0.213829985119
+gs_gen: 1680, gen_reward_test: 0.0129122980192, precision@4_test: 0.340412621359, precision_test: 0.212196601942
+gs_gen: 1690, gen_reward_train: 0.137251169825, precision@4_train: 0.362573964497, precision_train: 0.21387204142
+gs_gen: 1690, gen_reward_test: 0.0147830220211, precision@4_test: 0.34557038835, precision_test: 0.215078883495
+gs_gen: 1700, gen_reward_train: 0.13723360329, precision@4_train: 0.362573529412, precision_train: 0.213871323529
+gs_gen: 1700, gen_reward_test: 0.0127211108406, precision@4_test: 0.351031553398, precision_test: 0.210983009709
+gs_gen: 1710, gen_reward_train: 0.137234255062, precision@4_train: 0.362737573099, precision_train: 0.213930921053
+gs_gen: 1710, gen_reward_test: 0.0133660119027, precision@4_test: 0.34557038835, precision_test: 0.21489684466
+gs_gen: 1720, gen_reward_train: 0.13723534437, precision@4_train: 0.362899709302, precision_train: 0.213935319767
+gs_gen: 1720, gen_reward_test: 0.0178602160796, precision@4_test: 0.340109223301, precision_test: 0.213743932039
+gs_gen: 1730, gen_reward_train: 0.137228212445, precision@4_train: 0.362662572254, precision_train: 0.213934248555
+gs_gen: 1730, gen_reward_test: 0.0131440463214, precision@4_test: 0.351031553398, precision_test: 0.212955097087
+gs_gen: 1740, gen_reward_train: 0.137247994662, precision@4_train: 0.362661637931, precision_train: 0.213956537356
+gs_gen: 1740, gen_reward_test: 0.0121908982655, precision@4_test: 0.346480582524, precision_test: 0.213015776699
+gs_gen: 1750, gen_reward_train: 0.137249205768, precision@4_train: 0.362535714286, precision_train: 0.213939285714
+gs_gen: 1750, gen_reward_test: 0.0122843401742, precision@4_test: 0.352851941748, precision_test: 0.214229368932
+gs_gen: 1760, gen_reward_train: 0.137225924915, precision@4_train: 0.362535511364, precision_train: 0.213936434659
+gs_gen: 1760, gen_reward_test: 0.0136052302076, precision@4_test: 0.341019417476, precision_test: 0.2125
+gs_gen: 1770, gen_reward_train: 0.137227989203, precision@4_train: 0.362482344633, precision_train: 0.213956567797
+gs_gen: 1770, gen_reward_test: 0.0150843067185, precision@4_test: 0.377123786408, precision_test: 0.21708131068
+gs_gen: 1780, gen_reward_train: 0.137248041673, precision@4_train: 0.362710674157, precision_train: 0.214001053371
+gs_gen: 1780, gen_reward_test: 0.0124581737932, precision@4_test: 0.354065533981, precision_test: 0.212712378641
+gs_gen: 1790, gen_reward_train: 0.137246081558, precision@4_train: 0.362866620112, precision_train: 0.214039804469
+gs_gen: 1790, gen_reward_test: 0.0111537482409, precision@4_test: 0.344963592233, precision_test: 0.210740291262
+gs_gen: 1800, gen_reward_train: 0.137270563799, precision@4_train: 0.362899305556, precision_train: 0.213972222222
+gs_gen: 1800, gen_reward_test: 0.00989367273971, precision@4_test: 0.354065533981, precision_test: 0.212985436893
+gs_gen: 1810, gen_reward_train: 0.13728735535, precision@4_train: 0.363000690608, precision_train: 0.213986533149
+gs_gen: 1810, gen_reward_test: 0.0129360143565, precision@4_test: 0.353155339806, precision_test: 0.215018203883
+gs_gen: 1820, gen_reward_train: 0.137272959112, precision@4_train: 0.363307005495, precision_train: 0.21401614011
+gs_gen: 1820, gen_reward_test: 0.0101610656683, precision@4_test: 0.346783980583, precision_test: 0.210952669903
+gs_gen: 1830, gen_reward_train: 0.137266833209, precision@4_train: 0.363353825137, precision_train: 0.214045423497
+gs_gen: 1830, gen_reward_test: 0.0128497737776, precision@4_test: 0.34375, precision_test: 0.212955097087
+gs_gen: 1840, gen_reward_train: 0.137279952188, precision@4_train: 0.363247282609, precision_train: 0.21402513587
+gs_gen: 1840, gen_reward_test: 0.0082934079963, precision@4_test: 0.359526699029, precision_test: 0.214775485437
+gs_gen: 1850, gen_reward_train: 0.137277115124, precision@4_train: 0.363530405405, precision_train: 0.214037162162
+gs_gen: 1850, gen_reward_test: 0.0103548850539, precision@4_test: 0.339502427184, precision_test: 0.212044902913
+gs_gen: 1860, gen_reward_train: 0.137279951212, precision@4_train: 0.363592069892, precision_train: 0.214025537634
+gs_gen: 1860, gen_reward_test: 0.016423195492, precision@4_test: 0.333737864078, precision_test: 0.211074029126
+gs_gen: 1870, gen_reward_train: 0.137290797092, precision@4_train: 0.363836898396, precision_train: 0.214039104278
+gs_gen: 1870, gen_reward_test: 0.00987674312178, precision@4_test: 0.353762135922, precision_test: 0.213258495146
+gs_gen: 1880, gen_reward_train: 0.137270442377, precision@4_train: 0.363813164894, precision_train: 0.214019281915
+gs_gen: 1880, gen_reward_test: 0.00861277803779, precision@4_test: 0.337075242718, precision_test: 0.213440533981
+gs_gen: 1890, gen_reward_train: 0.137283991991, precision@4_train: 0.363756613757, precision_train: 0.21404265873
+gs_gen: 1890, gen_reward_test: 0.0105774344569, precision@4_test: 0.363470873786, precision_test: 0.213379854369
+gs_gen: 1900, gen_reward_train: 0.137280291668, precision@4_train: 0.363651315789, precision_train: 0.214001644737
+gs_gen: 1900, gen_reward_test: 0.0109537999571, precision@4_test: 0.344053398058, precision_test: 0.214350728155
+gs_gen: 1910, gen_reward_train: 0.137278580116, precision@4_train: 0.363743455497, precision_train: 0.213962696335
+gs_gen: 1910, gen_reward_test: 0.00781929111379, precision@4_test: 0.349211165049, precision_test: 0.213774271845
+gs_gen: 1920, gen_reward_train: 0.137274202266, precision@4_train: 0.363671875, precision_train: 0.213951822917
+gs_gen: 1920, gen_reward_test: 0.00904445596112, precision@4_test: 0.33677184466, precision_test: 0.211438106796
+gs_gen: 1930, gen_reward_train: 0.137273430932, precision@4_train: 0.363601036269, precision_train: 0.213944300518
+gs_gen: 1930, gen_reward_test: 0.00827175065947, precision@4_test: 0.34890776699, precision_test: 0.214866504854
+gs_gen: 1940, gen_reward_train: 0.137288666517, precision@4_train: 0.36362757732, precision_train: 0.213912693299
+gs_gen: 1940, gen_reward_test: 0.0121538071414, precision@4_test: 0.355279126214, precision_test: 0.212378640777
+gs_gen: 1950, gen_reward_train: 0.137295899361, precision@4_train: 0.363541666667, precision_train: 0.21390224359
+gs_gen: 1950, gen_reward_test: 0.00800087425894, precision@4_test: 0.347390776699, precision_test: 0.212955097087
+gs_gen: 1960, gen_reward_train: 0.137296572274, precision@4_train: 0.363600127551, precision_train: 0.213923788265
+gs_gen: 1960, gen_reward_test: 0.00937893990319, precision@4_test: 0.356492718447, precision_test: 0.214138349515
+gs_gen: 1970, gen_reward_train: 0.137306493453, precision@4_train: 0.363737309645, precision_train: 0.213919733503
+gs_gen: 1970, gen_reward_test: 0.00840135748742, precision@4_test: 0.349211165049, precision_test: 0.211165048544
+gs_gen: 1980, gen_reward_train: 0.137321110852, precision@4_train: 0.363857323232, precision_train: 0.213939393939
+gs_gen: 1980, gen_reward_test: 0.0113752201851, precision@4_test: 0.353762135922, precision_test: 0.215109223301
+gs_gen: 1990, gen_reward_train: 0.137340042182, precision@4_train: 0.363881909548, precision_train: 0.213914886935
+gs_gen: 1990, gen_reward_test: 0.00971021870314, precision@4_test: 0.347390776699, precision_test: 0.213713592233
+gs_gen: 2000, gen_reward_train: 0.137331258256, precision@4_train: 0.364015625, precision_train: 0.2138890625
+gs_gen: 2000, gen_reward_test: 0.0110843550522, precision@4_test: 0.372876213592, precision_test: 0.217020631068
+gs_gen: 2010, gen_reward_train: 0.137336138325, precision@4_train: 0.364070273632, precision_train: 0.213830845771
+gs_gen: 2010, gen_reward_test: 0.0107982463013, precision@4_test: 0.35072815534, precision_test: 0.212408980583
+gs_gen: 2020, gen_reward_train: 0.137331275041, precision@4_train: 0.364124381188, precision_train: 0.213889232673
+gs_gen: 2020, gen_reward_test: 0.0110256363574, precision@4_test: 0.342839805825, precision_test: 0.212682038835
+gs_gen: 2030, gen_reward_train: 0.13730998, precision@4_train: 0.363839285714, precision_train: 0.2138716133
+gs_gen: 2030, gen_reward_test: 0.0117183696045, precision@4_test: 0.340412621359, precision_test: 0.213713592233
+gs_gen: 2040, gen_reward_train: 0.137326820352, precision@4_train: 0.363817401961, precision_train: 0.213910845588
+gs_gen: 2040, gen_reward_test: 0.0127840700912, precision@4_test: 0.336165048544, precision_test: 0.213379854369
+gs_gen: 2050, gen_reward_train: 0.13732395042, precision@4_train: 0.363673780488, precision_train: 0.213920731707
+gs_gen: 2050, gen_reward_test: 0.012130012573, precision@4_test: 0.338895631068, precision_test: 0.21046723301
+gs_gen: 2060, gen_reward_train: 0.137336990194, precision@4_train: 0.363668082524, precision_train: 0.213913834951
+gs_gen: 2060, gen_reward_test: 0.0120860568058, precision@4_test: 0.34192961165, precision_test: 0.210649271845
+gs_gen: 2070, gen_reward_train: 0.137367033822, precision@4_train: 0.363556763285, precision_train: 0.213932669082
+gs_gen: 2070, gen_reward_test: 0.0136963514051, precision@4_test: 0.324029126214, precision_test: 0.212378640777
+Generator training done!
+Done

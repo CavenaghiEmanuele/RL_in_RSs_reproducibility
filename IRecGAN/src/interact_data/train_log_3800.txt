@@ -1,0 +1,748 @@
+current_click: 7328 next_click: 242 purchase_prob: 0.5040844 reward: 4 dis_reward:0.99727726 action: [1916, 842, 302, 167, 242, 3350, 1738, 4117, 243, 118, 3]
+current_click: 242 next_click: 3 purchase_prob: 3.3991491e-06 reward: 1 dis_reward:0.99665785 action: [324, 45, 179, 1319, 200, 167, 533, 29, 304, 532, 3]
+------------next session:3801------------
+current_click: 6104 next_click: 3584 purchase_prob: 0.0012559838 reward: 1 dis_reward:0.99829614 action: [4897, 3584, 6104, 4238, 761, 1383, 1394, 8571, 1352, 5136, 3]
+current_click: 3584 next_click: 3 purchase_prob: 0.0017302417 reward: 1 dis_reward:0.99878758 action: [4897, 51, 826, 2129, 2708, 279, 3375, 6104, 5340, 686, 3]
+------------next session:3802------------
+current_click: 1037 next_click: 23158 purchase_prob: 0.00026328902 reward: 1 dis_reward:0.99170303 action: [681, 12711, 1344, 4793, 738, 1926, 23158, 3104, 568, 1316, 3]
+current_click: 23158 next_click: 185 purchase_prob: 2.14333e-09 reward: 1 dis_reward:0.99888146 action: [19, 1691, 1458, 1331, 1146, 84, 185, 50, 120, 71, 3]
+current_click: 185 next_click: 54 purchase_prob: 0.16875993 reward: 1 dis_reward:0.99993819 action: [54, 181, 524, 123, 784, 289, 192, 1818, 1457, 358, 3]
+current_click: 54 next_click: 438 purchase_prob: 2.3526017e-08 reward: 1 dis_reward:0.99488634 action: [116, 1845, 1278, 592, 1457, 2508, 342, 181, 9740, 438, 3]
+------------next session:3803------------
+current_click: 4745 next_click: 8723 purchase_prob: 4.1672054e-16 reward: 1 dis_reward:0.98630750 action: [8723, 3169, 567, 1626, 298, 4718, 67, 1843, 7068, 1949, 3]
+current_click: 8723 next_click: 3 purchase_prob: 0.0063511147 reward: 1 dis_reward:0.98216838 action: [153, 1121, 5465, 326, 7374, 6051, 1683, 3041, 8723, 4369, 3]
+------------next session:3804------------
+current_click: 6030 next_click: 3732 purchase_prob: 1.7407087e-08 reward: 1 dis_reward:0.34148541 action: [161, 210, 3732, 3512, 648, 277, 311, 23197, 1067, 7703, 3]
+current_click: 3732 next_click: 6051 purchase_prob: 0.037476737 reward: 1 dis_reward:0.39725763 action: [1843, 6051, 227, 1067, 1613, 449, 5709, 428, 1460, 7246, 3]
+current_click: 6051 next_click: 3 purchase_prob: 2.7399605e-09 reward: 1 dis_reward:0.55411297 action: [1439, 527, 14585, 3631, 6308, 6440, 8401, 1967, 36363, 9976, 3]
+------------next session:3805------------
+current_click: 123 next_click: 306 purchase_prob: 0.5819232 reward: 4 dis_reward:0.91367835 action: [306, 123, 199, 28727, 206, 3723, 20, 154, 217, 1998, 3]
+current_click: 306 next_click: 3 purchase_prob: 0.01720983 reward: 1 dis_reward:0.96523249 action: [123, 7, 312, 731, 89, 1998, 20, 122, 41, 21, 3]
+------------next session:3806------------
+current_click: 758 next_click: 969 purchase_prob: 3.6151932e-14 reward: 1 dis_reward:0.77144039 action: [344, 1774, 41, 619, 9895, 9875, 52, 10, 969, 165, 3]
+current_click: 969 next_click: 758 purchase_prob: 0.56275994 reward: 4 dis_reward:0.80481750 action: [758, 403, 1169, 760, 10, 6521, 1550, 7792, 130, 2576, 3]
+current_click: 758 next_click: 1013 purchase_prob: 0.00027457686 reward: 1 dis_reward:0.99925768 action: [1008, 1986, 1617, 78, 478, 23151, 758, 286, 1013, 7487, 3]
+current_click: 1013 next_click: 941 purchase_prob: 0.13444544 reward: 1 dis_reward:0.99962211 action: [941, 562, 518, 7746, 1023, 479, 4304, 14370, 78, 5943, 3]
+------------next session:3807------------
+current_click: 2211 next_click: 1307 purchase_prob: 0.0010831975 reward: 1 dis_reward:0.94360077 action: [1307, 2211, 20, 81, 692, 4, 3382, 112, 203, 88, 3]
+current_click: 1307 next_click: 112 purchase_prob: 0.0010831992 reward: 1 dis_reward:0.99714947 action: [112, 95, 8, 202, 203, 420, 87, 1108, 5, 1307, 3]
+current_click: 112 next_click: 2037 purchase_prob: 3.726228e-09 reward: 1 dis_reward:0.99992716 action: [2037, 101, 6365, 624, 400, 9941, 293, 552, 145, 58, 3]
+current_click: 2037 next_click: 199 purchase_prob: 0.020157237 reward: 1 dis_reward:0.99999988 action: [112, 199, 552, 22, 2037, 40, 620, 126, 1307, 128, 3]
+------------next session:3808------------
+current_click: 6111 next_click: 20454 purchase_prob: 4.0543748e-13 reward: 1 dis_reward:0.99251366 action: [5799, 20454, 6075, 1851, 259, 12126, 78, 14410, 2325, 690, 3]
+current_click: 20454 next_click: 3 purchase_prob: 0.008512223 reward: 1 dis_reward:0.98872143 action: [4231, 9064, 2325, 5065, 235, 1109, 883, 33, 103, 6521, 3]
+------------next session:3809------------
+current_click: 8286 next_click: 4044 purchase_prob: 7.340496e-06 reward: 1 dis_reward:0.99658263 action: [4044, 8286, 7724, 39585, 7914, 2624, 111, 4165, 403, 1494, 3]
+current_click: 4044 next_click: 3 purchase_prob: 1.4042268e-08 reward: 1 dis_reward:0.99668771 action: [31891, 24524, 944, 973, 5822, 8579, 4075, 4044, 10752, 2379, 3]
+------------next session:3810------------
+current_click: 3331 next_click: 1314 purchase_prob: 0.00053049665 reward: 1 dis_reward:0.99988520 action: [1314, 15068, 2276, 6374, 1491, 738, 1375, 10, 2294, 3331, 3]
+current_click: 1314 next_click: 3224 purchase_prob: 0.0005304981 reward: 1 dis_reward:0.99342805 action: [3224, 87, 438, 425, 2444, 2463, 738, 341, 1314, 205, 3]
+current_click: 3224 next_click: 3 purchase_prob: 5.2706406e-07 reward: 1 dis_reward:0.99526525 action: [704, 675, 1817, 1948, 177, 1314, 8738, 5, 1358, 438, 3]
+------------next session:3811------------
+current_click: 22773 next_click: 4662 purchase_prob: 1.8753843e-06 reward: 1 dis_reward:0.99994260 action: [4662, 21247, 14572, 4524, 1909, 66, 41, 186, 464, 3188, 3]
+current_click: 4662 next_click: 4662 purchase_prob: 1.8753861e-06 reward: 1 dis_reward:0.99999398 action: [4662, 2257, 7612, 6020, 3214, 59, 216, 72, 7076, 1687, 3]
+current_click: 4662 next_click: 3 purchase_prob: 9.684207e-11 reward: 1 dis_reward:0.99999630 action: [4662, 753, 1544, 620, 3144, 1383, 59, 2786, 2748, 4566, 3]
+------------next session:3812------------
+current_click: 4082 next_click: 4082 purchase_prob: 1.4618845e-05 reward: 1 dis_reward:1.00000000 action: [4082, 5911, 11688, 3863, 1776, 6411, 38047, 9404, 691, 1573, 3]
+current_click: 4082 next_click: 3 purchase_prob: 6.90599e-05 reward: 1 dis_reward:1.00000000 action: [4082, 5911, 1521, 2424, 2005, 2170, 2410, 532, 259, 4548, 3]
+------------next session:3813------------
+current_click: 11965 next_click: 895 purchase_prob: 9.28042e-12 reward: 1 dis_reward:0.53531313 action: [895, 11961, 1764, 6878, 205, 1291, 20066, 74, 3049, 1719, 3]
+current_click: 895 next_click: 1692 purchase_prob: 2.3950606e-09 reward: 1 dis_reward:0.97837716 action: [1692, 1720, 8130, 803, 9270, 3147, 895, 2038, 1217, 4552, 3]
+current_click: 1692 next_click: 3 purchase_prob: 1.16349265e-11 reward: 1 dis_reward:0.98683631 action: [65, 4619, 2659, 1692, 2039, 1256, 3858, 2154, 7533, 5444, 3]
+------------next session:3814------------
+current_click: 1909 next_click: 2030 purchase_prob: 6.283301e-09 reward: 1 dis_reward:0.99135649 action: [5625, 2236, 270, 130, 2375, 858, 4600, 2030, 7549, 4074, 3]
+current_click: 2030 next_click: 3 purchase_prob: 2.2589738e-08 reward: 1 dis_reward:0.98999757 action: [859, 1260, 2583, 7, 2164, 2604, 662, 4074, 1596, 3848, 3]
+------------next session:3815------------
+current_click: 2771 next_click: 35146 purchase_prob: 1.547326e-06 reward: 1 dis_reward:1.00000000 action: [4147, 2771, 110, 189, 35146, 7462, 13400, 14983, 383, 4644, 3]
+current_click: 35146 next_click: 3 purchase_prob: 0.00017678527 reward: 1 dis_reward:1.00000000 action: [61, 1095, 83, 2448, 478, 134, 1164, 547, 50, 31, 3]
+------------next session:3816------------
+current_click: 28244 next_click: 35462 purchase_prob: 0.9999163 reward: 4 dis_reward:0.77108419 action: [35462, 3046, 1314, 1365, 2694, 332, 3485, 13103, 99, 119, 3]
+current_click: 35462 next_click: 3 purchase_prob: 4.709861e-06 reward: 1 dis_reward:0.53173703 action: [2649, 186, 911, 962, 832, 1025, 1883, 171, 2044, 3046, 3]
+------------next session:3817------------
+current_click: 319 next_click: 9265 purchase_prob: 3.2835616e-11 reward: 1 dis_reward:0.90237606 action: [6, 1253, 730, 5115, 9265, 6544, 1363, 981, 2868, 333, 3]
+current_click: 9265 next_click: 3 purchase_prob: 7.225231e-11 reward: 1 dis_reward:0.93354201 action: [3171, 11022, 797, 7202, 2518, 736, 240, 5209, 10077, 2575, 3]
+------------next session:3818------------
+current_click: 14595 next_click: 4559 purchase_prob: 1.7736427e-09 reward: 1 dis_reward:0.48329800 action: [1518, 4559, 11378, 11095, 55, 1698, 1292, 5345, 4738, 1075, 3]
+current_click: 4559 next_click: 3031 purchase_prob: 2.162254e-05 reward: 1 dis_reward:0.86098003 action: [3031, 213, 1518, 1825, 2666, 1237, 30, 72, 298, 4559, 3]
+current_click: 3031 next_click: 4559 purchase_prob: 1.7736291e-09 reward: 1 dis_reward:0.29041553 action: [4559, 897, 21589, 924, 94, 7638, 650, 3031, 3019, 3974, 3]
+current_click: 4559 next_click: 4559 purchase_prob: 0.9999865 reward: 4 dis_reward:0.22834148 action: [4559, 7638, 3920, 1528, 1480, 451, 4474, 487, 11427, 12450, 3]
+------------next session:3819------------
+current_click: 72 next_click: 7275 purchase_prob: 4.297134e-12 reward: 1 dis_reward:0.94526827 action: [7275, 22896, 3996, 2863, 1683, 72, 67, 33145, 4040, 1331, 3]
+current_click: 7275 next_click: 6 purchase_prob: 1.4168802e-07 reward: 1 dis_reward:0.85398352 action: [261, 6, 13, 127, 2876, 15, 23, 492, 38, 858, 3]
+current_click: 6 next_click: 3 purchase_prob: 1.5091086e-09 reward: 1 dis_reward:0.79952979 action: [2142, 1113, 3353, 6, 172, 41, 205, 347, 717, 424, 3]
+------------next session:3820------------
+current_click: 305 next_click: 35100 purchase_prob: 6.2151248e-12 reward: 1 dis_reward:0.99949396 action: [4531, 50, 3396, 6242, 1021, 8884, 648, 4348, 959, 35100, 3]
+current_click: 35100 next_click: 3 purchase_prob: 0.0029941367 reward: 1 dis_reward:0.99999988 action: [1412, 3594, 2581, 2584, 5280, 855, 12953, 2050, 12808, 4531, 3]
+------------next session:3821------------
+current_click: 14979 next_click: 2400 purchase_prob: 6.7734015e-07 reward: 1 dis_reward:0.99992144 action: [2400, 3326, 1481, 4014, 10366, 4236, 12182, 172, 4930, 276, 3]
+current_click: 2400 next_click: 4014 purchase_prob: 2.156382e-09 reward: 1 dis_reward:1.00000000 action: [4014, 296, 5880, 2885, 1493, 369, 275, 1260, 1518, 2738, 3]
+current_click: 4014 next_click: 3 purchase_prob: 0.00028100098 reward: 1 dis_reward:1.00000000 action: [4014, 3922, 786, 5691, 2400, 10424, 10142, 6574, 84, 88, 3]
+------------next session:3822------------
+current_click: 3111 next_click: 32 purchase_prob: 0.00010401445 reward: 1 dis_reward:0.99715012 action: [340, 1030, 1275, 204, 1228, 3863, 181, 3456, 12, 32, 3]
+current_click: 32 next_click: 3 purchase_prob: 3.8594428e-07 reward: 1 dis_reward:0.99965107 action: [886, 1225, 32, 10165, 305, 939, 3187, 147, 75, 539, 3]
+------------next session:3823------------
+current_click: 8575 next_click: 26103 purchase_prob: 0.9558178 reward: 4 dis_reward:0.99851704 action: [26103, 5886, 141, 28280, 3908, 311, 9707, 1133, 18407, 60, 3]
+current_click: 26103 next_click: 103 purchase_prob: 3.0130554e-08 reward: 1 dis_reward:0.99978173 action: [163, 128, 30, 103, 280, 35, 1338, 5, 3920, 83, 3]
+current_click: 103 next_click: 320 purchase_prob: 0.014525555 reward: 1 dis_reward:1.00000000 action: [9822, 15453, 320, 4441, 1209, 12430, 2819, 1311, 1200, 2023, 3]
+current_click: 320 next_click: 3 purchase_prob: 1.0995219e-07 reward: 1 dis_reward:1.00000000 action: [751, 386, 169, 48, 140, 3792, 37, 2045, 466, 2645, 3]
+------------next session:3824------------
+current_click: 31344 next_click: 346 purchase_prob: 1.0199256e-07 reward: 1 dis_reward:1.00000000 action: [432, 4712, 2759, 663, 346, 104, 1143, 2860, 421, 1826, 3]
+current_click: 346 next_click: 3 purchase_prob: 0.07022332 reward: 1 dis_reward:1.00000000 action: [112, 2762, 1455, 1588, 614, 145, 237, 818, 1269, 3960, 3]
+------------next session:3825------------
+current_click: 1260 next_click: 6684 purchase_prob: 6.009252e-08 reward: 1 dis_reward:0.99973071 action: [2152, 6684, 18918, 32271, 4346, 16025, 4029, 1797, 4288, 804, 3]
+current_click: 6684 next_click: 313 purchase_prob: 0.99999547 reward: 4 dis_reward:0.99043429 action: [227, 2783, 270, 313, 3341, 8210, 449, 899, 404, 317, 3]
+current_click: 313 next_click: 3 purchase_prob: 0.005191897 reward: 1 dis_reward:0.99574763 action: [811, 7692, 4681, 22389, 2680, 20775, 699, 1858, 1443, 8571, 3]
+------------next session:3826------------
+current_click: 331 next_click: 156 purchase_prob: 2.7795205e-10 reward: 1 dis_reward:0.99736005 action: [8237, 28907, 17676, 17013, 7870, 3383, 517, 14152, 156, 1242, 3]
+current_click: 156 next_click: 3 purchase_prob: 0.0002860072 reward: 1 dis_reward:0.99883682 action: [99, 331, 4, 739, 211, 1593, 913, 520, 156, 624, 3]
+------------next session:3827------------
+current_click: 6166 next_click: 6166 purchase_prob: 0.9997533 reward: 4 dis_reward:0.08683526 action: [6166, 3660, 7440, 349, 986, 4273, 136, 9458, 1359, 1242, 3]
+current_click: 6166 next_click: 21674 purchase_prob: 0.9997533 reward: 4 dis_reward:0.02788859 action: [6166, 21674, 2476, 1843, 1831, 291, 5075, 21, 8202, 20, 3]
+current_click: 21674 next_click: 3 purchase_prob: 1.9884753e-08 reward: 1 dis_reward:0.01983347 action: [117, 6166, 176, 415, 2314, 790, 5713, 21674, 1311, 4607, 3]
+------------next session:3828------------
+current_click: 12460 next_click: 13083 purchase_prob: 2.7882322e-06 reward: 1 dis_reward:0.99896908 action: [331, 9204, 13083, 8681, 873, 585, 742, 1565, 1691, 2665, 3]
+current_click: 13083 next_click: 3 purchase_prob: 4.7227453e-09 reward: 1 dis_reward:0.99962866 action: [37, 3685, 5485, 1958, 72, 619, 1278, 447, 8923, 4148, 3]
+------------next session:3829------------
+current_click: 1951 next_click: 1620 purchase_prob: 3.1386256e-12 reward: 1 dis_reward:0.85247117 action: [1951, 1620, 1030, 529, 2286, 710, 562, 684, 197, 18, 3]
+current_click: 1620 next_click: 3683 purchase_prob: 7.497287e-08 reward: 1 dis_reward:0.99999666 action: [998, 798, 21, 3683, 836, 1487, 91, 12519, 313, 2618, 3]
+current_click: 3683 next_click: 3 purchase_prob: 7.497287e-08 reward: 1 dis_reward:0.99999642 action: [3500, 11604, 518, 1274, 4748, 1579, 2320, 3915, 3669, 725, 3]
+------------next session:3830------------
+current_click: 302 next_click: 2971 purchase_prob: 3.1375213e-05 reward: 1 dis_reward:0.99616700 action: [8006, 165, 2971, 8348, 50, 995, 2870, 2020, 457, 231, 3]
+current_click: 2971 next_click: 302 purchase_prob: 1.8627161e-12 reward: 1 dis_reward:0.97713983 action: [302, 45, 103, 2351, 259, 22, 132, 350, 309, 55, 3]
+current_click: 302 next_click: 8600 purchase_prob: 0.00017945713 reward: 1 dis_reward:0.98462903 action: [2099, 8600, 302, 165, 144, 4700, 118, 4641, 11953, 320, 3]
+current_click: 8600 next_click: 8600 purchase_prob: 0.00017945713 reward: 1 dis_reward:0.99995077 action: [8600, 6310, 1979, 2450, 694, 3582, 302, 350, 2099, 312, 3]
+------------next session:3831------------
+current_click: 807 next_click: 8455 purchase_prob: 1.7873268e-07 reward: 1 dis_reward:0.99999988 action: [1849, 1253, 8455, 8335, 341, 726, 5614, 1337, 704, 4617, 3]
+current_click: 8455 next_click: 3 purchase_prob: 0.032747313 reward: 1 dis_reward:0.99999988 action: [17, 448, 53, 494, 2422, 19, 1197, 99, 167, 575, 3]
+------------next session:3832------------
+current_click: 19726 next_click: 20 purchase_prob: 5.6151143e-06 reward: 1 dis_reward:0.96292162 action: [3881, 6261, 1969, 4093, 3724, 1820, 20, 18737, 1257, 17, 3]
+current_click: 20 next_click: 3 purchase_prob: 3.883229e-05 reward: 1 dis_reward:0.95607883 action: [4247, 86, 125, 943, 238, 1027, 20, 12424, 235, 3375, 3]
+------------next session:3833------------
+current_click: 4045 next_click: 31215 purchase_prob: 0.00025299494 reward: 1 dis_reward:0.57171315 action: [31215, 4045, 512, 7736, 209, 1240, 4711, 885, 1653, 12274, 3]
+current_click: 31215 next_click: 3 purchase_prob: 0.7603128 reward: 4 dis_reward:0.59478819 action: [3079, 669, 523, 2304, 3710, 1037, 250, 7564, 2609, 2898, 3]
+------------next session:3834------------
+current_click: 19274 next_click: 6856 purchase_prob: 1.778158e-09 reward: 1 dis_reward:0.99099332 action: [6856, 21986, 2115, 1884, 23, 10453, 198, 294, 8547, 6264, 3]
+current_click: 6856 next_click: 3 purchase_prob: 0.002054628 reward: 1 dis_reward:0.97836775 action: [11372, 15018, 1882, 9625, 1855, 6843, 16079, 982, 6516, 2507, 3]
+------------next session:3835------------
+current_click: 315 next_click: 933 purchase_prob: 1.5139202e-07 reward: 1 dis_reward:1.00000000 action: [330, 1142, 315, 27, 8529, 933, 6055, 524, 146, 6637, 3]
+current_click: 933 next_click: 3 purchase_prob: 2.0876791e-06 reward: 1 dis_reward:1.00000000 action: [2654, 1981, 6727, 6482, 5496, 8529, 445, 3192, 5478, 140, 3]
+------------next session:3836------------
+current_click: 5743 next_click: 30231 purchase_prob: 8.263423e-08 reward: 1 dis_reward:0.99389046 action: [30231, 5743, 3273, 162, 20694, 3262, 7276, 50, 14959, 1002, 3]
+current_click: 30231 next_click: 269 purchase_prob: 1.5633632e-09 reward: 1 dis_reward:0.99094391 action: [269, 509, 5743, 855, 273, 8821, 910, 6522, 4683, 707, 3]
+current_click: 269 next_click: 5743 purchase_prob: 0.0028998705 reward: 1 dis_reward:0.95837516 action: [2157, 5743, 417, 3065, 269, 183, 107, 126, 47, 4876, 3]
+current_click: 5743 next_click: 3 purchase_prob: 6.0197225e-09 reward: 1 dis_reward:0.96908879 action: [5743, 1723, 393, 3072, 3078, 591, 2298, 625, 1758, 1283, 3]
+------------next session:3837------------
+current_click: 8164 next_click: 10789 purchase_prob: 2.7510747e-11 reward: 1 dis_reward:0.99007910 action: [1721, 19880, 10789, 1290, 10903, 1283, 3844, 559, 11961, 80, 3]
+current_click: 10789 next_click: 3 purchase_prob: 1.7677905e-05 reward: 1 dis_reward:0.99691474 action: [2779, 771, 4031, 1103, 14211, 2286, 176, 15, 14820, 2416, 3]
+------------next session:3838------------
+current_click: 158 next_click: 128 purchase_prob: 0.000101963946 reward: 1 dis_reward:0.91692412 action: [1200, 158, 7594, 128, 4264, 17861, 3545, 489, 16408, 115, 3]
+current_click: 128 next_click: 158 purchase_prob: 0.2505105 reward: 1 dis_reward:0.84632170 action: [158, 9049, 999, 128, 14, 459, 5938, 3113, 448, 6, 3]
+current_click: 158 next_click: 128 purchase_prob: 0.99994767 reward: 4 dis_reward:0.60735780 action: [128, 221, 489, 1191, 2654, 14, 1200, 158, 1770, 9049, 3]
+current_click: 128 next_click: 2416 purchase_prob: 0.017150952 reward: 1 dis_reward:0.63392836 action: [9049, 158, 1777, 784, 680, 904, 2416, 772, 128, 3170, 3]
+------------next session:3839------------
+current_click: 75 next_click: 26245 purchase_prob: 1.7332636e-09 reward: 1 dis_reward:0.40753636 action: [75, 100, 26245, 377, 1223, 3333, 10148, 2972, 23210, 4360, 3]
+current_click: 26245 next_click: 50 purchase_prob: 0.00014691615 reward: 1 dis_reward:0.99997652 action: [50, 57, 1596, 178, 6412, 192, 395, 2827, 2599, 12, 3]
+current_click: 50 next_click: 3 purchase_prob: 3.2905703e-07 reward: 1 dis_reward:0.99997699 action: [50, 144, 22, 327, 394, 2961, 42, 43, 727, 58, 3]
+------------next session:3840------------
+current_click: 5887 next_click: 64 purchase_prob: 1.7432747e-07 reward: 1 dis_reward:1.00000000 action: [707, 7909, 2283, 2730, 3206, 1805, 64, 247, 526, 1275, 3]
+current_click: 64 next_click: 3 purchase_prob: 3.0708977e-10 reward: 1 dis_reward:1.00000000 action: [1331, 141, 2283, 883, 940, 7909, 167, 43, 2056, 1050, 3]
+------------next session:3841------------
+current_click: 39011 next_click: 8099 purchase_prob: 1.4201586e-05 reward: 1 dis_reward:0.94187152 action: [8099, 1481, 5970, 28927, 2723, 5290, 5782, 3141, 432, 1724, 3]
+current_click: 8099 next_click: 2723 purchase_prob: 0.9996911 reward: 4 dis_reward:0.88263732 action: [2723, 547, 134, 2086, 3133, 1699, 4407, 1181, 291, 217, 3]
+current_click: 2723 next_click: 3 purchase_prob: 0.0043570516 reward: 1 dis_reward:0.90373838 action: [5803, 3383, 2723, 10244, 6375, 3215, 6658, 5826, 5832, 5489, 3]
+------------next session:3842------------
+current_click: 22419 next_click: 1020 purchase_prob: 4.2342954e-10 reward: 1 dis_reward:0.98930818 action: [712, 1020, 1174, 1367, 2706, 894, 10009, 496, 872, 591, 3]
+current_click: 1020 next_click: 3 purchase_prob: 1.1889618e-15 reward: 1 dis_reward:0.97733635 action: [2010, 51, 2573, 4977, 1020, 595, 526, 6909, 76, 3397, 3]
+------------next session:3843------------
+current_click: 3053 next_click: 1133 purchase_prob: 0.021835933 reward: 1 dis_reward:1.00000000 action: [1133, 18847, 15612, 1797, 10394, 5987, 4219, 1650, 2249, 5767, 3]
+current_click: 1133 next_click: 826 purchase_prob: 5.5194745e-11 reward: 1 dis_reward:1.00000000 action: [1573, 342, 2474, 1133, 826, 45, 1162, 4578, 5197, 4309, 3]
+current_click: 826 next_click: 591 purchase_prob: 0.001988164 reward: 1 dis_reward:1.00000000 action: [889, 731, 766, 55, 2987, 3251, 591, 573, 1187, 1131, 3]
+current_click: 591 next_click: 3 purchase_prob: 5.237409e-05 reward: 1 dis_reward:1.00000000 action: [591, 2702, 559, 1914, 1770, 1187, 3243, 50, 3685, 98, 3]
+------------next session:3844------------
+current_click: 2024 next_click: 4520 purchase_prob: 5.7922623e-08 reward: 1 dis_reward:0.98102558 action: [6961, 2552, 843, 1091, 8326, 89, 5994, 21208, 4520, 591, 3]
+current_click: 4520 next_click: 3 purchase_prob: 8.4891304e-05 reward: 1 dis_reward:0.97343147 action: [3959, 6961, 1109, 3573, 4795, 802, 7445, 295, 2121, 2840, 3]
+------------next session:3845------------
+current_click: 4532 next_click: 5935 purchase_prob: 0.0002874854 reward: 1 dis_reward:0.25991482 action: [6592, 6561, 7426, 4532, 5935, 20827, 3487, 2693, 9551, 13802, 3]
+current_click: 5935 next_click: 1989 purchase_prob: 1.3488709e-07 reward: 1 dis_reward:0.20468578 action: [1989, 738, 82, 91, 390, 2556, 761, 5958, 593, 218, 3]
+current_click: 1989 next_click: 22435 purchase_prob: 0.9692589 reward: 4 dis_reward:0.56347263 action: [22435, 1989, 1406, 643, 2473, 3398, 1169, 4790, 9018, 4319, 3]
+current_click: 22435 next_click: 3 purchase_prob: 0.9938008 reward: 4 dis_reward:0.60045916 action: [22435, 2119, 21298, 11714, 1601, 1989, 3547, 6238, 3398, 901, 3]
+------------next session:3846------------
+current_click: 2436 next_click: 1009 purchase_prob: 6.804163e-10 reward: 1 dis_reward:0.89146262 action: [1009, 116, 1652, 4713, 3923, 2331, 1965, 355, 433, 6776, 3]
+current_click: 1009 next_click: 3 purchase_prob: 4.1581604e-13 reward: 1 dis_reward:0.87103319 action: [44, 2485, 970, 509, 2017, 2407, 243, 2544, 46, 302, 3]
+------------next session:3847------------
+current_click: 14294 next_click: 10045 purchase_prob: 1.12804065e-10 reward: 1 dis_reward:0.91941941 action: [10045, 12929, 7126, 1322, 76, 109, 3600, 14, 3675, 31, 3]
+current_click: 10045 next_click: 3 purchase_prob: 2.970878e-07 reward: 1 dis_reward:0.90671581 action: [24, 401, 536, 1121, 2282, 590, 597, 2110, 417, 1191, 3]
+------------next session:3848------------
+current_click: 1887 next_click: 2918 purchase_prob: 7.0928188e-09 reward: 1 dis_reward:0.99984503 action: [32240, 728, 2156, 12787, 2918, 22323, 5710, 879, 3157, 436, 3]
+current_click: 2918 next_click: 3 purchase_prob: 1.2495955e-06 reward: 1 dis_reward:0.99989665 action: [363, 600, 6377, 12787, 555, 5710, 911, 5382, 1897, 632, 3]
+------------next session:3849------------
+current_click: 199 next_click: 1537 purchase_prob: 0.0012708579 reward: 1 dis_reward:0.59995413 action: [1537, 199, 5675, 1073, 2336, 10189, 2793, 17879, 2747, 160, 3]
+current_click: 1537 next_click: 76 purchase_prob: 0.99860567 reward: 4 dis_reward:0.15922594 action: [76, 1164, 7, 1372, 5468, 287, 7743, 3614, 20, 71, 3]
+current_click: 76 next_click: 20196 purchase_prob: 2.2019958e-05 reward: 1 dis_reward:0.39820623 action: [20196, 995, 12, 745, 20, 7743, 4640, 76, 646, 2117, 3]
+current_click: 20196 next_click: 7743 purchase_prob: 1.4249316e-08 reward: 1 dis_reward:0.01566783 action: [3327, 7743, 76, 20196, 2601, 349, 12, 4572, 5426, 2117, 3]
+------------next session:3850------------
+current_click: 37408 next_click: 12645 purchase_prob: 1.970324e-11 reward: 1 dis_reward:0.99952030 action: [12645, 918, 8772, 3059, 3935, 731, 2309, 130, 9120, 82, 3]
+current_click: 12645 next_click: 3 purchase_prob: 2.6015368e-05 reward: 1 dis_reward:0.99940944 action: [12645, 994, 606, 2533, 2113, 14005, 159, 238, 1769, 587, 3]
+------------next session:3851------------
+current_click: 1387 next_click: 1387 purchase_prob: 4.782075e-07 reward: 1 dis_reward:0.21352473 action: [113, 407, 2446, 5353, 23505, 6246, 1387, 536, 684, 15304, 3]
+current_click: 1387 next_click: 2576 purchase_prob: 0.00034035064 reward: 1 dis_reward:0.23900540 action: [1387, 2576, 31, 23, 884, 706, 478, 2446, 5353, 4712, 3]
+current_click: 2576 next_click: 3 purchase_prob: 1.5571697e-10 reward: 1 dis_reward:0.05214434 action: [1387, 409, 113, 22, 1498, 316, 23, 13, 135, 466, 3]
+------------next session:3852------------
+current_click: 1003 next_click: 3963 purchase_prob: 1.9495203e-06 reward: 1 dis_reward:0.89878368 action: [3963, 7466, 9107, 1326, 6354, 1777, 1471, 14016, 13517, 798, 3]
+current_click: 3963 next_click: 2131 purchase_prob: 1.0960535e-09 reward: 1 dis_reward:0.80195636 action: [1326, 4517, 4104, 2123, 2131, 3397, 7450, 9107, 4099, 1560, 3]
+current_click: 2131 next_click: 861 purchase_prob: 4.4031526e-06 reward: 1 dis_reward:0.99364167 action: [167, 886, 4499, 4517, 9868, 861, 2582, 2972, 347, 4783, 3]
+current_click: 861 next_click: 3 purchase_prob: 4.4031526e-06 reward: 1 dis_reward:0.99508238 action: [10748, 2696, 4051, 7466, 2430, 4208, 2935, 2453, 7185, 1081, 3]
+------------next session:3853------------
+current_click: 27523 next_click: 26673 purchase_prob: 2.213382e-06 reward: 1 dis_reward:0.99996233 action: [26673, 12442, 12300, 39540, 2230, 18610, 7064, 11426, 1864, 703, 3]
+current_click: 26673 next_click: 3 purchase_prob: 0.0010831376 reward: 1 dis_reward:0.99996281 action: [507, 1666, 7061, 6238, 944, 1027, 1721, 1943, 918, 379, 3]
+------------next session:3854------------
+current_click: 9104 next_click: 774 purchase_prob: 5.3019627e-05 reward: 1 dis_reward:0.99949253 action: [774, 17002, 198, 2694, 2718, 1618, 28005, 5504, 2974, 804, 3]
+current_click: 774 next_click: 774 purchase_prob: 5.3019627e-05 reward: 1 dis_reward:0.99996388 action: [5660, 774, 112, 241, 2827, 4571, 71, 37, 118, 4781, 3]
+current_click: 774 next_click: 17073 purchase_prob: 0.80161077 reward: 4 dis_reward:0.99979973 action: [17073, 965, 178, 888, 4588, 2380, 1910, 1384, 4051, 10438, 3]
+current_click: 17073 next_click: 3 purchase_prob: 1.1434085e-12 reward: 1 dis_reward:0.99982291 action: [16, 17073, 230, 153, 266, 555, 58, 178, 965, 1867, 3]
+------------next session:3855------------
+current_click: 3905 next_click: 11538 purchase_prob: 1.8430708e-11 reward: 1 dis_reward:0.99998009 action: [11800, 7798, 2456, 2224, 2277, 11538, 4382, 12231, 115, 22006, 3]
+current_click: 11538 next_click: 3 purchase_prob: 1.4355883e-10 reward: 1 dis_reward:0.99998856 action: [2277, 7798, 661, 11800, 5827, 920, 4295, 2254, 6400, 50, 3]
+------------next session:3856------------
+current_click: 3186 next_click: 130 purchase_prob: 0.0034782372 reward: 1 dis_reward:0.88904762 action: [130, 43, 15653, 1460, 2411, 349, 32, 1520, 24358, 21672, 3]
+current_click: 130 next_click: 3195 purchase_prob: 4.212441e-10 reward: 1 dis_reward:0.99218065 action: [3195, 130, 289, 70, 741, 159, 5893, 15053, 16, 107, 3]
+current_click: 3195 next_click: 3195 purchase_prob: 0.0011490392 reward: 1 dis_reward:0.99999964 action: [70, 927, 762, 170, 20, 179, 85, 3195, 16, 203, 3]
+current_click: 3195 next_click: 32 purchase_prob: 0.00019859865 reward: 1 dis_reward:1.00000000 action: [4036, 5538, 32, 1700, 20, 59, 768, 3303, 1804, 48, 3]
+------------next session:3857------------
+current_click: 2310 next_click: 2310 purchase_prob: 0.00015773468 reward: 1 dis_reward:0.93600684 action: [2310, 28, 2737, 46, 5619, 580, 7775, 628, 796, 1638, 3]
+current_click: 2310 next_click: 5619 purchase_prob: 0.00078588596 reward: 1 dis_reward:0.89866304 action: [5619, 2103, 2310, 2737, 1034, 5748, 205, 3993, 3251, 81, 3]
+current_click: 5619 next_click: 2310 purchase_prob: 0.9741479 reward: 4 dis_reward:0.94969112 action: [5619, 2310, 5, 2737, 2334, 2103, 2450, 702, 695, 2640, 3]
+current_click: 2310 next_click: 2310 purchase_prob: 0.9741479 reward: 4 dis_reward:0.99691558 action: [2310, 11931, 1696, 8048, 2737, 4240, 5619, 26, 7379, 2103, 3]
+------------next session:3858------------
+current_click: 172 next_click: 17225 purchase_prob: 2.2444495e-15 reward: 1 dis_reward:0.80453873 action: [12900, 9473, 2364, 8727, 172, 9961, 15484, 15644, 17225, 999, 3]
+current_click: 17225 next_click: 1968 purchase_prob: 1.7425192e-08 reward: 1 dis_reward:0.99978161 action: [1968, 11383, 11293, 3544, 655, 296, 3450, 1147, 2518, 2366, 3]
+current_click: 1968 next_click: 3 purchase_prob: 0.017394098 reward: 1 dis_reward:0.99968827 action: [1304, 430, 1968, 2666, 2182, 1363, 285, 7239, 493, 14865, 3]
+------------next session:3859------------
+current_click: 1295 next_click: 37 purchase_prob: 3.2717242e-09 reward: 1 dis_reward:0.97114050 action: [208, 2603, 5338, 23111, 37, 391, 3157, 1034, 2937, 173, 3]
+current_click: 37 next_click: 6512 purchase_prob: 1.1411838e-05 reward: 1 dis_reward:0.99972743 action: [6512, 106, 3735, 2540, 37, 96, 2518, 205, 72, 474, 3]
+current_click: 6512 next_click: 228 purchase_prob: 3.0051076e-11 reward: 1 dis_reward:0.99999124 action: [228, 268, 6512, 483, 2612, 57, 44, 474, 143, 14, 3]
+current_click: 228 next_click: 228 purchase_prob: 3.0051076e-11 reward: 1 dis_reward:1.00000000 action: [228, 4800, 2422, 2079, 145, 1697, 1777, 4829, 11498, 3295, 3]
+------------next session:3860------------
+current_click: 2337 next_click: 7214 purchase_prob: 0.9933015 reward: 4 dis_reward:0.34176973 action: [2337, 3457, 4479, 3298, 2723, 3010, 6055, 7214, 2730, 33796, 3]
+current_click: 7214 next_click: 3 purchase_prob: 1.173018e-08 reward: 1 dis_reward:0.30309260 action: [1254, 117, 7214, 2256, 453, 2723, 3457, 1602, 6530, 3145, 3]
+------------next session:3861------------
+current_click: 823 next_click: 823 purchase_prob: 7.846954e-05 reward: 1 dis_reward:0.99999905 action: [579, 3284, 78, 5880, 362, 949, 358, 823, 151, 3430, 3]
+current_click: 823 next_click: 823 purchase_prob: 7.846976e-05 reward: 1 dis_reward:0.99999982 action: [823, 652, 362, 1740, 949, 67, 13, 1536, 1086, 167, 3]
+current_click: 823 next_click: 823 purchase_prob: 7.846976e-05 reward: 1 dis_reward:1.00000000 action: [362, 823, 451, 5894, 141, 2118, 853, 1394, 4336, 3903, 3]
+current_click: 823 next_click: 823 purchase_prob: 7.846976e-05 reward: 1 dis_reward:1.00000000 action: [823, 1979, 1136, 775, 362, 15, 5967, 960, 151, 14260, 3]
+------------next session:3862------------
+current_click: 14563 next_click: 10822 purchase_prob: 6.4492174e-14 reward: 1 dis_reward:0.99999952 action: [10822, 1921, 345, 3478, 555, 1880, 1702, 674, 11709, 5290, 3]
+current_click: 10822 next_click: 5290 purchase_prob: 1.06897584e-13 reward: 1 dis_reward:0.99999714 action: [5290, 1910, 445, 375, 2432, 1791, 2467, 9441, 6087, 7510, 3]
+current_click: 5290 next_click: 3 purchase_prob: 1.8867096e-15 reward: 1 dis_reward:0.99999678 action: [581, 407, 481, 2160, 1285, 93, 1049, 12877, 1256, 655, 3]
+------------next session:3863------------
+current_click: 24000 next_click: 1445 purchase_prob: 2.1271289e-07 reward: 1 dis_reward:0.98273075 action: [1445, 16, 452, 15934, 6651, 2247, 1919, 404, 1416, 403, 3]
+current_click: 1445 next_click: 9198 purchase_prob: 2.3854148e-12 reward: 1 dis_reward:0.99453002 action: [9198, 255, 334, 9259, 4693, 4051, 1445, 47, 5760, 1008, 3]
+current_click: 9198 next_click: 3 purchase_prob: 8.754871e-09 reward: 1 dis_reward:0.99641198 action: [403, 47, 126, 3942, 9198, 686, 66, 1883, 5822, 1020, 3]
+------------next session:3864------------
+current_click: 1081 next_click: 19011 purchase_prob: 0.0035813404 reward: 1 dis_reward:1.00000000 action: [4714, 116, 488, 7131, 110, 8564, 19011, 397, 56, 195, 3]
+current_click: 19011 next_click: 3 purchase_prob: 0.00014260429 reward: 1 dis_reward:1.00000000 action: [229, 302, 488, 342, 4930, 1081, 192, 119, 3685, 5534, 3]
+------------next session:3865------------
+current_click: 22662 next_click: 11521 purchase_prob: 4.8854193e-13 reward: 1 dis_reward:0.99848020 action: [11521, 14875, 796, 322, 282, 386, 664, 890, 5059, 1687, 3]
+current_click: 11521 next_click: 3 purchase_prob: 1.6260992e-06 reward: 1 dis_reward:0.99882513 action: [11521, 469, 16907, 8657, 2888, 7266, 328, 3160, 1990, 7258, 3]
+------------next session:3866------------
+current_click: 314 next_click: 52 purchase_prob: 7.0915908e-12 reward: 1 dis_reward:0.94367683 action: [52, 99, 2484, 592, 1034, 22, 185, 3337, 1306, 13, 3]
+current_click: 52 next_click: 15476 purchase_prob: 0.11797617 reward: 1 dis_reward:0.99619275 action: [15476, 949, 532, 837, 1353, 3308, 141, 592, 99, 1648, 3]
+current_click: 15476 next_click: 3 purchase_prob: 3.1448955e-11 reward: 1 dis_reward:0.99805212 action: [221, 19, 78, 15476, 1033, 4094, 592, 167, 232, 3899, 3]
+------------next session:3867------------
+current_click: 1319 next_click: 5726 purchase_prob: 1.4771535e-06 reward: 1 dis_reward:0.98951423 action: [30, 5726, 12004, 2274, 12143, 3496, 2609, 824, 1607, 15, 3]
+current_click: 5726 next_click: 43 purchase_prob: 1.3994952e-10 reward: 1 dis_reward:0.87310231 action: [43, 1166, 16, 1319, 27, 250, 457, 390, 2274, 561, 3]
+current_click: 43 next_click: 3 purchase_prob: 5.2822095e-08 reward: 1 dis_reward:0.86288559 action: [43, 98, 1319, 2525, 447, 324, 64, 30, 242, 236, 3]
+------------next session:3868------------
+current_click: 7124 next_click: 2796 purchase_prob: 3.1325655e-07 reward: 1 dis_reward:0.75213623 action: [2796, 12488, 1201, 275, 1791, 94, 2373, 71, 11747, 4156, 3]
+current_click: 2796 next_click: 10207 purchase_prob: 0.00023050848 reward: 1 dis_reward:0.99877846 action: [10207, 1925, 17, 472, 22595, 1126, 4013, 5590, 3986, 154, 3]
+current_click: 10207 next_click: 2081 purchase_prob: 2.1378224e-09 reward: 1 dis_reward:0.99999553 action: [3670, 5590, 2796, 3724, 2081, 119, 10207, 4472, 4189, 20432, 3]
+current_click: 2081 next_click: 4523 purchase_prob: 0.00016180276 reward: 1 dis_reward:1.00000000 action: [1471, 4407, 8137, 304, 2796, 1302, 680, 248, 4696, 4523, 3]
+------------next session:3869------------
+current_click: 5277 next_click: 6442 purchase_prob: 5.1883367e-06 reward: 1 dis_reward:0.97748548 action: [1155, 2004, 6442, 1882, 3104, 1891, 2715, 559, 12555, 25419, 3]
+current_click: 6442 next_click: 3 purchase_prob: 2.6126623e-10 reward: 1 dis_reward:0.96263826 action: [2004, 6442, 2501, 1429, 329, 1602, 4241, 1259, 4928, 3597, 3]
+------------next session:3870------------
+current_click: 1059 next_click: 2170 purchase_prob: 3.0264318e-06 reward: 1 dis_reward:0.99943906 action: [2032, 2170, 290, 628, 2660, 146, 5331, 23, 958, 10308, 3]
+current_click: 2170 next_click: 3 purchase_prob: 9.953118e-15 reward: 1 dis_reward:0.99903393 action: [2409, 3333, 1705, 3685, 7806, 1529, 256, 879, 12042, 8601, 3]
+------------next session:3871------------
+current_click: 1358 next_click: 438 purchase_prob: 2.4844433e-06 reward: 1 dis_reward:0.32869440 action: [1491, 14424, 438, 2553, 10731, 129, 4509, 192, 1111, 614, 3]
+current_click: 438 next_click: 475 purchase_prob: 0.9997422 reward: 4 dis_reward:0.43065247 action: [438, 109, 634, 515, 70, 192, 475, 284, 388, 89, 3]
+current_click: 475 next_click: 3 purchase_prob: 0.00013157769 reward: 1 dis_reward:0.31712246 action: [154, 188, 521, 206, 515, 89, 1334, 93, 28, 185, 3]
+------------next session:3872------------
+current_click: 4342 next_click: 5504 purchase_prob: 9.1996716e-11 reward: 1 dis_reward:0.99041098 action: [7495, 404, 3437, 1380, 20648, 5504, 23424, 6741, 634, 1048, 3]
+current_click: 5504 next_click: 25063 purchase_prob: 2.2310957e-10 reward: 1 dis_reward:0.99999779 action: [25063, 5504, 4711, 245, 4946, 646, 2634, 695, 3945, 1158, 3]
+current_click: 25063 next_click: 3 purchase_prob: 1.4685015e-12 reward: 1 dis_reward:0.99998939 action: [124, 279, 2344, 98, 75, 160, 185, 918, 324, 4946, 3]
+------------next session:3873------------
+current_click: 32897 next_click: 3893 purchase_prob: 0.99999785 reward: 4 dis_reward:0.93145800 action: [3893, 219, 31, 6126, 620, 1190, 31410, 6475, 151, 7639, 3]
+current_click: 3893 next_click: 3 purchase_prob: 2.2574607e-13 reward: 1 dis_reward:0.98156071 action: [3893, 6351, 7864, 606, 18694, 138, 6785, 11038, 31491, 4064, 3]
+------------next session:3874------------
+current_click: 3925 next_click: 10159 purchase_prob: 0.12797716 reward: 1 dis_reward:0.98196983 action: [1125, 4338, 10159, 3892, 603, 4590, 2448, 6896, 1580, 3264, 3]
+current_click: 10159 next_click: 3 purchase_prob: 2.8288345e-09 reward: 1 dis_reward:0.98759705 action: [68, 4628, 1155, 1647, 12032, 2599, 10999, 165, 3056, 5544, 3]
+------------next session:3875------------
+current_click: 719 next_click: 719 purchase_prob: 2.7053997e-05 reward: 1 dis_reward:0.99865687 action: [1156, 719, 318, 234, 1314, 720, 114, 173, 698, 1593, 3]
+current_click: 719 next_click: 174 purchase_prob: 7.2341333e-09 reward: 1 dis_reward:0.99994773 action: [1314, 692, 719, 873, 1156, 568, 174, 96, 114, 129, 3]
+current_click: 174 next_click: 3 purchase_prob: 0.9577218 reward: 4 dis_reward:0.99998629 action: [994, 234, 174, 1314, 568, 13000, 719, 11, 16, 452, 3]
+------------next session:3876------------
+current_click: 2591 next_click: 578 purchase_prob: 1.547611e-11 reward: 1 dis_reward:0.99978638 action: [578, 340, 3892, 1435, 819, 736, 2769, 2038, 20567, 6645, 3]
+current_click: 578 next_click: 3 purchase_prob: 0.00604909 reward: 1 dis_reward:0.99983120 action: [3348, 601, 183, 1242, 8, 443, 1346, 10524, 1671, 4290, 3]
+------------next session:3877------------
+current_click: 33278 next_click: 2571 purchase_prob: 2.5320812e-10 reward: 1 dis_reward:1.00000000 action: [2181, 1242, 1530, 9750, 5810, 250, 2571, 12, 1116, 2785, 3]
+current_click: 2571 next_click: 3 purchase_prob: 4.420926e-06 reward: 1 dis_reward:1.00000000 action: [150, 3397, 475, 3949, 484, 3706, 5045, 14286, 4240, 2298, 3]
+------------next session:3878------------
+current_click: 8845 next_click: 1335 purchase_prob: 8.432342e-11 reward: 1 dis_reward:0.46537781 action: [374, 1074, 23363, 1335, 582, 280, 995, 731, 12277, 16382, 3]
+current_click: 1335 next_click: 1335 purchase_prob: 8.432358e-11 reward: 1 dis_reward:0.51808012 action: [380, 1104, 130, 1335, 5, 216, 424, 76, 751, 387, 3]
+current_click: 1335 next_click: 1335 purchase_prob: 8.432358e-11 reward: 1 dis_reward:0.36525661 action: [1335, 1072, 276, 2577, 1825, 2061, 7002, 164, 2606, 52, 3]
+current_click: 1335 next_click: 3 purchase_prob: 1.9719778e-07 reward: 1 dis_reward:0.36362997 action: [1335, 888, 1632, 35, 165, 68, 747, 959, 5, 43, 3]
+------------next session:3879------------
+current_click: 3434 next_click: 26224 purchase_prob: 2.694067e-09 reward: 1 dis_reward:0.99997252 action: [3471, 21784, 3874, 631, 19807, 26224, 1036, 252, 1056, 3682, 3]
+current_click: 26224 next_click: 3 purchase_prob: 0.43783313 reward: 1 dis_reward:0.99997938 action: [325, 7602, 631, 1219, 82, 905, 3471, 3708, 4486, 3571, 3]
+------------next session:3880------------
+current_click: 2464 next_click: 4288 purchase_prob: 4.099363e-11 reward: 1 dis_reward:0.68679225 action: [4253, 246, 631, 1167, 1947, 4288, 3960, 2844, 6460, 17368, 3]
+current_click: 4288 next_click: 12 purchase_prob: 0.9740224 reward: 4 dis_reward:0.38415012 action: [12, 7497, 395, 514, 924, 1874, 188, 1243, 2758, 7376, 3]
+current_click: 12 next_click: 3 purchase_prob: 2.7799382e-05 reward: 1 dis_reward:0.30677149 action: [4175, 580, 188, 2072, 821, 284, 918, 514, 5087, 2940, 3]
+------------next session:3881------------
+current_click: 594 next_click: 594 purchase_prob: 0.00019381654 reward: 1 dis_reward:1.00000000 action: [6546, 1938, 110, 442, 594, 4744, 117, 15698, 148, 159, 3]
+current_click: 594 next_click: 6546 purchase_prob: 1.4621246e-07 reward: 1 dis_reward:0.99999875 action: [6546, 2618, 594, 5340, 770, 1623, 1938, 7032, 35487, 4231, 3]
+current_click: 6546 next_click: 12500 purchase_prob: 5.4446093e-11 reward: 1 dis_reward:1.00000000 action: [12500, 6546, 3951, 3201, 2352, 1916, 8177, 7516, 701, 1687, 3]
+current_click: 12500 next_click: 3201 purchase_prob: 5.7962672e-05 reward: 1 dis_reward:1.00000000 action: [3201, 12500, 6546, 926, 6029, 701, 5168, 4744, 3951, 974, 3]
+------------next session:3882------------
+current_click: 5636 next_click: 355 purchase_prob: 2.0698471e-06 reward: 1 dis_reward:1.00000000 action: [261, 74, 1142, 295, 53, 355, 3110, 689, 1749, 2438, 3]
+current_click: 355 next_click: 89 purchase_prob: 0.000670171 reward: 1 dis_reward:1.00000000 action: [2450, 4578, 262, 1634, 89, 3267, 342, 6661, 9237, 2626, 3]
+current_click: 89 next_click: 3 purchase_prob: 1.855261e-10 reward: 1 dis_reward:1.00000000 action: [748, 2295, 1986, 1891, 8262, 9381, 3607, 852, 262, 4534, 3]
+------------next session:3883------------
+current_click: 2266 next_click: 50 purchase_prob: 4.17474e-08 reward: 1 dis_reward:1.00000000 action: [2266, 147, 75, 1030, 50, 2809, 1330, 1371, 9526, 8187, 3]
+current_click: 50 next_click: 6226 purchase_prob: 2.1009734e-08 reward: 1 dis_reward:1.00000000 action: [566, 6226, 2513, 1876, 4874, 168, 1779, 887, 3880, 721, 3]
+current_click: 6226 next_click: 3 purchase_prob: 0.00071501033 reward: 1 dis_reward:1.00000000 action: [6226, 9678, 1731, 175, 258, 171, 22728, 22264, 573, 2081, 3]
+------------next session:3884------------
+current_click: 9434 next_click: 1784 purchase_prob: 1.0236472e-09 reward: 1 dis_reward:0.80656207 action: [953, 175, 3089, 933, 13710, 5076, 35056, 566, 1784, 3152, 3]
+current_click: 1784 next_click: 6494 purchase_prob: 4.8576196e-09 reward: 1 dis_reward:0.84664404 action: [22253, 5210, 2089, 48, 2528, 2675, 566, 8725, 6494, 7603, 3]
+current_click: 6494 next_click: 6494 purchase_prob: 3.7983614e-07 reward: 1 dis_reward:0.96807176 action: [22253, 796, 802, 1373, 7217, 3217, 9228, 2089, 5075, 6494, 3]
+current_click: 6494 next_click: 5 purchase_prob: 2.0102222e-09 reward: 1 dis_reward:0.16330092 action: [16, 986, 828, 384, 3535, 2179, 5, 374, 7, 1183, 3]
+------------next session:3885------------
+current_click: 9937 next_click: 1667 purchase_prob: 3.7621458e-11 reward: 1 dis_reward:0.99998921 action: [1667, 560, 2245, 415, 1279, 422, 3801, 19856, 8217, 4836, 3]
+current_click: 1667 next_click: 3 purchase_prob: 1.249316e-13 reward: 1 dis_reward:0.99998307 action: [53, 595, 1667, 2213, 191, 688, 1170, 11936, 1589, 1933, 3]
+------------next session:3886------------
+current_click: 13242 next_click: 13242 purchase_prob: 9.006501e-11 reward: 1 dis_reward:0.94554937 action: [13242, 1359, 2082, 178, 1099, 5926, 2728, 5221, 6339, 873, 3]
+current_click: 13242 next_click: 2424 purchase_prob: 2.9482583e-06 reward: 1 dis_reward:0.99495137 action: [2341, 137, 3558, 830, 2424, 313, 202, 1314, 69, 2854, 3]
+current_click: 2424 next_click: 3 purchase_prob: 0.00013975927 reward: 1 dis_reward:0.99333388 action: [1439, 8652, 17616, 4080, 1316, 569, 105, 2341, 1810, 2978, 3]
+------------next session:3887------------
+current_click: 1470 next_click: 5167 purchase_prob: 1.0617445e-06 reward: 1 dis_reward:0.32153872 action: [5167, 5339, 14668, 1429, 688, 2501, 341, 3590, 1191, 666, 3]
+current_click: 5167 next_click: 10487 purchase_prob: 0.0016787008 reward: 1 dis_reward:0.60156035 action: [672, 10487, 3084, 988, 156, 2501, 1839, 248, 104, 7065, 3]
+current_click: 10487 next_click: 3 purchase_prob: 1.9556875e-08 reward: 1 dis_reward:0.66422260 action: [8, 629, 50, 12, 572, 3892, 10487, 371, 59, 57, 3]
+------------next session:3888------------
+current_click: 400 next_click: 9983 purchase_prob: 0.071995236 reward: 1 dis_reward:0.99928856 action: [1225, 2510, 9983, 400, 1314, 15277, 1567, 437, 7639, 462, 3]
+current_click: 9983 next_click: 3 purchase_prob: 3.0455785e-06 reward: 1 dis_reward:0.99967885 action: [267, 437, 354, 3191, 53, 400, 3098, 613, 937, 1455, 3]
+------------next session:3889------------
+current_click: 2249 next_click: 31 purchase_prob: 3.1004329e-12 reward: 1 dis_reward:0.99977714 action: [31, 367, 8311, 26, 11225, 297, 21752, 11404, 2938, 16084, 3]
+current_click: 31 next_click: 1019 purchase_prob: 0.090817325 reward: 1 dis_reward:0.99999857 action: [342, 1019, 7, 14, 4, 31, 2568, 78, 413, 161, 3]
+current_click: 1019 next_click: 3 purchase_prob: 7.273876e-11 reward: 1 dis_reward:0.99999893 action: [532, 533, 15, 266, 70, 1019, 11, 642, 31, 236, 3]
+------------next session:3890------------
+current_click: 5945 next_click: 298 purchase_prob: 4.090578e-10 reward: 1 dis_reward:0.99389476 action: [298, 382, 2762, 594, 1445, 3736, 14523, 2161, 6543, 255, 3]
+current_click: 298 next_click: 2413 purchase_prob: 0.9998448 reward: 4 dis_reward:0.91190702 action: [2413, 877, 36, 1731, 47, 255, 28, 322, 1763, 1068, 3]
+current_click: 2413 next_click: 5255 purchase_prob: 8.93107e-09 reward: 1 dis_reward:0.99999923 action: [322, 2413, 36, 5255, 440, 490, 1493, 1691, 52, 721, 3]
+current_click: 5255 next_click: 5255 purchase_prob: 0.0012313446 reward: 1 dis_reward:1.00000000 action: [5255, 3201, 32459, 990, 1261, 409, 158, 15798, 4513, 1878, 3]
+------------next session:3891------------
+current_click: 2408 next_click: 8998 purchase_prob: 5.1327805e-07 reward: 1 dis_reward:0.93543041 action: [1696, 2309, 5297, 262, 422, 232, 4284, 8998, 1322, 13108, 3]
+current_click: 8998 next_click: 3 purchase_prob: 6.796036e-08 reward: 1 dis_reward:0.96696776 action: [4566, 4004, 777, 1998, 3538, 635, 6428, 1863, 7542, 9253, 3]
+------------next session:3892------------
+current_click: 1939 next_click: 37152 purchase_prob: 3.1613724e-12 reward: 1 dis_reward:0.99554557 action: [5933, 37152, 455, 4224, 146, 2792, 3030, 3024, 201, 344, 3]
+current_click: 37152 next_click: 3 purchase_prob: 0.00027692935 reward: 1 dis_reward:0.99810046 action: [2783, 1025, 2869, 3855, 955, 720, 7341, 982, 2579, 1204, 3]
+------------next session:3893------------
+current_click: 8996 next_click: 472 purchase_prob: 2.5781464e-08 reward: 1 dis_reward:0.99998981 action: [472, 559, 228, 323, 6, 1161, 1049, 14, 1318, 850, 3]
+current_click: 472 next_click: 4320 purchase_prob: 1.8011235e-09 reward: 1 dis_reward:0.99136573 action: [4320, 518, 582, 386, 213, 472, 68, 25, 1049, 1241, 3]
+current_click: 4320 next_click: 3215 purchase_prob: 1.3679664e-09 reward: 1 dis_reward:1.00000000 action: [3215, 1318, 3858, 968, 320, 5424, 3725, 2272, 746, 883, 3]
+current_click: 3215 next_click: 3215 purchase_prob: 1.3679664e-09 reward: 1 dis_reward:1.00000000 action: [3215, 386, 4516, 18598, 884, 25, 1564, 303, 54, 4670, 3]
+------------next session:3894------------
+current_click: 5886 next_click: 13849 purchase_prob: 0.00036791456 reward: 1 dis_reward:0.99964988 action: [13849, 5358, 274, 147, 329, 2827, 3865, 109, 1025, 254, 3]
+current_click: 13849 next_click: 3 purchase_prob: 0.0047670347 reward: 1 dis_reward:0.99963379 action: [2103, 13408, 2238, 15637, 2984, 3761, 254, 1385, 2771, 5358, 3]
+------------next session:3895------------
+current_click: 10062 next_click: 2958 purchase_prob: 1.8403898e-12 reward: 1 dis_reward:0.99999648 action: [7564, 2958, 4627, 892, 676, 9791, 353, 1221, 2748, 3952, 3]
+current_click: 2958 next_click: 592 purchase_prob: 0.016119467 reward: 1 dis_reward:0.99997538 action: [1179, 592, 16360, 192, 1416, 3239, 395, 4402, 1967, 7353, 3]
+current_click: 592 next_click: 1195 purchase_prob: 9.681415e-06 reward: 1 dis_reward:0.99995458 action: [17, 1195, 663, 353, 760, 1379, 220, 119, 2654, 52, 3]
+current_click: 1195 next_click: 148 purchase_prob: 7.7536055e-07 reward: 1 dis_reward:0.99999595 action: [3913, 1471, 1505, 13733, 2748, 148, 1291, 1315, 2675, 2041, 3]
+------------next session:3896------------
+current_click: 13101 next_click: 12883 purchase_prob: 6.8249974e-05 reward: 1 dis_reward:1.00000000 action: [12883, 1078, 1752, 13986, 813, 60, 2956, 1459, 3374, 134, 3]
+current_click: 12883 next_click: 13101 purchase_prob: 7.075093e-06 reward: 1 dis_reward:1.00000000 action: [13101, 12883, 70, 4552, 1891, 2850, 3237, 15132, 8382, 1459, 3]
+current_click: 13101 next_click: 3 purchase_prob: 1.9452786e-07 reward: 1 dis_reward:1.00000000 action: [13101, 566, 1545, 236, 4301, 12883, 2771, 10945, 6717, 4, 3]
+------------next session:3897------------
+current_click: 2242 next_click: 12172 purchase_prob: 6.2249814e-09 reward: 1 dis_reward:0.99183691 action: [692, 902, 2470, 34970, 12172, 2242, 6261, 18421, 16761, 2388, 3]
+current_click: 12172 next_click: 3 purchase_prob: 1.1693137e-05 reward: 1 dis_reward:0.99593383 action: [117, 2615, 679, 999, 6635, 3543, 11043, 2838, 5079, 376, 3]
+------------next session:3898------------
+current_click: 7535 next_click: 987 purchase_prob: 0.0001384946 reward: 1 dis_reward:0.99950206 action: [354, 362, 2592, 534, 1338, 987, 7112, 16870, 3673, 326, 3]
+current_click: 987 next_click: 3 purchase_prob: 7.3705786e-10 reward: 1 dis_reward:0.99984097 action: [6355, 945, 938, 244, 1877, 606, 725, 4892, 2531, 1513, 3]
+------------next session:3899------------
+current_click: 30677 next_click: 10 purchase_prob: 1.020339e-13 reward: 1 dis_reward:0.99070579 action: [10, 13, 1805, 512, 1578, 5442, 1455, 17, 2067, 254, 3]
+current_click: 10 next_click: 8321 purchase_prob: 5.7582028e-08 reward: 1 dis_reward:0.93682992 action: [8321, 284, 2869, 222, 1538, 2966, 557, 229, 118, 1526, 3]
+current_click: 8321 next_click: 3 purchase_prob: 2.4864508e-07 reward: 1 dis_reward:0.89446312 action: [172, 199, 886, 1059, 279, 943, 8321, 1113, 15029, 1348, 3]
+------------next session:3900------------
+current_click: 287 next_click: 20 purchase_prob: 6.491589e-05 reward: 1 dis_reward:0.73367417 action: [576, 274, 1334, 20, 177, 4, 15783, 149, 254, 1002, 3]
+current_click: 20 next_click: 4166 purchase_prob: 6.4916014e-05 reward: 1 dis_reward:0.72466910 action: [4166, 199, 44, 3357, 305, 287, 86, 1039, 1858, 20, 3]
+current_click: 4166 next_click: 4166 purchase_prob: 1.3765684e-06 reward: 1 dis_reward:0.49834871 action: [26907, 4166, 2223, 6077, 11808, 1039, 199, 240, 4513, 382, 3]
+current_click: 4166 next_click: 206 purchase_prob: 4.7715854e-05 reward: 1 dis_reward:0.04232800 action: [26907, 20, 6077, 1245, 9736, 4166, 23388, 206, 8396, 163, 3]
+------------next session:3901------------
+current_click: 17203 next_click: 21772 purchase_prob: 1.058482e-14 reward: 1 dis_reward:0.99997962 action: [21772, 1267, 3296, 7345, 37648, 2949, 12069, 11541, 10818, 3472, 3]
+current_click: 21772 next_click: 3 purchase_prob: 3.428959e-10 reward: 1 dis_reward:0.99998486 action: [5800, 3307, 1097, 9408, 1528, 1194, 1568, 922, 417, 990, 3]
+------------next session:3902------------
+current_click: 6 next_click: 1200 purchase_prob: 1.7519394e-13 reward: 1 dis_reward:0.66676867 action: [33789, 13225, 6, 2529, 10040, 1200, 375, 35835, 5097, 319, 3]
+current_click: 1200 next_click: 3443 purchase_prob: 4.7086893e-08 reward: 1 dis_reward:0.91302836 action: [20640, 3443, 227, 4013, 5908, 4360, 1978, 458, 1200, 1194, 3]
+current_click: 3443 next_click: 20640 purchase_prob: 6.167477e-08 reward: 1 dis_reward:0.99935675 action: [3852, 20640, 3443, 8907, 1611, 3377, 3684, 37524, 12496, 4708, 3]
+current_click: 20640 next_click: 202 purchase_prob: 5.754832e-08 reward: 1 dis_reward:0.99393725 action: [3422, 3852, 7234, 1412, 12876, 1978, 5643, 696, 202, 1929, 3]
+------------next session:3903------------
+current_click: 609 next_click: 1248 purchase_prob: 4.4818864e-11 reward: 1 dis_reward:0.94778192 action: [1037, 3185, 4936, 8720, 2285, 16378, 1248, 4624, 21698, 7588, 3]
+current_click: 1248 next_click: 6742 purchase_prob: 1.5722789e-15 reward: 1 dis_reward:0.99999970 action: [3396, 6742, 434, 4936, 1127, 4252, 336, 1643, 8039, 416, 3]
+current_click: 6742 next_click: 3 purchase_prob: 1.5918491e-06 reward: 1 dis_reward:0.99999976 action: [1935, 1342, 1595, 361, 868, 6555, 497, 1323, 1486, 249, 3]
+------------next session:3904------------
+current_click: 19804 next_click: 8766 purchase_prob: 5.893433e-14 reward: 1 dis_reward:0.95649356 action: [8766, 6083, 1692, 15024, 3663, 208, 16473, 1922, 388, 410, 3]
+current_click: 8766 next_click: 12338 purchase_prob: 1.9867997e-08 reward: 1 dis_reward:0.55067283 action: [12338, 8766, 1978, 786, 171, 1486, 5366, 222, 1900, 7020, 3]
+current_click: 12338 next_click: 22466 purchase_prob: 0.025779422 reward: 1 dis_reward:0.78309649 action: [22466, 12338, 667, 18938, 7321, 21387, 7920, 4075, 2616, 6607, 3]
+current_click: 22466 next_click: 22466 purchase_prob: 0.9670551 reward: 4 dis_reward:0.86832261 action: [21387, 27, 2225, 7295, 6574, 22466, 4391, 8766, 6063, 3369, 3]
+------------next session:3905------------
+current_click: 233 next_click: 2944 purchase_prob: 1.4353462e-08 reward: 1 dis_reward:0.98020685 action: [746, 406, 56, 2944, 54, 674, 2710, 740, 548, 1289, 3]
+current_click: 2944 next_click: 64 purchase_prob: 9.991952e-09 reward: 1 dis_reward:0.89910781 action: [128, 1791, 64, 13, 332, 406, 233, 311, 1203, 725, 3]
+current_click: 64 next_click: 4276 purchase_prob: 5.9425517e-08 reward: 1 dis_reward:0.98222578 action: [2225, 562, 4276, 243, 592, 1197, 6524, 1795, 1478, 410, 3]
+current_click: 4276 next_click: 128 purchase_prob: 0.0013822928 reward: 1 dis_reward:0.95937300 action: [37443, 1035, 128, 2285, 121, 4276, 4949, 55, 243, 391, 3]
+------------next session:3906------------
+current_click: 3476 next_click: 262 purchase_prob: 1.8950075e-08 reward: 1 dis_reward:0.99966830 action: [262, 25182, 779, 4356, 4413, 1172, 1308, 1208, 140, 182, 3]
+current_click: 262 next_click: 2640 purchase_prob: 2.740067e-11 reward: 1 dis_reward:0.15802595 action: [8768, 192, 558, 2640, 6821, 7654, 1774, 7659, 1172, 8720, 3]
+current_click: 2640 next_click: 3 purchase_prob: 5.106308e-10 reward: 1 dis_reward:0.14050724 action: [9345, 2640, 4169, 4554, 2463, 38745, 1571, 103, 237, 4841, 3]
+------------next session:3907------------
+current_click: 414 next_click: 12 purchase_prob: 7.980977e-11 reward: 1 dis_reward:0.83719194 action: [128, 1364, 1090, 10868, 71, 933, 123, 12, 4883, 126, 3]
+current_click: 12 next_click: 3 purchase_prob: 0.00013208642 reward: 1 dis_reward:0.63292056 action: [397, 123, 781, 1998, 1037, 4618, 441, 289, 713, 13, 3]
+------------next session:3908------------
+current_click: 11869 next_click: 25337 purchase_prob: 2.4072888e-09 reward: 1 dis_reward:0.99038732 action: [31221, 4180, 25473, 264, 2287, 25337, 1218, 78, 1543, 3123, 3]
+current_click: 25337 next_click: 3 purchase_prob: 1.055844e-05 reward: 1 dis_reward:0.97850400 action: [61, 403, 491, 1899, 2123, 17, 25473, 3634, 7469, 3758, 3]
+------------next session:3909------------
+current_click: 12417 next_click: 20015 purchase_prob: 0.00043704285 reward: 1 dis_reward:0.96626729 action: [20015, 940, 10463, 1500, 87, 13638, 986, 47, 2101, 7235, 3]
+current_click: 20015 next_click: 3 purchase_prob: 0.033392146 reward: 1 dis_reward:0.98656565 action: [776, 7366, 1982, 2532, 4141, 3959, 359, 1930, 8374, 10602, 3]
+------------next session:3910------------
+current_click: 3140 next_click: 408 purchase_prob: 0.0014448452 reward: 1 dis_reward:0.99997950 action: [408, 4666, 15892, 12002, 18200, 3527, 257, 525, 1175, 3892, 3]
+current_click: 408 next_click: 894 purchase_prob: 1.494022e-05 reward: 1 dis_reward:0.99999726 action: [1197, 330, 894, 180, 4507, 183, 496, 61, 389, 658, 3]
+current_click: 894 next_click: 924 purchase_prob: 4.2056814e-10 reward: 1 dis_reward:0.99955022 action: [2090, 174, 901, 1412, 924, 1762, 103, 81, 1471, 1907, 3]
+current_click: 924 next_click: 11 purchase_prob: 5.9197832e-06 reward: 1 dis_reward:0.99708277 action: [180, 250, 4666, 28, 2490, 1604, 4925, 1144, 11, 562, 3]
+------------next session:3911------------
+current_click: 5609 next_click: 731 purchase_prob: 1.03992315e-05 reward: 1 dis_reward:0.96306264 action: [294, 13221, 3577, 731, 182, 3887, 9154, 1303, 2892, 48, 3]
+current_click: 731 next_click: 3 purchase_prob: 1.0483985e-08 reward: 1 dis_reward:0.95610458 action: [2045, 7851, 839, 5043, 36778, 8041, 2411, 13318, 3233, 6602, 3]
+------------next session:3912------------
+current_click: 7495 next_click: 31870 purchase_prob: 0.0010986556 reward: 1 dis_reward:0.99996281 action: [31870, 3792, 3940, 1418, 1326, 2558, 1863, 10986, 2123, 1425, 3]
+current_click: 31870 next_click: 3 purchase_prob: 3.9343107e-05 reward: 1 dis_reward:0.99998295 action: [91, 31870, 3792, 2749, 1920, 424, 422, 2123, 585, 71, 3]
+------------next session:3913------------
+current_click: 7854 next_click: 22748 purchase_prob: 1.1746905e-08 reward: 1 dis_reward:0.00240435 action: [6494, 14542, 2655, 6377, 7674, 906, 11241, 238, 22748, 23021, 3]
+current_click: 22748 next_click: 3 purchase_prob: 1.0 reward: 4 dis_reward:0.00247325 action: [517, 154, 34, 93, 458, 1107, 67, 754, 2806, 256, 3]
+------------next session:3914------------
+current_click: 19929 next_click: 28354 purchase_prob: 0.021688357 reward: 1 dis_reward:0.39988589 action: [8546, 28354, 1683, 448, 385, 4360, 5643, 5911, 3105, 2235, 3]
+current_click: 28354 next_click: 1179 purchase_prob: 0.00069843663 reward: 1 dis_reward:0.79405868 action: [176, 626, 555, 396, 1494, 1179, 88, 2787, 8546, 6677, 3]
+current_click: 1179 next_click: 3 purchase_prob: 0.000615575 reward: 1 dis_reward:0.85366863 action: [9676, 24188, 4887, 20660, 3897, 23530, 1674, 668, 10095, 9747, 3]
+------------next session:3915------------
+current_click: 981 next_click: 21643 purchase_prob: 3.292752e-07 reward: 1 dis_reward:0.99999905 action: [1245, 108, 4656, 21643, 3339, 3458, 6525, 1035, 316, 72, 3]
+current_click: 21643 next_click: 1334 purchase_prob: 1.4067326e-09 reward: 1 dis_reward:0.99999923 action: [108, 72, 68, 265, 1334, 451, 14744, 551, 282, 2173, 3]
+current_click: 1334 next_click: 3 purchase_prob: 8.77696e-12 reward: 1 dis_reward:0.99999893 action: [112, 282, 1472, 92, 201, 18, 1743, 1249, 152, 1038, 3]
+------------next session:3916------------
+current_click: 5679 next_click: 4319 purchase_prob: 1.7424132e-05 reward: 1 dis_reward:0.99997121 action: [2892, 4319, 5322, 2373, 12808, 505, 539, 3417, 9, 2069, 3]
+current_click: 4319 next_click: 3 purchase_prob: 1.7956432e-06 reward: 1 dis_reward:0.99996758 action: [437, 744, 6310, 9075, 397, 1841, 422, 742, 738, 983, 3]
+------------next session:3917------------
+current_click: 16432 next_click: 38548 purchase_prob: 9.83633e-16 reward: 1 dis_reward:0.99999237 action: [38548, 3317, 3601, 36615, 6453, 7953, 17139, 5016, 10776, 31072, 3]
+current_click: 38548 next_click: 3 purchase_prob: 2.6628496e-07 reward: 1 dis_reward:0.99999559 action: [7344, 6425, 5636, 544, 1721, 23, 1903, 70, 743, 428, 3]
+------------next session:3918------------
+current_click: 34 next_click: 404 purchase_prob: 7.6938403e-07 reward: 1 dis_reward:0.95977151 action: [5519, 404, 20, 56, 3309, 1592, 142, 2265, 2443, 166, 3]
+current_click: 404 next_click: 34 purchase_prob: 5.877756e-05 reward: 1 dis_reward:0.99389380 action: [480, 33, 4762, 34, 404, 189, 23, 44, 287, 433, 3]
+current_click: 34 next_click: 34 purchase_prob: 5.877756e-05 reward: 1 dis_reward:0.92257643 action: [34, 480, 404, 5, 724, 179, 44, 5527, 33, 22, 3]
+current_click: 34 next_click: 28 purchase_prob: 0.9698987 reward: 4 dis_reward:0.97448564 action: [28, 5527, 536, 34, 92, 33, 404, 724, 25, 432, 3]
+------------next session:3919------------
+current_click: 2148 next_click: 2986 purchase_prob: 0.00123316 reward: 1 dis_reward:0.99992323 action: [16593, 2986, 7555, 2143, 5760, 3007, 65, 2156, 1718, 19, 3]
+current_click: 2986 next_click: 26303 purchase_prob: 3.648469e-07 reward: 1 dis_reward:0.99999982 action: [26303, 32920, 302, 959, 9319, 1362, 4038, 15516, 5760, 228, 3]
+current_click: 26303 next_click: 32920 purchase_prob: 2.3008199e-05 reward: 1 dis_reward:0.99999791 action: [32920, 7644, 11615, 2881, 14758, 6669, 20105, 1184, 13090, 37751, 3]
+current_click: 32920 next_click: 32920 purchase_prob: 2.3008199e-05 reward: 1 dis_reward:1.00000000 action: [7644, 228, 10466, 4518, 1598, 3023, 12978, 702, 411, 32920, 3]
+------------next session:3920------------
+current_click: 6514 next_click: 6514 purchase_prob: 3.0779412e-09 reward: 1 dis_reward:0.99353331 action: [6514, 158, 3103, 3138, 1475, 1532, 7469, 544, 6134, 53, 3]
+current_click: 6514 next_click: 3 purchase_prob: 2.5054122e-05 reward: 1 dis_reward:0.99681586 action: [6514, 53, 236, 242, 5097, 16, 1091, 50, 2872, 874, 3]
+------------next session:3921------------
+current_click: 19347 next_click: 13177 purchase_prob: 2.5277493e-09 reward: 1 dis_reward:0.93336028 action: [13177, 9133, 832, 464, 3403, 777, 6332, 3085, 8791, 4980, 3]
+current_click: 13177 next_click: 19347 purchase_prob: 0.92723656 reward: 4 dis_reward:0.94081181 action: [19347, 5023, 9133, 2413, 8132, 3590, 5476, 10853, 6353, 8731, 3]
+current_click: 19347 next_click: 3 purchase_prob: 4.6342556e-08 reward: 1 dis_reward:0.87968302 action: [19347, 1474, 1352, 15912, 8793, 82, 10381, 15768, 12294, 2837, 3]
+------------next session:3922------------
+current_click: 1026 next_click: 10448 purchase_prob: 3.2938303e-06 reward: 1 dis_reward:0.93835127 action: [3907, 38543, 7450, 39130, 22763, 4706, 3225, 13195, 10448, 19915, 3]
+current_click: 10448 next_click: 3 purchase_prob: 1.6377556e-10 reward: 1 dis_reward:0.96138674 action: [38543, 9413, 840, 4334, 1308, 318, 9182, 11507, 23, 3047, 3]
+------------next session:3923------------
+current_click: 3277 next_click: 11015 purchase_prob: 7.027106e-09 reward: 1 dis_reward:0.00216426 action: [2602, 5128, 11015, 467, 9817, 4590, 2706, 1686, 6311, 11842, 3]
+current_click: 11015 next_click: 3 purchase_prob: 2.7834652e-08 reward: 1 dis_reward:0.00133375 action: [145, 4228, 1211, 3675, 706, 302, 424, 2602, 1647, 509, 3]
+------------next session:3924------------
+current_click: 27574 next_click: 31510 purchase_prob: 1.5502344e-11 reward: 1 dis_reward:0.88412535 action: [31510, 15, 1927, 22606, 32707, 239, 1325, 895, 275, 9, 3]
+current_click: 31510 next_click: 3 purchase_prob: 0.00064324465 reward: 1 dis_reward:0.86693043 action: [4255, 8238, 21384, 9745, 6574, 4395, 6843, 1591, 2048, 313, 3]
+------------next session:3925------------
+current_click: 998 next_click: 2754 purchase_prob: 0.2163685 reward: 1 dis_reward:0.31223586 action: [3914, 100, 218, 2754, 998, 248, 88, 1451, 4404, 626, 3]
+current_click: 2754 next_click: 3 purchase_prob: 1.4937598e-05 reward: 1 dis_reward:0.33392033 action: [97, 998, 508, 2299, 2793, 690, 1134, 390, 3865, 216, 3]
+------------next session:3926------------
+current_click: 4506 next_click: 10366 purchase_prob: 1.5380881e-07 reward: 1 dis_reward:0.90106356 action: [884, 10366, 7926, 178, 7831, 14604, 11285, 767, 6827, 2053, 3]
+current_click: 10366 next_click: 3 purchase_prob: 3.4107874e-09 reward: 1 dis_reward:0.98220050 action: [69, 1861, 6, 53, 140, 1253, 14, 635, 1843, 329, 3]
+------------next session:3927------------
+current_click: 83 next_click: 83 purchase_prob: 8.89982e-08 reward: 1 dis_reward:0.99999988 action: [83, 1334, 7017, 7460, 16322, 5667, 25899, 3162, 321, 52, 3]
+current_click: 83 next_click: 1859 purchase_prob: 0.013130621 reward: 1 dis_reward:1.00000000 action: [1859, 83, 3253, 969, 7245, 3052, 1257, 1910, 4727, 2756, 3]
+current_click: 1859 next_click: 83 purchase_prob: 0.08983925 reward: 1 dis_reward:1.00000000 action: [83, 1859, 389, 3253, 2626, 108, 3457, 5, 1334, 116, 3]
+current_click: 83 next_click: 3 purchase_prob: 1.3639702e-08 reward: 1 dis_reward:1.00000000 action: [3253, 1334, 6552, 83, 1859, 7245, 3433, 7460, 1529, 2626, 3]
+------------next session:3928------------
+current_click: 14006 next_click: 137 purchase_prob: 4.5280444e-06 reward: 1 dis_reward:1.00000000 action: [12646, 139, 1972, 178, 6529, 2111, 1352, 2326, 18160, 137, 3]
+current_click: 137 next_click: 3 purchase_prob: 3.5262266e-09 reward: 1 dis_reward:1.00000000 action: [1055, 454, 225, 67, 629, 3429, 137, 12646, 3164, 2870, 3]
+------------next session:3929------------
+current_click: 28901 next_click: 5131 purchase_prob: 0.0112323 reward: 1 dis_reward:1.00000000 action: [5131, 2130, 2602, 3677, 803, 814, 32, 473, 1503, 2135, 3]
+current_click: 5131 next_click: 3 purchase_prob: 8.3241964e-17 reward: 1 dis_reward:1.00000000 action: [5131, 11180, 2952, 329, 249, 12349, 578, 10615, 599, 1589, 3]
+------------next session:3930------------
+current_click: 4628 next_click: 4628 purchase_prob: 0.004623454 reward: 1 dis_reward:0.79386365 action: [4628, 634, 9628, 525, 12584, 158, 1209, 5298, 11925, 45, 3]
+current_click: 4628 next_click: 11925 purchase_prob: 0.004174978 reward: 1 dis_reward:0.99770117 action: [11925, 345, 4628, 4666, 1955, 6365, 183, 5887, 3360, 549, 3]
+current_click: 11925 next_click: 3 purchase_prob: 8.270185e-07 reward: 1 dis_reward:0.99750584 action: [11925, 972, 1157, 5045, 2565, 176, 2562, 106, 582, 4666, 3]
+------------next session:3931------------
+current_click: 3279 next_click: 12173 purchase_prob: 2.0516127e-11 reward: 1 dis_reward:0.99999046 action: [12173, 2835, 2601, 1465, 9369, 1026, 89, 1176, 310, 3279, 3]
+current_click: 12173 next_click: 720 purchase_prob: 0.00016761485 reward: 1 dis_reward:0.99986094 action: [4817, 19484, 2960, 235, 4978, 720, 4255, 14219, 4294, 4246, 3]
+current_click: 720 next_click: 690 purchase_prob: 7.1736034e-10 reward: 1 dis_reward:1.00000000 action: [4817, 690, 22, 1235, 19484, 310, 2835, 3420, 93, 1851, 3]
+current_click: 690 next_click: 19484 purchase_prob: 1.8532402e-05 reward: 1 dis_reward:0.99999964 action: [4817, 4373, 4246, 3899, 19484, 185, 4524, 645, 670, 657, 3]
+------------next session:3932------------
+current_click: 36745 next_click: 12129 purchase_prob: 2.2227178e-08 reward: 1 dis_reward:0.99999648 action: [12129, 847, 23366, 1622, 204, 540, 12302, 1477, 6440, 7398, 3]
+current_click: 12129 next_click: 3 purchase_prob: 0.43848854 reward: 1 dis_reward:0.99999523 action: [324, 12129, 1613, 4049, 1542, 9520, 17, 2391, 176, 23, 3]
+------------next session:3933------------
+current_click: 273 next_click: 139 purchase_prob: 0.00011973482 reward: 1 dis_reward:0.99992484 action: [273, 2823, 4649, 2917, 139, 2010, 1819, 1361, 781, 10100, 3]
+current_click: 139 next_click: 454 purchase_prob: 0.0021405842 reward: 1 dis_reward:0.99999988 action: [454, 6992, 1280, 347, 4933, 243, 917, 50, 826, 830, 3]
+current_click: 454 next_click: 3 purchase_prob: 0.0036188494 reward: 1 dis_reward:1.00000000 action: [22012, 12691, 24, 1691, 1351, 59, 2972, 139, 283, 454, 3]
+------------next session:3934------------
+current_click: 4520 next_click: 1233 purchase_prob: 2.692453e-07 reward: 1 dis_reward:0.98468274 action: [1233, 1265, 10946, 101, 2712, 318, 8579, 729, 4412, 1747, 3]
+current_click: 1233 next_click: 3 purchase_prob: 4.2770273e-07 reward: 1 dis_reward:0.99301177 action: [7, 3824, 5837, 2692, 1373, 3119, 4639, 4286, 3641, 2008, 3]
+------------next session:3935------------
+current_click: 1250 next_click: 1027 purchase_prob: 1.129972e-06 reward: 1 dis_reward:0.99970084 action: [1137, 15460, 334, 1299, 138, 5396, 1679, 1027, 6026, 7277, 3]
+current_click: 1027 next_click: 128 purchase_prob: 0.002039735 reward: 1 dis_reward:0.99999440 action: [26, 334, 5908, 1393, 859, 4946, 128, 1532, 227, 108, 3]
+current_click: 128 next_click: 3 purchase_prob: 1.3246926e-13 reward: 1 dis_reward:0.99999833 action: [2719, 2603, 4349, 1531, 753, 158, 123, 426, 725, 31, 3]
+------------next session:3936------------
+current_click: 1235 next_click: 16812 purchase_prob: 8.5503835e-09 reward: 1 dis_reward:0.99999821 action: [14425, 4223, 1235, 7210, 7333, 5814, 21831, 5190, 16812, 2571, 3]
+current_click: 16812 next_click: 16657 purchase_prob: 1.8793813e-09 reward: 1 dis_reward:0.99999982 action: [16657, 1235, 454, 465, 47, 14425, 10457, 1065, 6002, 4223, 3]
+current_click: 16657 next_click: 3 purchase_prob: 2.6278178e-05 reward: 1 dis_reward:0.99999964 action: [16657, 80, 179, 1198, 626, 4246, 3851, 1808, 1875, 4324, 3]
+------------next session:3937------------
+current_click: 581 next_click: 23485 purchase_prob: 0.0059994655 reward: 1 dis_reward:0.99999845 action: [2564, 498, 20297, 1404, 1175, 236, 23485, 1467, 5921, 6049, 3]
+current_click: 23485 next_click: 3 purchase_prob: 1.2309003e-05 reward: 1 dis_reward:0.99999702 action: [85, 2269, 5659, 13245, 15376, 1966, 8760, 18544, 4592, 1123, 3]
+------------next session:3938------------
+current_click: 4915 next_click: 5869 purchase_prob: 1.2426979e-06 reward: 1 dis_reward:1.00000000 action: [5869, 1383, 3422, 4661, 5087, 21, 2610, 1161, 7494, 5916, 3]
+current_click: 5869 next_click: 65 purchase_prob: 0.00083731196 reward: 1 dis_reward:1.00000000 action: [65, 91, 36, 5869, 2808, 59, 2411, 533, 3153, 1427, 3]
+current_click: 65 next_click: 3 purchase_prob: 2.295652e-06 reward: 1 dis_reward:1.00000000 action: [65, 408, 1307, 2808, 3009, 100, 31, 1305, 680, 927, 3]
+------------next session:3939------------
+current_click: 29896 next_click: 12721 purchase_prob: 3.0872397e-05 reward: 1 dis_reward:0.99830455 action: [12721, 1964, 435, 966, 7495, 5010, 1872, 239, 21560, 4997, 3]
+current_click: 12721 next_click: 3 purchase_prob: 0.0051876875 reward: 1 dis_reward:0.99924928 action: [1536, 884, 1046, 8646, 1613, 1688, 1874, 194, 857, 2267, 3]
+------------next session:3940------------
+current_click: 1515 next_click: 30715 purchase_prob: 3.1988957e-11 reward: 1 dis_reward:0.34676331 action: [1515, 2823, 15703, 30715, 12090, 4928, 26435, 3863, 5227, 1578, 3]
+current_click: 30715 next_click: 3 purchase_prob: 0.6575799 reward: 4 dis_reward:0.34469914 action: [4240, 2974, 427, 10836, 2455, 7018, 1871, 9538, 2260, 690, 3]
+------------next session:3941------------
+current_click: 21870 next_click: 1951 purchase_prob: 3.269478e-07 reward: 1 dis_reward:0.13889088 action: [13953, 418, 2008, 398, 1755, 1951, 5222, 4292, 3506, 144, 3]
+current_click: 1951 next_click: 3 purchase_prob: 0.00018523459 reward: 1 dis_reward:0.13147645 action: [1951, 1633, 1242, 804, 3471, 14, 144, 2869, 2811, 106, 3]
+------------next session:3942------------
+current_click: 12 next_click: 7601 purchase_prob: 2.3122475e-06 reward: 1 dis_reward:0.62381250 action: [7601, 10, 12258, 22807, 128, 37176, 1484, 549, 12, 1039, 3]
+current_click: 7601 next_click: 2216 purchase_prob: 0.20682035 reward: 1 dis_reward:0.95343745 action: [2216, 1432, 3675, 6527, 992, 2008, 87, 505, 1006, 128, 3]
+current_click: 2216 next_click: 87 purchase_prob: 0.03151099 reward: 1 dis_reward:0.99490058 action: [87, 2201, 9, 2095, 193, 1146, 2216, 12, 209, 25, 3]
+current_click: 87 next_click: 87 purchase_prob: 0.03151099 reward: 1 dis_reward:0.98973125 action: [1713, 87, 12, 1949, 4020, 925, 394, 5898, 2422, 698, 3]
+------------next session:3943------------
+current_click: 3300 next_click: 165 purchase_prob: 0.016968526 reward: 1 dis_reward:0.99284524 action: [3300, 12430, 30752, 1714, 165, 7520, 16319, 1350, 99, 623, 3]
+current_click: 165 next_click: 165 purchase_prob: 1.4567344e-06 reward: 1 dis_reward:0.99005413 action: [165, 14, 5307, 12430, 376, 399, 106, 72, 168, 5157, 3]
+current_click: 165 next_click: 3 purchase_prob: 9.0604996e-11 reward: 1 dis_reward:0.99290729 action: [165, 119, 4336, 1505, 1079, 173, 167, 1070, 7641, 3437, 3]
+------------next session:3944------------
+current_click: 2728 next_click: 11715 purchase_prob: 1.1256382e-07 reward: 1 dis_reward:0.99368584 action: [232, 32410, 12372, 2728, 22512, 2568, 11715, 5167, 16490, 2322, 3]
+current_click: 11715 next_click: 3 purchase_prob: 0.00055935164 reward: 1 dis_reward:0.99273807 action: [357, 9699, 1619, 16490, 238, 336, 1755, 2217, 10, 7502, 3]
+------------next session:3945------------
+current_click: 2761 next_click: 6812 purchase_prob: 3.2706008e-05 reward: 1 dis_reward:0.97709620 action: [120, 308, 2462, 6812, 16266, 2715, 1505, 14023, 39588, 1387, 3]
+current_click: 6812 next_click: 3 purchase_prob: 0.01603327 reward: 1 dis_reward:0.97762382 action: [1635, 3696, 6812, 2423, 1069, 2920, 5581, 1070, 578, 176, 3]
+------------next session:3946------------
+current_click: 5757 next_click: 1075 purchase_prob: 4.0030576e-11 reward: 1 dis_reward:0.98922747 action: [1075, 1168, 280, 2052, 16277, 3066, 2763, 3138, 224, 446, 3]
+current_click: 1075 next_click: 366 purchase_prob: 4.7537495e-05 reward: 1 dis_reward:0.92028952 action: [25, 1075, 4, 38, 97, 532, 908, 369, 366, 30, 3]
+current_click: 366 next_click: 6633 purchase_prob: 4.013484e-08 reward: 1 dis_reward:0.78943336 action: [35702, 23510, 6633, 8872, 2416, 1230, 2768, 215, 3384, 9236, 3]
+current_click: 6633 next_click: 4187 purchase_prob: 4.7537495e-05 reward: 1 dis_reward:1.00000000 action: [6633, 1177, 4187, 25, 4642, 4249, 1362, 2559, 1833, 1713, 3]
+------------next session:3947------------
+current_click: 9599 next_click: 968 purchase_prob: 0.00017944154 reward: 1 dis_reward:0.99923265 action: [10094, 968, 11078, 4148, 3150, 227, 2972, 10482, 12973, 386, 3]
+current_click: 968 next_click: 3 purchase_prob: 0.4220283 reward: 1 dis_reward:0.99987566 action: [10094, 1167, 6821, 6295, 252, 350, 1606, 1020, 1142, 19064, 3]
+------------next session:3948------------
+current_click: 561 next_click: 11635 purchase_prob: 1.7099988e-05 reward: 1 dis_reward:0.99993718 action: [25176, 11635, 10159, 703, 20347, 752, 5666, 1344, 849, 17201, 3]
+current_click: 11635 next_click: 11317 purchase_prob: 0.007554642 reward: 1 dis_reward:0.99793768 action: [7502, 3631, 6508, 251, 1550, 896, 11317, 1344, 1418, 518, 3]
+current_click: 11317 next_click: 1147 purchase_prob: 2.8290735e-06 reward: 1 dis_reward:0.99978751 action: [11317, 7502, 1843, 3994, 3151, 11236, 5933, 3083, 7835, 1147, 3]
+current_click: 1147 next_click: 11635 purchase_prob: 1.42537e-05 reward: 1 dis_reward:0.99999154 action: [11875, 11317, 12204, 4902, 10876, 5968, 4445, 10085, 2178, 11635, 3]
+------------next session:3949------------
+current_click: 3730 next_click: 25398 purchase_prob: 4.4407993e-09 reward: 1 dis_reward:0.96604711 action: [243, 5668, 3730, 3916, 677, 281, 25398, 41, 885, 1223, 3]
+current_click: 25398 next_click: 3 purchase_prob: 0.15979089 reward: 1 dis_reward:0.94344592 action: [1526, 2338, 3742, 682, 3083, 8058, 819, 7550, 1876, 461, 3]
+------------next session:3950------------
+current_click: 4918 next_click: 1084 purchase_prob: 8.594404e-08 reward: 1 dis_reward:0.99999982 action: [1084, 756, 5566, 2382, 17542, 113, 21930, 3149, 2152, 4964, 3]
+current_click: 1084 next_click: 3 purchase_prob: 0.00025813855 reward: 1 dis_reward:0.99999988 action: [323, 463, 216, 16, 25, 5566, 1402, 1393, 3842, 1178, 3]
+------------next session:3951------------
+current_click: 5190 next_click: 5190 purchase_prob: 2.3334354e-07 reward: 1 dis_reward:0.99997157 action: [7434, 11982, 4354, 5190, 3251, 21542, 12859, 2552, 10303, 2435, 3]
+current_click: 5190 next_click: 5190 purchase_prob: 2.3334488e-07 reward: 1 dis_reward:1.00000000 action: [5190, 4354, 953, 1085, 30, 2040, 1346, 705, 12238, 2027, 3]
+current_click: 5190 next_click: 3 purchase_prob: 1.2331884e-10 reward: 1 dis_reward:1.00000000 action: [2782, 21542, 5190, 19, 3118, 6851, 595, 11508, 1176, 15374, 3]
+------------next session:3952------------
+current_click: 1321 next_click: 231 purchase_prob: 5.0049654e-05 reward: 1 dis_reward:0.40827459 action: [1643, 2357, 488, 1321, 231, 5253, 117, 1872, 13948, 1559, 3]
+current_click: 231 next_click: 1095 purchase_prob: 0.0001233934 reward: 1 dis_reward:0.75615466 action: [1340, 1095, 445, 379, 2378, 231, 365, 11245, 117, 386, 3]
+current_click: 1095 next_click: 3 purchase_prob: 1.5364295e-10 reward: 1 dis_reward:0.60348922 action: [1232, 1762, 452, 1095, 161, 2870, 16409, 4001, 3544, 22761, 3]
+------------next session:3953------------
+current_click: 53 next_click: 16 purchase_prob: 3.216051e-05 reward: 1 dis_reward:0.99996758 action: [49, 369, 16, 962, 521, 275, 108, 13969, 178, 1502, 3]
+current_click: 16 next_click: 4 purchase_prob: 2.370565e-08 reward: 1 dis_reward:1.00000000 action: [4, 916, 167, 723, 1314, 71, 14, 33, 2212, 1399, 3]
+current_click: 4 next_click: 11760 purchase_prob: 5.2315927e-06 reward: 1 dis_reward:1.00000000 action: [916, 27, 723, 424, 350, 11760, 260, 639, 23, 72, 3]
+current_click: 11760 next_click: 350 purchase_prob: 9.075859e-11 reward: 1 dis_reward:1.00000000 action: [723, 916, 3754, 350, 1772, 18, 1723, 3629, 247, 371, 3]
+------------next session:3954------------
+current_click: 456 next_click: 80 purchase_prob: 1.126107e-08 reward: 1 dis_reward:1.00000000 action: [456, 1201, 3571, 80, 26157, 3494, 3313, 9415, 1035, 1215, 3]
+current_click: 80 next_click: 3 purchase_prob: 9.488185e-12 reward: 1 dis_reward:1.00000000 action: [1363, 957, 793, 15, 239, 1089, 23, 5091, 22, 6517, 3]
+------------next session:3955------------
+current_click: 4918 next_click: 17542 purchase_prob: 8.594404e-08 reward: 1 dis_reward:0.99999112 action: [5566, 9768, 1084, 127, 12047, 17542, 25, 10320, 164, 1068, 3]
+current_click: 17542 next_click: 3 purchase_prob: 0.00025813855 reward: 1 dis_reward:0.99997115 action: [4668, 93, 25, 32, 1648, 323, 224, 178, 4172, 1118, 3]
+------------next session:3956------------
+current_click: 9044 next_click: 12741 purchase_prob: 6.3648923e-07 reward: 1 dis_reward:0.82717550 action: [12741, 132, 9044, 8806, 2930, 909, 21108, 2692, 8005, 322, 3]
+current_click: 12741 next_click: 3 purchase_prob: 1.5942397e-10 reward: 1 dis_reward:0.74912453 action: [3919, 12232, 1671, 2012, 1553, 1716, 5391, 178, 790, 6378, 3]
+------------next session:3957------------
+current_click: 284 next_click: 292 purchase_prob: 1.5116822e-08 reward: 1 dis_reward:0.29171619 action: [292, 5927, 1596, 223, 14701, 284, 428, 118, 4227, 4409, 3]
+current_click: 292 next_click: 3 purchase_prob: 4.083728e-09 reward: 1 dis_reward:0.19276047 action: [1666, 1613, 7600, 363, 311, 3101, 7059, 583, 769, 5498, 3]
+------------next session:3958------------
+current_click: 97 next_click: 7832 purchase_prob: 1.4379917e-14 reward: 1 dis_reward:0.70798218 action: [5946, 128, 1770, 3655, 901, 7832, 7277, 384, 5419, 7440, 3]
+current_click: 7832 next_click: 158 purchase_prob: 2.9094372e-06 reward: 1 dis_reward:0.30442420 action: [158, 452, 106, 1245, 97, 680, 161, 356, 134, 2145, 3]
+current_click: 158 next_click: 680 purchase_prob: 0.9963895 reward: 4 dis_reward:0.35673848 action: [680, 634, 158, 128, 5860, 246, 161, 487, 1770, 27, 3]
+current_click: 680 next_click: 128 purchase_prob: 1.6153916e-05 reward: 1 dis_reward:0.00032065 action: [4166, 246, 774, 158, 128, 37, 680, 324, 13036, 4682, 3]
+------------next session:3959------------
+current_click: 33787 next_click: 35969 purchase_prob: 7.949501e-14 reward: 1 dis_reward:0.99999523 action: [35969, 1416, 4607, 5398, 16610, 23027, 5784, 2420, 408, 4727, 3]
+current_click: 35969 next_click: 3 purchase_prob: 0.00021197302 reward: 1 dis_reward:0.99999392 action: [33, 2594, 955, 86, 922, 2997, 7, 21, 13713, 215, 3]
+------------next session:3960------------
+current_click: 3194 next_click: 134 purchase_prob: 1.2925848e-10 reward: 1 dis_reward:0.97599858 action: [134, 3599, 3194, 169, 3236, 1174, 590, 3423, 581, 781, 3]
+current_click: 134 next_click: 3 purchase_prob: 3.4418685e-05 reward: 1 dis_reward:0.87988454 action: [3194, 386, 2587, 134, 628, 1735, 7, 1343, 52, 14227, 3]
+------------next session:3961------------
+current_click: 6416 next_click: 2079 purchase_prob: 1.701098e-07 reward: 1 dis_reward:1.00000000 action: [15157, 2079, 7979, 264, 179, 667, 3845, 1837, 17416, 7534, 3]
+current_click: 2079 next_click: 3 purchase_prob: 5.717147e-10 reward: 1 dis_reward:1.00000000 action: [2079, 886, 2494, 474, 32, 501, 1632, 1342, 790, 301, 3]
+------------next session:3962------------
+current_click: 2514 next_click: 169 purchase_prob: 1.3606461e-07 reward: 1 dis_reward:0.99886924 action: [3734, 6090, 17026, 5639, 865, 169, 783, 13662, 3880, 2385, 3]
+current_click: 169 next_click: 3 purchase_prob: 2.003421e-12 reward: 1 dis_reward:0.99945849 action: [3213, 2556, 55, 668, 5728, 797, 203, 484, 2233, 665, 3]
+------------next session:3963------------
+current_click: 9543 next_click: 2278 purchase_prob: 4.547042e-11 reward: 1 dis_reward:0.98808175 action: [173, 2290, 8359, 1085, 167, 3542, 19, 2278, 2261, 1512, 3]
+current_click: 2278 next_click: 193 purchase_prob: 0.0003454713 reward: 1 dis_reward:0.99941480 action: [1113, 7714, 132, 10307, 196, 193, 311, 1597, 31, 2261, 3]
+current_click: 193 next_click: 3 purchase_prob: 0.0003454713 reward: 1 dis_reward:0.99879116 action: [7882, 106, 4663, 173, 9977, 10, 1113, 460, 4213, 1297, 3]
+------------next session:3964------------
+current_click: 7466 next_click: 29092 purchase_prob: 1.8436333e-07 reward: 1 dis_reward:0.98752660 action: [4934, 29092, 648, 117, 161, 415, 1404, 11588, 115, 1350, 3]
+current_click: 29092 next_click: 3 purchase_prob: 1.7157446e-10 reward: 1 dis_reward:0.98885590 action: [2406, 3751, 54, 2538, 1965, 7354, 1436, 7329, 661, 802, 3]
+------------next session:3965------------
+current_click: 161 next_click: 27313 purchase_prob: 2.3232125e-11 reward: 1 dis_reward:0.99993879 action: [179, 552, 4081, 330, 27313, 49, 1462, 4017, 26378, 4876, 3]
+current_click: 27313 next_click: 3 purchase_prob: 5.7462515e-09 reward: 1 dis_reward:0.99995089 action: [23, 36, 4, 179, 65, 51, 1076, 926, 49, 309, 3]
+------------next session:3966------------
+current_click: 3028 next_click: 38862 purchase_prob: 1.1324918e-07 reward: 1 dis_reward:0.72385466 action: [9312, 4828, 775, 1272, 38862, 14675, 1459, 554, 417, 911, 3]
+current_click: 38862 next_click: 3 purchase_prob: 3.553007e-10 reward: 1 dis_reward:0.62953937 action: [59, 1027, 4506, 159, 5588, 2386, 53, 7604, 176, 595, 3]
+------------next session:3967------------
+current_click: 11569 next_click: 10029 purchase_prob: 0.00019409615 reward: 1 dis_reward:1.00000000 action: [10029, 3056, 1662, 7947, 34, 2267, 672, 265, 5002, 17, 3]
+current_click: 10029 next_click: 10029 purchase_prob: 0.00019409503 reward: 1 dis_reward:1.00000000 action: [13943, 10029, 1132, 807, 768, 962, 2349, 2594, 536, 12459, 3]
+current_click: 10029 next_click: 10029 purchase_prob: 0.00019409503 reward: 1 dis_reward:1.00000000 action: [880, 10029, 4534, 3110, 653, 365, 67, 1635, 4358, 150, 3]
+current_click: 10029 next_click: 10029 purchase_prob: 0.00019409503 reward: 1 dis_reward:1.00000000 action: [8318, 880, 12, 11742, 10029, 7644, 7437, 1598, 5830, 2195, 3]
+------------next session:3968------------
+current_click: 187 next_click: 33977 purchase_prob: 8.4878614e-08 reward: 1 dis_reward:0.79493296 action: [187, 23929, 5568, 33977, 252, 10811, 2263, 3935, 2332, 28438, 3]
+current_click: 33977 next_click: 14232 purchase_prob: 1.5540351e-08 reward: 1 dis_reward:0.99998885 action: [14232, 187, 252, 495, 546, 149, 220, 9559, 483, 1381, 3]
+current_click: 14232 next_click: 60 purchase_prob: 1.5540351e-08 reward: 1 dis_reward:0.99986237 action: [14232, 29753, 2625, 1381, 60, 12102, 1498, 187, 1547, 7079, 3]
+current_click: 60 next_click: 3323 purchase_prob: 4.9699767e-10 reward: 1 dis_reward:0.99999976 action: [352, 3570, 60, 1381, 1805, 3323, 6238, 360, 512, 14232, 3]
+------------next session:3969------------
+current_click: 29327 next_click: 16015 purchase_prob: 1.3336827e-09 reward: 1 dis_reward:0.99999934 action: [16015, 2969, 462, 11, 2323, 4528, 1990, 5214, 275, 8583, 3]
+current_click: 16015 next_click: 3 purchase_prob: 6.5467884e-07 reward: 1 dis_reward:0.99999976 action: [3630, 171, 1118, 120, 1594, 231, 280, 2141, 745, 1408, 3]
+------------next session:3970------------
+current_click: 46 next_click: 21828 purchase_prob: 1.7783225e-07 reward: 1 dis_reward:0.63893163 action: [9308, 21548, 1870, 9594, 5162, 21828, 5773, 883, 7043, 3614, 3]
+current_click: 21828 next_click: 3385 purchase_prob: 5.979496e-06 reward: 1 dis_reward:0.20377807 action: [3385, 46, 11575, 3989, 1685, 4136, 1692, 1028, 13485, 4749, 3]
+current_click: 3385 next_click: 3385 purchase_prob: 5.979496e-06 reward: 1 dis_reward:0.82704276 action: [3385, 26, 1064, 782, 496, 340, 239, 382, 622, 227, 3]
+current_click: 3385 next_click: 3 purchase_prob: 7.969762e-08 reward: 1 dis_reward:0.68361831 action: [3385, 19, 289, 3768, 1222, 136, 383, 177, 571, 95, 3]
+------------next session:3971------------
+current_click: 778 next_click: 7607 purchase_prob: 3.6122663e-09 reward: 1 dis_reward:0.69648027 action: [16322, 778, 7607, 2809, 1317, 3527, 8419, 487, 9152, 20971, 3]
+current_click: 7607 next_click: 3 purchase_prob: 0.34967703 reward: 1 dis_reward:0.74465114 action: [8419, 2007, 10581, 1552, 11242, 1812, 3560, 7439, 646, 778, 3]
+------------next session:3972------------
+current_click: 549 next_click: 13874 purchase_prob: 3.3770938e-13 reward: 1 dis_reward:0.03922058 action: [549, 1664, 7477, 6842, 452, 247, 17475, 111, 269, 13874, 3]
+current_click: 13874 next_click: 3 purchase_prob: 0.0015961741 reward: 1 dis_reward:0.00914622 action: [13, 250, 411, 1052, 5463, 2720, 5444, 2128, 1293, 595, 3]
+------------next session:3973------------
+current_click: 21473 next_click: 21473 purchase_prob: 1.6329416e-06 reward: 1 dis_reward:1.00000000 action: [21473, 369, 1612, 6298, 2498, 1046, 1528, 9438, 4950, 233, 3]
+current_click: 21473 next_click: 3 purchase_prob: 0.004581103 reward: 1 dis_reward:1.00000000 action: [21473, 4477, 4, 193, 918, 651, 156, 361, 245, 2385, 3]
+------------next session:3974------------
+current_click: 5335 next_click: 22924 purchase_prob: 3.4337514e-05 reward: 1 dis_reward:0.81260806 action: [561, 22924, 651, 5335, 244, 1588, 7445, 5183, 344, 4581, 3]
+current_click: 22924 next_click: 29556 purchase_prob: 3.1486536e-06 reward: 1 dis_reward:0.97373599 action: [29556, 12401, 13662, 2838, 8168, 22924, 1721, 1030, 36529, 21378, 3]
+current_click: 29556 next_click: 22924 purchase_prob: 3.433745e-05 reward: 1 dis_reward:0.86077863 action: [22924, 5164, 7779, 3053, 5357, 876, 11697, 6501, 4930, 27860, 3]
+current_click: 22924 next_click: 23182 purchase_prob: 0.000622568 reward: 1 dis_reward:0.95996457 action: [23182, 21771, 22924, 9773, 431, 3289, 2602, 6262, 2497, 2867, 3]
+------------next session:3975------------
+current_click: 269 next_click: 1848 purchase_prob: 0.00016852864 reward: 1 dis_reward:1.00000000 action: [2304, 1848, 5082, 1055, 8, 5461, 480, 657, 793, 348, 3]
+current_click: 1848 next_click: 921 purchase_prob: 1.1728815e-08 reward: 1 dis_reward:1.00000000 action: [921, 793, 6131, 348, 1683, 3844, 130, 525, 332, 37, 3]
+current_click: 921 next_click: 13027 purchase_prob: 4.121533e-08 reward: 1 dis_reward:1.00000000 action: [13027, 2534, 10670, 5600, 1464, 40, 6949, 1289, 7234, 1080, 3]
+current_click: 13027 next_click: 10670 purchase_prob: 2.0708502e-10 reward: 1 dis_reward:1.00000000 action: [1273, 4606, 243, 2784, 2924, 10670, 4084, 1301, 17446, 1723, 3]
+------------next session:3976------------
+current_click: 474 next_click: 156 purchase_prob: 1.15838105e-07 reward: 1 dis_reward:0.98314792 action: [4374, 474, 710, 219, 3590, 2580, 4830, 15568, 156, 107, 3]
+current_click: 156 next_click: 3 purchase_prob: 0.011498888 reward: 1 dis_reward:0.99293303 action: [219, 2188, 18, 1222, 659, 13, 326, 474, 1318, 6452, 3]
+------------next session:3977------------
+current_click: 1887 next_click: 13883 purchase_prob: 0.008139132 reward: 1 dis_reward:0.55213177 action: [12787, 23860, 15159, 13883, 4980, 4485, 6562, 5158, 11067, 8774, 3]
+current_click: 13883 next_click: 3 purchase_prob: 1.2495955e-06 reward: 1 dis_reward:0.67484999 action: [168, 37, 4485, 4481, 622, 120, 1090, 322, 671, 219, 3]
+------------next session:3978------------
+current_click: 501 next_click: 27952 purchase_prob: 3.7516364e-07 reward: 1 dis_reward:0.99967593 action: [446, 30, 243, 302, 2365, 223, 167, 4719, 27952, 772, 3]
+current_click: 27952 next_click: 3006 purchase_prob: 1.4532373e-05 reward: 1 dis_reward:0.99999678 action: [3006, 610, 302, 2033, 4182, 6860, 3779, 2792, 233, 5012, 3]
+current_click: 3006 next_click: 3 purchase_prob: 3.3991491e-06 reward: 1 dis_reward:0.99999535 action: [302, 1855, 929, 2583, 4189, 742, 97, 1018, 3006, 1725, 3]
+------------next session:3979------------
+current_click: 10576 next_click: 20 purchase_prob: 9.192322e-06 reward: 1 dis_reward:0.99353468 action: [20, 104, 200, 935, 267, 8, 102, 111, 3398, 438, 3]
+current_click: 20 next_click: 3 purchase_prob: 8.091659e-11 reward: 1 dis_reward:0.99139810 action: [2729, 2008, 3553, 215, 71, 15, 670, 1455, 422, 1039, 3]
+------------next session:3980------------
+current_click: 18706 next_click: 28838 purchase_prob: 5.945481e-06 reward: 1 dis_reward:0.91137445 action: [28838, 3298, 13331, 22085, 39020, 3515, 330, 2339, 21618, 1343, 3]
+current_click: 28838 next_click: 5251 purchase_prob: 1.2008571e-05 reward: 1 dis_reward:0.87192214 action: [5251, 106, 214, 824, 6968, 332, 3673, 466, 721, 4214, 3]
+current_click: 5251 next_click: 13418 purchase_prob: 0.99954295 reward: 4 dis_reward:0.92327058 action: [13418, 2571, 43, 4072, 454, 28, 132, 6760, 5748, 520, 3]
+current_click: 13418 next_click: 3 purchase_prob: 0.021771826 reward: 1 dis_reward:0.93254864 action: [1993, 1808, 6484, 13418, 332, 65, 1385, 809, 27, 252, 3]
+------------next session:3981------------
+current_click: 1656 next_click: 29520 purchase_prob: 3.0827433e-08 reward: 1 dis_reward:0.00020809 action: [1656, 5102, 7657, 1922, 29520, 1187, 15053, 1475, 20544, 25879, 3]
+current_click: 29520 next_click: 2175 purchase_prob: 1.1977004e-10 reward: 1 dis_reward:0.00218945 action: [12286, 7834, 7105, 2175, 3224, 2979, 14341, 29520, 4377, 324, 3]
+current_click: 2175 next_click: 4649 purchase_prob: 0.000751524 reward: 1 dis_reward:1.00000000 action: [20514, 9896, 1922, 4649, 34438, 813, 3047, 4928, 3650, 16199, 3]
+current_click: 4649 next_click: 3 purchase_prob: 5.125952e-07 reward: 1 dis_reward:1.00000000 action: [666, 1922, 3900, 15653, 1553, 273, 11583, 2106, 8757, 2699, 3]
+------------next session:3982------------
+current_click: 455 next_click: 2175 purchase_prob: 1.1098985e-12 reward: 1 dis_reward:0.93846911 action: [16239, 445, 850, 2175, 557, 2073, 33, 4064, 11453, 4346, 3]
+current_click: 2175 next_click: 3 purchase_prob: 7.010415e-12 reward: 1 dis_reward:0.95090014 action: [7852, 1293, 6587, 1159, 15457, 17930, 17054, 6397, 129, 4415, 3]
+------------next session:3983------------
+current_click: 1691 next_click: 2075 purchase_prob: 6.114231e-08 reward: 1 dis_reward:0.99994218 action: [1691, 3048, 1670, 147, 552, 3242, 2075, 1844, 2677, 307, 3]
+current_click: 2075 next_click: 619 purchase_prob: 0.0053478926 reward: 1 dis_reward:0.99985474 action: [245, 619, 43, 1296, 1558, 1797, 988, 1671, 1691, 959, 3]
+current_click: 619 next_click: 3 purchase_prob: 0.91371 reward: 4 dis_reward:0.99984241 action: [23, 43, 487, 119, 56, 619, 48, 16222, 4972, 131, 3]
+------------next session:3984------------
+current_click: 1333 next_click: 15019 purchase_prob: 0.025690533 reward: 1 dis_reward:0.99851608 action: [15019, 442, 84, 148, 18608, 29627, 1586, 3741, 2129, 30, 3]
+current_click: 15019 next_click: 2876 purchase_prob: 2.1189167e-07 reward: 1 dis_reward:0.99999952 action: [2876, 796, 5681, 9593, 148, 75, 6209, 103, 2062, 8001, 3]
+current_click: 2876 next_click: 3 purchase_prob: 0.00090917334 reward: 1 dis_reward:0.99999917 action: [1577, 2876, 67, 405, 855, 440, 3483, 4246, 666, 1122, 3]
+------------next session:3985------------
+current_click: 2385 next_click: 388 purchase_prob: 0.0003738423 reward: 1 dis_reward:0.18013322 action: [388, 4964, 500, 376, 1451, 141, 26, 3379, 2702, 1218, 3]
+current_click: 388 next_click: 264 purchase_prob: 0.63607264 reward: 4 dis_reward:0.00017535 action: [371, 264, 891, 1945, 388, 9, 103, 2669, 623, 146, 3]
+current_click: 264 next_click: 3 purchase_prob: 2.0641128e-16 reward: 1 dis_reward:0.00023203 action: [264, 11, 254, 45, 4350, 29, 85, 109, 19, 388, 3]
+------------next session:3986------------
+current_click: 17918 next_click: 1434 purchase_prob: 2.8518986e-07 reward: 1 dis_reward:0.99994022 action: [9842, 5045, 806, 7302, 1834, 5967, 1434, 1032, 1019, 1416, 3]
+current_click: 1434 next_click: 3 purchase_prob: 0.0001046972 reward: 1 dis_reward:0.99992847 action: [3452, 6892, 2780, 5531, 818, 5967, 2839, 1086, 606, 12583, 3]
+------------next session:3987------------
+current_click: 5129 next_click: 1237 purchase_prob: 3.5288558e-10 reward: 1 dis_reward:0.99999321 action: [4631, 4924, 4679, 242, 1237, 18925, 5091, 1504, 1448, 5938, 3]
+current_click: 1237 next_click: 3896 purchase_prob: 3.4027214e-14 reward: 1 dis_reward:0.99999750 action: [861, 5300, 6151, 146, 3896, 66, 2555, 1089, 6496, 2641, 3]
+current_click: 3896 next_click: 3 purchase_prob: 3.4027214e-14 reward: 1 dis_reward:1.00000000 action: [119, 1060, 558, 2748, 167, 1230, 38411, 37, 956, 1660, 3]
+------------next session:3988------------
+current_click: 28 next_click: 34698 purchase_prob: 2.2840997e-05 reward: 1 dis_reward:1.00000000 action: [3379, 11, 34698, 322, 13424, 24, 3227, 255, 28, 121, 3]
+current_click: 34698 next_click: 28 purchase_prob: 1.6398084e-05 reward: 1 dis_reward:1.00000000 action: [2609, 1391, 28, 183, 322, 296, 723, 421, 763, 1022, 3]
+current_click: 28 next_click: 49 purchase_prob: 1.001625e-10 reward: 1 dis_reward:1.00000000 action: [33107, 226, 3379, 49, 322, 2584, 1307, 236, 11, 469, 3]
+current_click: 49 next_click: 3 purchase_prob: 4.7035283e-07 reward: 1 dis_reward:1.00000000 action: [469, 33107, 78, 115, 396, 4955, 322, 494, 11608, 120, 3]
+------------next session:3989------------
+current_click: 181 next_click: 4394 purchase_prob: 9.6345875e-06 reward: 1 dis_reward:0.87915850 action: [1089, 181, 1862, 1462, 120, 167, 4, 4394, 667, 2988, 3]
+current_click: 4394 next_click: 4394 purchase_prob: 9.634606e-06 reward: 1 dis_reward:0.49626547 action: [37, 4394, 1089, 1075, 94, 5671, 474, 1839, 118, 6415, 3]
+current_click: 4394 next_click: 283 purchase_prob: 4.705503e-05 reward: 1 dis_reward:0.96259415 action: [283, 427, 1444, 468, 179, 312, 5731, 158, 14928, 1854, 3]
+current_click: 283 next_click: 3 purchase_prob: 6.3997776e-13 reward: 1 dis_reward:0.97238886 action: [139, 2272, 283, 391, 43, 1150, 268, 2561, 74, 5, 3]
+------------next session:3990------------
+current_click: 1703 next_click: 2678 purchase_prob: 7.489941e-05 reward: 1 dis_reward:0.93415326 action: [8209, 3986, 6768, 882, 3809, 2517, 3089, 3308, 2678, 844, 3]
+current_click: 2678 next_click: 3 purchase_prob: 0.8725032 reward: 4 dis_reward:0.92938018 action: [381, 22, 2191, 447, 155, 551, 521, 1177, 121, 2102, 3]
+------------next session:3991------------
+current_click: 7851 next_click: 5070 purchase_prob: 6.989969e-05 reward: 1 dis_reward:0.98804605 action: [2548, 77, 5070, 20, 10004, 117, 381, 1947, 1536, 1096, 3]
+current_click: 5070 next_click: 3 purchase_prob: 0.016201185 reward: 1 dis_reward:0.98163307 action: [424, 117, 4, 1174, 554, 4061, 1643, 2566, 491, 2548, 3]
+------------next session:3992------------
+current_click: 2285 next_click: 1579 purchase_prob: 1.3812819e-10 reward: 1 dis_reward:1.00000000 action: [6563, 1579, 22654, 77, 705, 12530, 23276, 18286, 7183, 454, 3]
+current_click: 1579 next_click: 2081 purchase_prob: 4.014196e-08 reward: 1 dis_reward:0.99999857 action: [289, 2850, 494, 32, 609, 6, 1332, 341, 74, 2081, 3]
+current_click: 2081 next_click: 1427 purchase_prob: 4.898327e-07 reward: 1 dis_reward:0.99999750 action: [463, 1427, 1124, 4922, 577, 10759, 1020, 546, 527, 1595, 3]
+current_click: 1427 next_click: 289 purchase_prob: 3.05588e-11 reward: 1 dis_reward:1.00000000 action: [724, 575, 3063, 1949, 197, 2353, 289, 119, 994, 203, 3]
+------------next session:3993------------
+current_click: 139 next_click: 50 purchase_prob: 7.350324e-06 reward: 1 dis_reward:0.98862773 action: [59, 139, 5125, 3069, 167, 230, 625, 3173, 50, 178, 3]
+current_click: 50 next_click: 3 purchase_prob: 3.1003845e-13 reward: 1 dis_reward:0.98926777 action: [2674, 178, 59, 766, 485, 992, 2350, 229, 1474, 2730, 3]
+------------next session:3994------------
+current_click: 36634 next_click: 5052 purchase_prob: 1.0652329e-09 reward: 1 dis_reward:0.00339527 action: [5052, 400, 144, 3652, 1258, 161, 705, 11303, 692, 437, 3]
+current_click: 5052 next_click: 3 purchase_prob: 3.1667696e-11 reward: 1 dis_reward:0.01453567 action: [233, 144, 1706, 2729, 61, 155, 330, 358, 10697, 5052, 3]
+------------next session:3995------------
+current_click: 1184 next_click: 915 purchase_prob: 0.9969829 reward: 4 dis_reward:0.07456933 action: [915, 339, 2853, 959, 12178, 6653, 9457, 34, 664, 13480, 3]
+current_click: 915 next_click: 3 purchase_prob: 0.99040776 reward: 4 dis_reward:0.06137331 action: [2322, 350, 613, 13480, 394, 1618, 84, 442, 132, 998, 3]
+------------next session:3996------------
+current_click: 16864 next_click: 21555 purchase_prob: 3.215062e-15 reward: 1 dis_reward:0.95008993 action: [21555, 813, 2310, 11729, 1283, 9671, 1353, 672, 10663, 930, 3]
+current_click: 21555 next_click: 3 purchase_prob: 0.9271958 reward: 4 dis_reward:0.96471679 action: [58, 2767, 315, 1790, 89, 310, 841, 12422, 28, 4024, 3]
+------------next session:3997------------
+current_click: 18238 next_click: 459 purchase_prob: 5.1064104e-05 reward: 1 dis_reward:0.93965971 action: [1002, 712, 3722, 531, 1080, 2730, 7555, 459, 4442, 710, 3]
+current_click: 459 next_click: 744 purchase_prob: 2.4494548e-07 reward: 1 dis_reward:0.99999559 action: [544, 2261, 741, 744, 1080, 82, 545, 61, 395, 6843, 3]
+current_click: 744 next_click: 744 purchase_prob: 6.103084e-11 reward: 1 dis_reward:0.99998534 action: [1790, 3667, 1864, 4016, 744, 109, 257, 2598, 1301, 270, 3]
+current_click: 744 next_click: 712 purchase_prob: 6.103084e-11 reward: 1 dis_reward:0.99980479 action: [1864, 227, 408, 19706, 1169, 61, 146, 1197, 545, 712, 3]
+------------next session:3998------------
+current_click: 1578 next_click: 552 purchase_prob: 9.949955e-10 reward: 1 dis_reward:0.95466393 action: [84, 59, 1775, 625, 208, 538, 8890, 85, 2710, 552, 3]
+current_click: 552 next_click: 243 purchase_prob: 1.1239912e-08 reward: 1 dis_reward:0.99161541 action: [1728, 7799, 3735, 207, 6423, 4092, 288, 243, 4994, 619, 3]
+current_click: 243 next_click: 3 purchase_prob: 3.9717484e-06 reward: 1 dis_reward:0.99488789 action: [5683, 5782, 6171, 2077, 7014, 9663, 228, 772, 742, 1459, 3]
+------------next session:3999------------
+current_click: 1745 next_click: 933 purchase_prob: 2.3881566e-06 reward: 1 dis_reward:1.00000000 action: [4320, 1740, 1644, 933, 281, 1083, 1200, 605, 5490, 1063, 3]
+current_click: 933 next_click: 213 purchase_prob: 2.4642068e-06 reward: 1 dis_reward:1.00000000 action: [5992, 915, 687, 34, 213, 56, 2539, 1582, 72, 95, 3]
+current_click: 213 next_click: 3 purchase_prob: 2.3725713e-10 reward: 1 dis_reward:1.00000000 action: [56, 27, 5992, 1862, 5326, 270, 207, 4, 966, 34, 3]
+------------next session:4000------------
+current_click: 6276 next_click: 25120 purchase_prob: 3.6418123e-13 reward: 1 dis_reward:0.98757428 action: [10708, 25120, 15594, 7138, 1775, 5174, 6588, 8383, 5935, 23601, 3]
